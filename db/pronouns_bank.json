@@ -1,0 +1,1472 @@
+[
+  {
+    "code": "PRO-SUBJ-001",
+    "lesson_slug": "subject-pronouns",
+    "stem": "___ am learning English today.",
+    "difficulty": "easy",
+    "options": [
+      "Mine",
+      "I",
+      "Me",
+      "My"
+    ],
+    "correct_index": 1,
+    "explanation": "I adalah subject pronoun orang pertama tunggal."
+  },
+  {
+    "code": "PRO-SUBJ-002",
+    "lesson_slug": "subject-pronouns",
+    "stem": "___ is my brother, Alex.",
+    "difficulty": "easy",
+    "options": [
+      "His",
+      "Himself",
+      "He",
+      "Him"
+    ],
+    "correct_index": 2,
+    "explanation": "He dipakai sebagai subjek laki-laki tunggal."
+  },
+  {
+    "code": "PRO-SUBJ-003",
+    "lesson_slug": "subject-pronouns",
+    "stem": "Anna is a nurse. ___ works at a hospital.",
+    "difficulty": "easy",
+    "options": [
+      "Her",
+      "Hers",
+      "They",
+      "She"
+    ],
+    "correct_index": 3,
+    "explanation": "She menggantikan Anna sebagai subjek."
+  },
+  {
+    "code": "PRO-SUBJ-004",
+    "lesson_slug": "subject-pronouns",
+    "stem": "My friends are here. ___ are waiting outside.",
+    "difficulty": "easy",
+    "options": [
+      "They",
+      "Them",
+      "Their",
+      "It"
+    ],
+    "correct_index": 0,
+    "explanation": "They menggantikan friends (jamak) sebagai subjek."
+  },
+  {
+    "code": "PRO-SUBJ-005",
+    "lesson_slug": "subject-pronouns",
+    "stem": "My sister and I are ready. ___ can start now.",
+    "difficulty": "easy",
+    "options": [
+      "Them",
+      "We",
+      "Us",
+      "Our"
+    ],
+    "correct_index": 1,
+    "explanation": "We mencakup pembicara dan orang lain sebagai subjek."
+  },
+  {
+    "code": "PRO-SUBJ-006",
+    "lesson_slug": "subject-pronouns",
+    "stem": "The laptop is new. ___ works very well.",
+    "difficulty": "medium",
+    "options": [
+      "Him",
+      "They",
+      "It",
+      "He"
+    ],
+    "correct_index": 2,
+    "explanation": "It adalah pronoun untuk satu benda."
+  },
+  {
+    "code": "PRO-SUBJ-007",
+    "lesson_slug": "subject-pronouns",
+    "stem": "___ are my English teacher, Mr. David.",
+    "difficulty": "medium",
+    "options": [
+      "Your",
+      "Yours",
+      "Me",
+      "You"
+    ],
+    "correct_index": 3,
+    "explanation": "You berfungsi sebagai subjek orang yang diajak bicara."
+  },
+  {
+    "code": "PRO-SUBJ-008",
+    "lesson_slug": "subject-pronouns",
+    "stem": "Mr. Lee drives to work. ___ leaves at seven.",
+    "difficulty": "medium",
+    "options": [
+      "He",
+      "Him",
+      "His",
+      "Them"
+    ],
+    "correct_index": 0,
+    "explanation": "Mr. Lee menjadi subjek he."
+  },
+  {
+    "code": "PRO-SUBJ-009",
+    "lesson_slug": "subject-pronouns",
+    "stem": "The children look excited. ___ are going on a trip.",
+    "difficulty": "medium",
+    "options": [
+      "We",
+      "They",
+      "Their",
+      "Them"
+    ],
+    "correct_index": 1,
+    "explanation": "Children bentuk jamak, gunakan they."
+  },
+  {
+    "code": "PRO-SUBJ-010",
+    "lesson_slug": "subject-pronouns",
+    "stem": "My mother and father are home. ___ are cooking dinner.",
+    "difficulty": "medium",
+    "options": [
+      "He",
+      "Her",
+      "They",
+      "Them"
+    ],
+    "correct_index": 2,
+    "explanation": "Dua orang menjadi subject pronoun they."
+  },
+  {
+    "code": "PRO-SUBJ-011",
+    "lesson_slug": "subject-pronouns",
+    "stem": "The weather is beautiful. ___ is sunny today.",
+    "difficulty": "hard",
+    "options": [
+      "They",
+      "He",
+      "We",
+      "It"
+    ],
+    "correct_index": 3,
+    "explanation": "It bisa menjadi subjek untuk weather."
+  },
+  {
+    "code": "PRO-SUBJ-012",
+    "lesson_slug": "subject-pronouns",
+    "stem": "___ are responsible for this assignment, Lisa and I.",
+    "difficulty": "hard",
+    "options": [
+      "We",
+      "Us",
+      "Them",
+      "Her"
+    ],
+    "correct_index": 0,
+    "explanation": "Lisa and I adalah we sebagai subjek."
+  },
+  {
+    "code": "PRO-SUBJ-013",
+    "lesson_slug": "subject-pronouns",
+    "stem": "This is my friend Tim. ___ speaks three languages.",
+    "difficulty": "hard",
+    "options": [
+      "His",
+      "He",
+      "Him",
+      "They"
+    ],
+    "correct_index": 1,
+    "explanation": "He menjadi subjek yang menggantikan Tim."
+  },
+  {
+    "code": "PRO-SUBJ-014",
+    "lesson_slug": "subject-pronouns",
+    "stem": "My uncle and aunt live nearby. ___ visit us often.",
+    "difficulty": "hard",
+    "options": [
+      "Their",
+      "It",
+      "They",
+      "Them"
+    ],
+    "correct_index": 2,
+    "explanation": "Subjek untuk dua orang adalah they."
+  },
+  {
+    "code": "PRO-SUBJ-015",
+    "lesson_slug": "subject-pronouns",
+    "stem": "___ is the correct form: 'She runs', not 'Her runs'.",
+    "difficulty": "hard",
+    "options": [
+      "Her",
+      "Hers",
+      "Herself",
+      "She"
+    ],
+    "correct_index": 3,
+    "explanation": "Sebelum kata kerja runs diperlukan subject pronoun she."
+  },
+  {
+    "code": "PRO-OBJE-001",
+    "lesson_slug": "object-pronouns",
+    "stem": "Please call ___ when you arrive.",
+    "difficulty": "easy",
+    "options": [
+      "my",
+      "mine",
+      "me",
+      "I"
+    ],
+    "correct_index": 2,
+    "explanation": "Setelah kata kerja call diperlukan object pronoun me."
+  },
+  {
+    "code": "PRO-OBJE-002",
+    "lesson_slug": "object-pronouns",
+    "stem": "I saw Daniel yesterday. I greeted ___.",
+    "difficulty": "easy",
+    "options": [
+      "he",
+      "his",
+      "himself",
+      "him"
+    ],
+    "correct_index": 3,
+    "explanation": "Him sebagai objek dari greeted."
+  },
+  {
+    "code": "PRO-OBJE-003",
+    "lesson_slug": "object-pronouns",
+    "stem": "Our teacher helped ___ with the lesson.",
+    "difficulty": "easy",
+    "options": [
+      "us",
+      "we",
+      "our",
+      "ours"
+    ],
+    "correct_index": 0,
+    "explanation": "Us adalah objek untuk we."
+  },
+  {
+    "code": "PRO-OBJE-004",
+    "lesson_slug": "object-pronouns",
+    "stem": "Sarah is kind. Everyone likes ___.",
+    "difficulty": "easy",
+    "options": [
+      "herself",
+      "her",
+      "she",
+      "hers"
+    ],
+    "correct_index": 1,
+    "explanation": "Her adalah objek kata kerja likes."
+  },
+  {
+    "code": "PRO-OBJE-005",
+    "lesson_slug": "object-pronouns",
+    "stem": "The dogs are hungry. Please feed ___.",
+    "difficulty": "easy",
+    "options": [
+      "their",
+      "theirs",
+      "them",
+      "they"
+    ],
+    "correct_index": 2,
+    "explanation": "Them adalah objek untuk dogs."
+  },
+  {
+    "code": "PRO-OBJE-006",
+    "lesson_slug": "object-pronouns",
+    "stem": "Could you explain the rule to ___?",
+    "difficulty": "medium",
+    "options": [
+      "I",
+      "my",
+      "mine",
+      "me"
+    ],
+    "correct_index": 3,
+    "explanation": "Setelah preposition to gunakan me."
+  },
+  {
+    "code": "PRO-OBJE-007",
+    "lesson_slug": "object-pronouns",
+    "stem": "I bought this book for ___.",
+    "difficulty": "medium",
+    "options": [
+      "you",
+      "your",
+      "yours",
+      "yourself"
+    ],
+    "correct_index": 0,
+    "explanation": "You dapat berfungsi sebagai objek."
+  },
+  {
+    "code": "PRO-OBJE-008",
+    "lesson_slug": "object-pronouns",
+    "stem": "My father invited my brother and ___.",
+    "difficulty": "medium",
+    "options": [
+      "mine",
+      "me",
+      "I",
+      "my"
+    ],
+    "correct_index": 1,
+    "explanation": "Setelah invited gunakan me, bukan I."
+  },
+  {
+    "code": "PRO-OBJE-009",
+    "lesson_slug": "object-pronouns",
+    "stem": "The manager spoke to Emma and ___.",
+    "difficulty": "medium",
+    "options": [
+      "his",
+      "himself",
+      "him",
+      "he"
+    ],
+    "correct_index": 2,
+    "explanation": "Setelah spoke to memerlukan him sebagai object pronoun."
+  },
+  {
+    "code": "PRO-OBJE-010",
+    "lesson_slug": "object-pronouns",
+    "stem": "Please put the keys on the table. Do not lose ___.",
+    "difficulty": "medium",
+    "options": [
+      "they",
+      "their",
+      "theirs",
+      "them"
+    ],
+    "correct_index": 3,
+    "explanation": "Keys jamak, objeknya them."
+  },
+  {
+    "code": "PRO-OBJE-011",
+    "lesson_slug": "object-pronouns",
+    "stem": "I do not know the answer. Can you tell ___?",
+    "difficulty": "hard",
+    "options": [
+      "me",
+      "I",
+      "mine",
+      "my"
+    ],
+    "correct_index": 0,
+    "explanation": "Tell me memerlukan object pronoun."
+  },
+  {
+    "code": "PRO-OBJE-012",
+    "lesson_slug": "object-pronouns",
+    "stem": "Lucy is waiting for ___.",
+    "difficulty": "hard",
+    "options": [
+      "ours",
+      "us",
+      "we",
+      "our"
+    ],
+    "correct_index": 1,
+    "explanation": "Setelah for gunakan us."
+  },
+  {
+    "code": "PRO-OBJE-013",
+    "lesson_slug": "object-pronouns",
+    "stem": "The cat looks tired. Let's leave ___ alone.",
+    "difficulty": "hard",
+    "options": [
+      "they",
+      "their",
+      "it",
+      "its"
+    ],
+    "correct_index": 2,
+    "explanation": "It sebagai objek untuk cat tunggal."
+  },
+  {
+    "code": "PRO-OBJE-014",
+    "lesson_slug": "object-pronouns",
+    "stem": "The teacher asked Tom and ___ to stay.",
+    "difficulty": "hard",
+    "options": [
+      "she",
+      "hers",
+      "herself",
+      "her"
+    ],
+    "correct_index": 3,
+    "explanation": "Her dipakai sebagai objek ask."
+  },
+  {
+    "code": "PRO-OBJE-015",
+    "lesson_slug": "object-pronouns",
+    "stem": "Between you and ___, this is difficult.",
+    "difficulty": "hard",
+    "options": [
+      "me",
+      "I",
+      "my",
+      "mine"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah preposition between, gunakan me."
+  },
+  {
+    "code": "PRO-POSS-001",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "This is ___ pencil. (I)",
+    "difficulty": "easy",
+    "options": [
+      "me",
+      "myself",
+      "my",
+      "mine"
+    ],
+    "correct_index": 2,
+    "explanation": "My adalah possessive adjective sebelum noun pencil."
+  },
+  {
+    "code": "PRO-POSS-002",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "The red backpack is ___. (she)",
+    "difficulty": "easy",
+    "options": [
+      "her",
+      "she",
+      "herself",
+      "hers"
+    ],
+    "correct_index": 3,
+    "explanation": "Hers adalah possessive pronoun tanpa noun setelahnya."
+  },
+  {
+    "code": "PRO-POSS-003",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "Is this ___ notebook? (you)",
+    "difficulty": "easy",
+    "options": [
+      "your",
+      "yours",
+      "you",
+      "yourself"
+    ],
+    "correct_index": 0,
+    "explanation": "Your dipakai tepat sebelum notebook."
+  },
+  {
+    "code": "PRO-POSS-004",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "Those seats are ___. (we)",
+    "difficulty": "easy",
+    "options": [
+      "we",
+      "ours",
+      "our",
+      "us"
+    ],
+    "correct_index": 1,
+    "explanation": "Ours berdiri sendiri tanpa noun."
+  },
+  {
+    "code": "PRO-POSS-005",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "I like ___ new shoes. (they)",
+    "difficulty": "easy",
+    "options": [
+      "them",
+      "they",
+      "their",
+      "theirs"
+    ],
+    "correct_index": 2,
+    "explanation": "Their sebelum noun shoes."
+  },
+  {
+    "code": "PRO-POSS-006",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "This house belongs to John. It is ___.",
+    "difficulty": "medium",
+    "options": [
+      "him",
+      "he",
+      "himself",
+      "his"
+    ],
+    "correct_index": 3,
+    "explanation": "His bisa berdiri sendiri sebagai possessive pronoun."
+  },
+  {
+    "code": "PRO-POSS-007",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "My phone is black, but ___ is white. (you)",
+    "difficulty": "medium",
+    "options": [
+      "yours",
+      "your",
+      "you",
+      "yourself"
+    ],
+    "correct_index": 0,
+    "explanation": "Yours menggantikan your phone."
+  },
+  {
+    "code": "PRO-POSS-008",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "The children are doing ___ homework.",
+    "difficulty": "medium",
+    "options": [
+      "they",
+      "their",
+      "theirs",
+      "them"
+    ],
+    "correct_index": 1,
+    "explanation": "Their adalah possessive adjective sebelum homework."
+  },
+  {
+    "code": "PRO-POSS-009",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "This is Anna's jacket. The jacket is ___.",
+    "difficulty": "medium",
+    "options": [
+      "she",
+      "herself",
+      "hers",
+      "her"
+    ],
+    "correct_index": 2,
+    "explanation": "Hers menggantikan Anna's jacket."
+  },
+  {
+    "code": "PRO-POSS-010",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "The company changed ___ policy.",
+    "difficulty": "medium",
+    "options": [
+      "it's",
+      "it",
+      "itself",
+      "its"
+    ],
+    "correct_index": 3,
+    "explanation": "Its adalah possessive determiner; it's berarti it is/it has."
+  },
+  {
+    "code": "PRO-POSS-011",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "The bicycle is not mine. It is ___. (he)",
+    "difficulty": "hard",
+    "options": [
+      "his",
+      "him",
+      "he",
+      "himself"
+    ],
+    "correct_index": 0,
+    "explanation": "His adalah possessive pronoun untuk he."
+  },
+  {
+    "code": "PRO-POSS-012",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "We cleaned ___ classroom before leaving.",
+    "difficulty": "hard",
+    "options": [
+      "we",
+      "our",
+      "ours",
+      "us"
+    ],
+    "correct_index": 1,
+    "explanation": "Our sebelum noun classroom."
+  },
+  {
+    "code": "PRO-POSS-013",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "The final decision is ___. (they)",
+    "difficulty": "hard",
+    "options": [
+      "them",
+      "they",
+      "theirs",
+      "their"
+    ],
+    "correct_index": 2,
+    "explanation": "Theirs berdiri sendiri setelah is."
+  },
+  {
+    "code": "PRO-POSS-014",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "___ idea sounds interesting. (you)",
+    "difficulty": "hard",
+    "options": [
+      "Yours",
+      "You",
+      "Yourself",
+      "Your"
+    ],
+    "correct_index": 3,
+    "explanation": "Your sebelum noun idea."
+  },
+  {
+    "code": "PRO-POSS-015",
+    "lesson_slug": "possessive-pronouns",
+    "stem": "I have my ticket. Does Maya have ___?",
+    "difficulty": "hard",
+    "options": [
+      "hers",
+      "her",
+      "she",
+      "herself"
+    ],
+    "correct_index": 0,
+    "explanation": "Hers mewakili her ticket sehingga noun tidak diulang."
+  },
+  {
+    "code": "PRO-REFL-001",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "I made this cake by ___.",
+    "difficulty": "easy",
+    "options": [
+      "me",
+      "mine",
+      "my",
+      "myself"
+    ],
+    "correct_index": 3,
+    "explanation": "By myself berarti melakukannya sendiri."
+  },
+  {
+    "code": "PRO-REFL-002",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "He hurt ___ while playing football.",
+    "difficulty": "easy",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "he"
+    ],
+    "correct_index": 0,
+    "explanation": "He dan objek merujuk orang sama: himself."
+  },
+  {
+    "code": "PRO-REFL-003",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "She taught ___ to play the guitar.",
+    "difficulty": "easy",
+    "options": [
+      "she",
+      "herself",
+      "her",
+      "hers"
+    ],
+    "correct_index": 1,
+    "explanation": "Subject she dan objek orang sama memakai herself."
+  },
+  {
+    "code": "PRO-REFL-004",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "We prepared the food ___.",
+    "difficulty": "easy",
+    "options": [
+      "our",
+      "ours",
+      "ourselves",
+      "us"
+    ],
+    "correct_index": 2,
+    "explanation": "We sebagai pelaku dan penegasan memakai ourselves."
+  },
+  {
+    "code": "PRO-REFL-005",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "Please help ___ to some cake, everyone.",
+    "difficulty": "easy",
+    "options": [
+      "yourself",
+      "your",
+      "yours",
+      "yourselves"
+    ],
+    "correct_index": 3,
+    "explanation": "Everyone diajak bicara sebagai kelompok: help yourselves."
+  },
+  {
+    "code": "PRO-REFL-006",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "The robot turned ___ off automatically.",
+    "difficulty": "medium",
+    "options": [
+      "itself",
+      "its",
+      "it",
+      "itselfs"
+    ],
+    "correct_index": 0,
+    "explanation": "Itself dipakai untuk benda tunggal."
+  },
+  {
+    "code": "PRO-REFL-007",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "The children dressed ___ before school.",
+    "difficulty": "medium",
+    "options": [
+      "theirs",
+      "themselves",
+      "them",
+      "their"
+    ],
+    "correct_index": 1,
+    "explanation": "Children jamak dan objek diri sendiri: themselves."
+  },
+  {
+    "code": "PRO-REFL-008",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "You should be proud of ___.",
+    "difficulty": "medium",
+    "options": [
+      "your",
+      "you",
+      "yourself",
+      "yours"
+    ],
+    "correct_index": 2,
+    "explanation": "Proud of yourself mengacu diri lawan bicara tunggal."
+  },
+  {
+    "code": "PRO-REFL-009",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "My friend and I fixed the bicycle ___.",
+    "difficulty": "medium",
+    "options": [
+      "myself",
+      "themselves",
+      "us",
+      "ourselves"
+    ],
+    "correct_index": 3,
+    "explanation": "My friend and I = we, jadi ourselves."
+  },
+  {
+    "code": "PRO-REFL-010",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "Tom looked at ___ in the mirror.",
+    "difficulty": "medium",
+    "options": [
+      "himself",
+      "him",
+      "his",
+      "he"
+    ],
+    "correct_index": 0,
+    "explanation": "Tom melihat dirinya sendiri: himself."
+  },
+  {
+    "code": "PRO-REFL-011",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "They built the shelter by ___.",
+    "difficulty": "hard",
+    "options": [
+      "their",
+      "themselves",
+      "them",
+      "theirs"
+    ],
+    "correct_index": 1,
+    "explanation": "By themselves berarti mereka membangunnya sendiri."
+  },
+  {
+    "code": "PRO-REFL-012",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "Be careful! Don't cut ___ with that knife.",
+    "difficulty": "hard",
+    "options": [
+      "your",
+      "you",
+      "yourself",
+      "yours"
+    ],
+    "correct_index": 2,
+    "explanation": "Cut yourself untuk lawan bicara tunggal."
+  },
+  {
+    "code": "PRO-REFL-013",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "The actress introduced ___ to the audience.",
+    "difficulty": "hard",
+    "options": [
+      "her",
+      "she",
+      "hers",
+      "herself"
+    ],
+    "correct_index": 3,
+    "explanation": "Pelaku she memperkenalkan dirinya: herself."
+  },
+  {
+    "code": "PRO-REFL-014",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "We enjoyed ___ at the party.",
+    "difficulty": "hard",
+    "options": [
+      "ourselves",
+      "us",
+      "our",
+      "ours"
+    ],
+    "correct_index": 0,
+    "explanation": "Enjoy ourselves berarti bersenang-senang."
+  },
+  {
+    "code": "PRO-REFL-015",
+    "lesson_slug": "reflexive-pronouns",
+    "stem": "The machine restarts ___ after an update.",
+    "difficulty": "hard",
+    "options": [
+      "themselves",
+      "itself",
+      "it",
+      "its"
+    ],
+    "correct_index": 1,
+    "explanation": "Machine tunggal menggunakan itself."
+  },
+  {
+    "code": "PRO-DEMO-001",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ is my pen here in my hand.",
+    "difficulty": "easy",
+    "options": [
+      "These",
+      "Those",
+      "They",
+      "This"
+    ],
+    "correct_index": 3,
+    "explanation": "This tunggal dekat pembicara."
+  },
+  {
+    "code": "PRO-DEMO-002",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ are my books here on the desk.",
+    "difficulty": "easy",
+    "options": [
+      "These",
+      "This",
+      "That",
+      "It"
+    ],
+    "correct_index": 0,
+    "explanation": "These untuk benda jamak dekat pembicara."
+  },
+  {
+    "code": "PRO-DEMO-003",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ is the mountain over there.",
+    "difficulty": "easy",
+    "options": [
+      "They",
+      "That",
+      "This",
+      "These"
+    ],
+    "correct_index": 1,
+    "explanation": "That untuk satu benda jauh."
+  },
+  {
+    "code": "PRO-DEMO-004",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ are the stars far away.",
+    "difficulty": "easy",
+    "options": [
+      "This",
+      "It",
+      "Those",
+      "That"
+    ],
+    "correct_index": 2,
+    "explanation": "Those untuk banyak benda jauh."
+  },
+  {
+    "code": "PRO-DEMO-005",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "Look at these two keys. ___ are mine.",
+    "difficulty": "easy",
+    "options": [
+      "This",
+      "That",
+      "It",
+      "These"
+    ],
+    "correct_index": 3,
+    "explanation": "These merujuk dua kunci dekat."
+  },
+  {
+    "code": "PRO-DEMO-006",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ is a beautiful painting on the opposite wall.",
+    "difficulty": "medium",
+    "options": [
+      "That",
+      "These",
+      "Those",
+      "They"
+    ],
+    "correct_index": 0,
+    "explanation": "Painting tunggal jauh: that."
+  },
+  {
+    "code": "PRO-DEMO-007",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "I prefer ___, not those, pointing to these shoes beside me.",
+    "difficulty": "medium",
+    "options": [
+      "it",
+      "these",
+      "this",
+      "that"
+    ],
+    "correct_index": 1,
+    "explanation": "These untuk shoes yang jamak dan dekat."
+  },
+  {
+    "code": "PRO-DEMO-008",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ is my favorite mug, right here.",
+    "difficulty": "medium",
+    "options": [
+      "These",
+      "They",
+      "This",
+      "Those"
+    ],
+    "correct_index": 2,
+    "explanation": "Mug tunggal dekat: this."
+  },
+  {
+    "code": "PRO-DEMO-009",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "Can you see ___ birds in that distant tree?",
+    "difficulty": "medium",
+    "options": [
+      "this",
+      "that",
+      "it",
+      "those"
+    ],
+    "correct_index": 3,
+    "explanation": "Those adalah determiner jamak jauh sebelum birds."
+  },
+  {
+    "code": "PRO-DEMO-010",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ apples in this basket are fresh.",
+    "difficulty": "medium",
+    "options": [
+      "These",
+      "This",
+      "That",
+      "It"
+    ],
+    "correct_index": 0,
+    "explanation": "These adalah determiner jamak dekat sebelum apples."
+  },
+  {
+    "code": "PRO-DEMO-011",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ chair beside you is broken.",
+    "difficulty": "hard",
+    "options": [
+      "They",
+      "That",
+      "These",
+      "Those"
+    ],
+    "correct_index": 1,
+    "explanation": "That dipakai sebelum chair tunggal di dekat lawan bicara (lebih jauh dari pembicara)."
+  },
+  {
+    "code": "PRO-DEMO-012",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ is the answer I was looking for, right here.",
+    "difficulty": "hard",
+    "options": [
+      "Those",
+      "They",
+      "This",
+      "These"
+    ],
+    "correct_index": 2,
+    "explanation": "This untuk jawaban tunggal yang ditunjuk dekat."
+  },
+  {
+    "code": "PRO-DEMO-013",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ people across the street are waving.",
+    "difficulty": "hard",
+    "options": [
+      "That",
+      "This",
+      "It",
+      "Those"
+    ],
+    "correct_index": 3,
+    "explanation": "Those untuk people jamak jauh."
+  },
+  {
+    "code": "PRO-DEMO-014",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "I don't want this sandwich. I want ___ one over there.",
+    "difficulty": "hard",
+    "options": [
+      "that",
+      "these",
+      "those",
+      "it"
+    ],
+    "correct_index": 0,
+    "explanation": "That digunakan sebagai determiner tunggal sebelum one di lokasi jauh."
+  },
+  {
+    "code": "PRO-DEMO-015",
+    "lesson_slug": "demonstrative-pronouns",
+    "stem": "___ are not my gloves here; they belong to Mia.",
+    "difficulty": "hard",
+    "options": [
+      "It",
+      "These",
+      "This",
+      "That"
+    ],
+    "correct_index": 1,
+    "explanation": "Gloves berbentuk jamak dan dekat: these."
+  },
+  {
+    "code": "PRO-RELA-001",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The woman ___ teaches us is very patient.",
+    "difficulty": "easy",
+    "options": [
+      "who",
+      "whose",
+      "which",
+      "where"
+    ],
+    "correct_index": 0,
+    "explanation": "Who merujuk orang sebagai subjek klausa relatif."
+  },
+  {
+    "code": "PRO-RELA-002",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The book ___ I borrowed is fascinating.",
+    "difficulty": "easy",
+    "options": [
+      "whom",
+      "that",
+      "who",
+      "whose"
+    ],
+    "correct_index": 1,
+    "explanation": "That dapat merujuk benda dalam klausa relatif pembatas."
+  },
+  {
+    "code": "PRO-RELA-003",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The student ___ bag is missing looks worried.",
+    "difficulty": "easy",
+    "options": [
+      "whom",
+      "which",
+      "whose",
+      "who"
+    ],
+    "correct_index": 2,
+    "explanation": "Whose menunjukkan kepemilikan bag."
+  },
+  {
+    "code": "PRO-RELA-004",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The machine ___ broke yesterday is working again.",
+    "difficulty": "easy",
+    "options": [
+      "who",
+      "whose",
+      "whom",
+      "that"
+    ],
+    "correct_index": 3,
+    "explanation": "That untuk benda dalam defining relative clause."
+  },
+  {
+    "code": "PRO-RELA-005",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The man to ___ I spoke was polite.",
+    "difficulty": "easy",
+    "options": [
+      "whom",
+      "whose",
+      "which",
+      "that"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah preposition to formal, gunakan whom untuk orang."
+  },
+  {
+    "code": "PRO-RELA-006",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The teacher ___ explained the rule was helpful.",
+    "difficulty": "medium",
+    "options": [
+      "which",
+      "who",
+      "whom",
+      "whose"
+    ],
+    "correct_index": 1,
+    "explanation": "Who bertindak sebagai subjek explained."
+  },
+  {
+    "code": "PRO-RELA-007",
+    "lesson_slug": "relative-pronouns",
+    "stem": "I met a scientist ___ research won an award.",
+    "difficulty": "medium",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correct_index": 2,
+    "explanation": "Whose menunjukkan research milik scientist."
+  },
+  {
+    "code": "PRO-RELA-008",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The bike ___ has a red frame belongs to Liam.",
+    "difficulty": "medium",
+    "options": [
+      "whom",
+      "who",
+      "whose",
+      "which"
+    ],
+    "correct_index": 3,
+    "explanation": "Which merujuk benda (bike) sebagai subjek."
+  },
+  {
+    "code": "PRO-RELA-009",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The person ___ you called is my cousin.",
+    "difficulty": "medium",
+    "options": [
+      "whom",
+      "whose",
+      "which",
+      "where"
+    ],
+    "correct_index": 0,
+    "explanation": "Whom dapat digunakan sebagai objek person yang dipanggil dalam formal English."
+  },
+  {
+    "code": "PRO-RELA-010",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The dog ___ tail is fluffy is friendly.",
+    "difficulty": "medium",
+    "options": [
+      "where",
+      "whose",
+      "whom",
+      "who"
+    ],
+    "correct_index": 1,
+    "explanation": "Whose dapat dipakai pada kepemilikan hewan."
+  },
+  {
+    "code": "PRO-RELA-011",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The house ___ stands on the hill is old.",
+    "difficulty": "hard",
+    "options": [
+      "who",
+      "whose",
+      "that",
+      "whom"
+    ],
+    "correct_index": 2,
+    "explanation": "That cocok untuk house dalam defining relative clause."
+  },
+  {
+    "code": "PRO-RELA-012",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The writer ___ books you love is visiting.",
+    "difficulty": "hard",
+    "options": [
+      "who",
+      "whom",
+      "which",
+      "whose"
+    ],
+    "correct_index": 3,
+    "explanation": "Whose menentukan buku milik writer."
+  },
+  {
+    "code": "PRO-RELA-013",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The laptop, ___ I bought last year, still works.",
+    "difficulty": "hard",
+    "options": [
+      "which",
+      "that",
+      "who",
+      "whose"
+    ],
+    "correct_index": 0,
+    "explanation": "Dalam non-defining relative clause berkomma, gunakan which, bukan that."
+  },
+  {
+    "code": "PRO-RELA-014",
+    "lesson_slug": "relative-pronouns",
+    "stem": "My uncle, ___ lives in Bandung, is an engineer.",
+    "difficulty": "hard",
+    "options": [
+      "whom",
+      "who",
+      "that",
+      "which"
+    ],
+    "correct_index": 1,
+    "explanation": "Non-defining clause untuk orang sebagai subjek memakai who."
+  },
+  {
+    "code": "PRO-RELA-015",
+    "lesson_slug": "relative-pronouns",
+    "stem": "The woman with ___ he worked has retired.",
+    "difficulty": "hard",
+    "options": [
+      "which",
+      "that",
+      "whom",
+      "whose"
+    ],
+    "correct_index": 2,
+    "explanation": "Setelah with sebagai preposition formal untuk orang gunakan whom."
+  },
+  {
+    "code": "PRO-INTE-001",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ is knocking at the door?",
+    "difficulty": "easy",
+    "options": [
+      "Whose",
+      "Which",
+      "Whom's",
+      "Who"
+    ],
+    "correct_index": 3,
+    "explanation": "Who menanyakan identitas orang yang menjadi subjek."
+  },
+  {
+    "code": "PRO-INTE-002",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ bag is this?",
+    "difficulty": "easy",
+    "options": [
+      "Whose",
+      "Who",
+      "Whom",
+      "What"
+    ],
+    "correct_index": 0,
+    "explanation": "Whose menanyakan kepemilikan bag."
+  },
+  {
+    "code": "PRO-INTE-003",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ do you prefer, tea or coffee?",
+    "difficulty": "easy",
+    "options": [
+      "Whom",
+      "Which",
+      "Who",
+      "Whose"
+    ],
+    "correct_index": 1,
+    "explanation": "Which cocok untuk pilihan yang disebutkan."
+  },
+  {
+    "code": "PRO-INTE-004",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ is your name?",
+    "difficulty": "easy",
+    "options": [
+      "Whose",
+      "Whom",
+      "What",
+      "Who"
+    ],
+    "correct_index": 2,
+    "explanation": "What menanyakan informasi nama."
+  },
+  {
+    "code": "PRO-INTE-005",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "To ___ did you send the email? (formal)",
+    "difficulty": "easy",
+    "options": [
+      "who's",
+      "whose",
+      "which",
+      "whom"
+    ],
+    "correct_index": 3,
+    "explanation": "To whom dipakai secara formal setelah preposition to."
+  },
+  {
+    "code": "PRO-INTE-006",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ made this delicious cake?",
+    "difficulty": "medium",
+    "options": [
+      "Who",
+      "Whom",
+      "Whose",
+      "Which's"
+    ],
+    "correct_index": 0,
+    "explanation": "Who menanyakan subjek manusia yang membuat cake."
+  },
+  {
+    "code": "PRO-INTE-007",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ is the best answer from these three options?",
+    "difficulty": "medium",
+    "options": [
+      "Whom",
+      "Which",
+      "Whose",
+      "Who"
+    ],
+    "correct_index": 1,
+    "explanation": "Which memilih satu dari pilihan terbatas."
+  },
+  {
+    "code": "PRO-INTE-008",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ are these keys?",
+    "difficulty": "medium",
+    "options": [
+      "What",
+      "Whom",
+      "Whose",
+      "Who"
+    ],
+    "correct_index": 2,
+    "explanation": "Whose dapat berdiri sendiri menanyakan pemilik keys."
+  },
+  {
+    "code": "PRO-INTE-009",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ do you want to eat for lunch?",
+    "difficulty": "medium",
+    "options": [
+      "Who",
+      "Whose",
+      "Whom",
+      "What"
+    ],
+    "correct_index": 3,
+    "explanation": "What menanyakan sesuatu (makanan)."
+  },
+  {
+    "code": "PRO-INTE-010",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "With ___ are you speaking? (formal)",
+    "difficulty": "medium",
+    "options": [
+      "whom",
+      "whose",
+      "what",
+      "which"
+    ],
+    "correct_index": 0,
+    "explanation": "With whom digunakan untuk objek orang dalam register formal."
+  },
+  {
+    "code": "PRO-INTE-011",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ of these jackets belongs to you?",
+    "difficulty": "hard",
+    "options": [
+      "Whom",
+      "Which",
+      "Who",
+      "Whose"
+    ],
+    "correct_index": 1,
+    "explanation": "Which of ... menanyakan pemilihan dari kumpulan yang jelas."
+  },
+  {
+    "code": "PRO-INTE-012",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ is responsible for opening the office?",
+    "difficulty": "hard",
+    "options": [
+      "Whose",
+      "What",
+      "Who",
+      "Whom"
+    ],
+    "correct_index": 2,
+    "explanation": "Who subjek orang yang bertanggung jawab."
+  },
+  {
+    "code": "PRO-INTE-013",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ did the teacher invite? (formal)",
+    "difficulty": "hard",
+    "options": [
+      "Whose",
+      "Which's",
+      "What",
+      "Whom"
+    ],
+    "correct_index": 3,
+    "explanation": "Whom menanyakan objek manusia yang diundang (bahasa formal)."
+  },
+  {
+    "code": "PRO-INTE-014",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ is inside this box?",
+    "difficulty": "hard",
+    "options": [
+      "What",
+      "Who",
+      "Whom",
+      "Whose"
+    ],
+    "correct_index": 0,
+    "explanation": "What menanyakan benda/isi kotak."
+  },
+  {
+    "code": "PRO-INTE-015",
+    "lesson_slug": "interrogative-pronouns",
+    "stem": "___ notebook is on the table, yours or mine?",
+    "difficulty": "hard",
+    "options": [
+      "What",
+      "Whose",
+      "Who",
+      "Whom"
+    ],
+    "correct_index": 1,
+    "explanation": "Whose menanyakan siapa pemilik notebook."
+  }
+]

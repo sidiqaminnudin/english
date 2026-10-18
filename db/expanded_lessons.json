@@ -1,0 +1,362 @@
+{
+  "alphabet-spelling": [
+    {
+      "module_slug": "alphabet-spelling",
+      "slug": "letter-names",
+      "title": "English Alphabet A–Z",
+      "summary": "Pelafalan nama huruf, bukan bunyi huruf di dalam kata.",
+      "body_md": "# English Alphabet: A–Z\nAda **26 huruf** bahasa Inggris. Nama huruf berbeda dari cara huruf berbunyi dalam sebuah kata. Pada latihan *spelling*, sebutkan **nama huruf satu per satu**.\n\n| Huruf | Pelafalan (IPA, American) | Panduan sederhana |\n|---|---|---|\n| A / E / I | /eɪ/ · /iː/ · /aɪ/ | ei · ii · ai |\n| B / C / D / G / P / T / V | /biː/ · /siː/ · /diː/ · /dʒiː/ · /piː/ · /tiː/ · /viː/ | bii · sii · dii · jii · pii · tii · vii |\n| F / L / M / N / S / X | /ɛf/ · /ɛl/ · /ɛm/ · /ɛn/ · /ɛs/ · /ɛks/ | ef · el · em · en · es · eks |\n| H / J / K | /eɪtʃ/ · /dʒeɪ/ · /keɪ/ | eich · jei · kei |\n| O / Q / U / W / Y | /oʊ/ · /kjuː/ · /juː/ · /ˈdʌbəl.juː/ · /waɪ/ | ou · kiu · yu · dabel-yu · wai |\n| R / Z | /ɑɹ/ · /ziː/ | ar · zii (AS) |\n\n**Catatan:** Z biasanya **zed** /zɛd/ dalam British English, **zee** /ziː/ dalam American English. Nama huruf **A** /eɪ/ bukan /a/ bahasa Indonesia.\n\n**Latihan:** SPELL: **B-A-G**, **C-A-T**, **E-X-A-M**. Ucapkan perlahan dulu, lalu naikkan kecepatan."
+    },
+    {
+      "module_slug": "alphabet-spelling",
+      "slug": "spelling-words",
+      "title": "Spelling Words",
+      "summary": "Mengeja kata dari huruf menggunakan pelafalan alfabet Inggris.",
+      "body_md": "# Spelling Words\n**Spell** berarti menyebutkan huruf-huruf dalam sebuah kata secara berurutan. Jika seseorang bertanya *How do you spell your name?*, jawab dengan nama huruf bahasa Inggris.\n\n## Contoh\n- **book** → B–O–O–K (bee, oh, oh, kay)\n- **weather** → W–E–A–T–H–E–R\n- **vessel** → V–E–S–S–E–L\n- **compass** → C–O–M–P–A–S–S\n- **voyages** → V–O–Y–A–G–E–S\n\n## Dua keterampilan yang berbeda\n**Spelling** menyebutkan huruf; **pronunciation** menyebutkan bunyi sebuah kata. Misalnya *knife* dieja K–N–I–F–E, tetapi huruf **k** tidak terdengar ketika katanya diucapkan.\n\n## Percakapan\nA: *How do you spell “bridge”?*  \nB: *B–R–I–D–G–E.*\n\nCoba eja nama kota, nama keluarga, dan kata benda di sekitarmu. Gunakan alfabet Inggris, bukan nama huruf Indonesia."
+    },
+    {
+      "module_slug": "alphabet-spelling",
+      "slug": "decode-spelling",
+      "title": "Decode Letter Names",
+      "summary": "Mengubah rangkaian nama huruf menjadi kata yang benar.",
+      "body_md": "# Decode Letter Names\nPada latihan ini, baca **nama huruf Inggris** dan susun kembali kata aslinya.\n\n## Contoh dari materi\n- **si–yu–pi–bi–ou–ei–ar–di** → **cupboard** (lemari)\n- **em–ei–ji–ei–zed–ai–en** → **magazine** (majalah; ejaan Z bisa *zee/zed*)\n- **bi–ai–ou–el–ou–ji–wai** → **biology** (biologi)\n- **di–ar–ei–es–es** → **dress** (gaun)\n\nPerhatikan nama huruf seperti **G** (*jee*), **J** (*jay*), dan **Y** (*why*). Nama huruf **I** (*eye*) juga berbeda dengan **E** (*ee*).\n\n## Tips latihan\n1. Dengarkan/simak satu nama huruf.\n2. Ubah menjadi simbol alfabet besar (contoh *kay* → K).\n3. Gabungkan tanpa spasi.\n4. Periksa ejaan dan makna.\n\n**Penting:** ejaan adalah bentuk tertulis. Jangan mengira bunyi kata selalu sama dengan nama setiap hurufnya."
+    },
+    {
+      "module_slug": "alphabet-spelling",
+      "slug": "spelling-context",
+      "title": "Spelling in Daily Conversations",
+      "summary": "Bertanya dan menjawab ejaan pada situasi sehari-hari.",
+      "body_md": "# Spelling in Daily Conversations\nKamu mungkin harus mengeja nama, email, alamat, atau nama tempat saat mendaftar kelas dan menelepon layanan pelanggan.\n\n## Ungkapan penting\n- **How do you spell that?** = Bagaimana mengejanya?\n- **Could you spell your surname, please?** = Bisa eja nama belakang Anda?\n- **Is that B or D?** = Itu huruf B atau D?\n- **Could you repeat the last letter?** = Tolong ulangi huruf terakhir.\n\n## Dialog\nA: *Could you spell “Wilson” for me?*  \nB: *Sure. W–I–L–S–O–N.*  \nA: *Was the second letter I?*  \nB: *Yes, that's right.*\n\n## Latihan mandiri\nTulis lima nama benda yang sering kamu pakai. Eja dengan lantang, lalu minta teman mengecek urutan huruf. Untuk email, **at** dibaca untuk @, dan **dot** untuk titik."
+    }
+  ],
+  "family-vocabulary": [
+    {
+      "module_slug": "family-vocabulary",
+      "slug": "family-members",
+      "title": "Family Members",
+      "summary": "Hubungan keluarga inti, keluarga besar, dan kata ganti relasi.",
+      "body_md": "# Family Members\nKosakata tentang hubungan keluarga membantu saat memperkenalkan diri, menceritakan keluarga, dan membuat deskripsi sederhana.\n\n| Indonesia | English | Indonesia | English |\n|---|---|---|---|\n| ayah / ibu | father / mother | anak laki-laki / perempuan | son / daughter |\n| kakek / nenek | grandfather / grandmother | saudara laki-laki / perempuan | brother / sister |\n| paman / bibi | uncle / aunt | sepupu | cousin |\n| keponakan laki-laki / perempuan | nephew / niece | cucu laki-laki / perempuan | grandson / granddaughter |\n| suami / istri | husband / wife | orang tua | parents |\n| anak-anak | children | cucu (umum) | grandchild |\n\n**Parents** artinya *orang tua* (ayah dan ibu), sedangkan **relatives** artinya kerabat. **Cousin** bisa laki-laki maupun perempuan.\n\n**Contoh:** *My uncle is my mother's brother.* (Pamanku adalah saudara laki-laki ibuku.)\n\n**Latihan:** Jelaskan hubungan 4 anggota keluarga tanpa menyebut namanya terlebih dahulu."
+    },
+    {
+      "module_slug": "family-vocabulary",
+      "slug": "extended-family",
+      "title": "Extended Family & Life Events",
+      "summary": "Istilah keluarga besar, mertua, dan status keluarga.",
+      "body_md": "# Extended Family & Life Events\nSetiap hubungan perlu ditentukan dari sudut pandang orang yang berbicara.\n\n- **father-in-law / mother-in-law** = ayah mertua / ibu mertua.\n- **brother-in-law / sister-in-law** = ipar laki-laki / perempuan.\n- **grandchild** = cucu; **grandson** dan **granddaughter** lebih spesifik.\n- **widow** = janda karena pasangan meninggal; **widower** = duda karena pasangan meninggal.\n- **orphan** = anak yatim/piatu (pengertian dapat berbeda menurut konteks).\n\n## Contoh hubungan\n*My wife's father is my father-in-law.*  \n*My sister's son is my nephew.*  \n*My aunt's daughter is my cousin.*\n\n**Perhatikan:** *single* berarti belum menikah/tidak berpasangan; berbeda dengan *widow/widower* yang berkaitan dengan kematian pasangan.\n\n**Latihan:** Tulis 3 kalimat menggunakan *in-law*, *cousin*, atau *grandchild*."
+    },
+    {
+      "module_slug": "family-vocabulary",
+      "slug": "greetings",
+      "title": "Greetings and Leave-taking",
+      "summary": "Sapaan, perkenalan, menanyakan kabar, dan berpamitan.",
+      "body_md": "# Greetings\nUcapan sapaan dipilih berdasarkan situasi dan waktu, bukan diterjemahkan kata demi kata.\n\n| English | Arti |\n|---|---|\n| Good morning. | Selamat pagi. |\n| Good afternoon. | Selamat siang/sore awal. |\n| Good evening. | Selamat sore/malam ketika bertemu. |\n| Good night. | Selamat malam saat berpamitan/tidur. |\n| Nice to meet you. | Senang bertemu denganmu. |\n| How are you? | Apa kabar? |\n| See you later. | Sampai jumpa. |\n\n## Dialog\nA: *Good afternoon. How are you?*  \nB: *I'm fine, thank you. And you?*  \nA: *I'm doing well. Nice to meet you.*  \nB: *Nice to meet you, too.*\n\n**Perhatikan:** *Good evening* dipakai ketika bertemu, sedangkan *Good night* lazim dipakai saat berpisah. *How do you do?* adalah sapaan formal tradisional, bukan pertanyaan tentang cara melakukan sesuatu."
+    },
+    {
+      "module_slug": "family-vocabulary",
+      "slug": "seasons-periods",
+      "title": "Seasons & Parts of the Day",
+      "summary": "Musim dan penamaan bagian hari.",
+      "body_md": "# Seasons & Parts of the Day\nDalam bahasa Inggris, terdapat empat istilah musim utama pada daerah beriklim sedang: **spring**, **summer**, **autumn/fall**, dan **winter**. Untuk Indonesia, lebih lazim membahas **rainy season** dan **dry season**.\n\n## Waktu dalam sehari\n- **morning** = pagi\n- **noon / midday** = tengah hari\n- **afternoon** = siang sampai sore\n- **evening** = sore/malam awal\n- **night** = malam\n- **midnight** = tengah malam\n\n## Contoh\n- *It often rains during the rainy season.*\n- *We usually have lunch at noon.*\n- *My English class starts in the morning.*\n- *Good evening, everyone!* (ketika menyapa pada malam hari)\n\n**Catatan:** kata *season* bisa mengikuti *in* (*in winter*) atau *during* (*during the dry season*). Tidak semua negara memiliki empat musim."
+    }
+  ],
+  "cardinal-ordinal": [
+    {
+      "module_slug": "cardinal-ordinal",
+      "slug": "cardinal-numbers",
+      "title": "Cardinal Numbers",
+      "summary": "Bilangan pokok untuk menyatakan jumlah.",
+      "body_md": "# Cardinal Numbers\n**Cardinal numbers** menyebutkan jumlah: *one, two, three, ten, twenty, one hundred, one thousand*, dan seterusnya.\n\n## Pola penting\n- 11–19: **eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen**.\n- Puluhan: **twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety**.\n- 21–99 (bukan kelipatan 10) memakai tanda hubung: *twenty-one, thirty-four*.\n- 100 = **one hundred**, 1,000 = **one thousand**, 1,000,000 = **one million**.\n\n## Contoh\n- 85 → **eighty-five**.\n- 175 → **one hundred and seventy-five** (umum dalam British English); American English juga memakai *one hundred seventy-five*.\n- 2,803 → **two thousand eight hundred and three**.\n\n**Ingat:** *forty* bukan *fourty*, *fifteen* berbeda dari *fifty*, dan *thirteen* berbeda dari *thirty*."
+    },
+    {
+      "module_slug": "cardinal-ordinal",
+      "slug": "ordinal-numbers",
+      "title": "Ordinal Numbers",
+      "summary": "Bilangan bertingkat untuk urutan dan tanggal.",
+      "body_md": "# Ordinal Numbers\n**Ordinal numbers** menunjukkan urutan: pertama, kedua, ketiga, dan seterusnya.\n\n| Angka | Kata | Angka | Kata |\n|---|---|---|---|\n| 1st | first | 2nd | second |\n| 3rd | third | 4th | fourth |\n| 5th | fifth | 8th | eighth |\n| 9th | ninth | 12th | twelfth |\n| 20th | twentieth | 21st | twenty-first |\n| 30th | thirtieth | 31st | thirty-first |\n\n## Penggunaan\n- *She finished in second place.* (peringkat kedua)\n- *My birthday is on March twentieth.*\n- *Our office is on the third floor.*\n\n**Aturan akhiran:** 1st, 2nd, 3rd, angka lain umumnya *-th*, **kecuali** 11th, 12th, 13th. Angka gabungan mengikuti dua digit terakhir: 21st, 22nd, 23rd, 24th."
+    },
+    {
+      "module_slug": "cardinal-ordinal",
+      "slug": "decimals-years",
+      "title": "Decimals, Big Numbers & Years",
+      "summary": "Pemisah ribuan, desimal, nomor dan penyebutan tahun.",
+      "body_md": "# Decimals, Big Numbers & Years\nDalam notasi bahasa Inggris, **koma** (,) lazim digunakan untuk pengelompokan ribuan dan **titik** (.) untuk desimal; kebalikan dari kebiasaan penulisan Indonesia.\n\n## Contoh\n- 1,250 = **one thousand two hundred and fifty**.\n- 7.25 = **seven point two five**.\n- 0.045 = **zero point zero four five**.\n- 1985 = **nineteen eighty-five** (sebagai tahun).\n- 2005 = **two thousand and five**; juga *two thousand five* dalam American English.\n- 2026 = **twenty twenty-six**, atau *two thousand and twenty-six*.\n\n## Telepon dan kode\nNomor telepon biasanya dibaca angka demi angka: 91395 → *nine one three nine five*. Angka **0** bisa dibaca *zero* atau *oh* dalam berbagai konteks.\n\n**Catatan:** jangan menghilangkan nol di belakang desimal jika sedang mengeja angka sesuai yang tertulis (mis. 1.20)."
+    },
+    {
+      "module_slug": "cardinal-ordinal",
+      "slug": "fractions-math",
+      "title": "Fractions & Basic Math",
+      "summary": "Pecahan dan operasi hitung dalam bahasa Inggris.",
+      "body_md": "# Fractions & Basic Math\nUntuk pecahan, pembilang biasanya dibaca sebagai bilangan pokok dan penyebut sebagai bilangan bertingkat.\n\n- 1/2 = **one half** atau **a half**.\n- 1/3 = **one third**.\n- 2/3 = **two thirds**.\n- 3/4 = **three quarters** atau **three fourths**.\n- 5/8 = **five eighths**.\n\n## Operasi hitung\n- 7 + 10 = 17 → *Seven plus ten equals seventeen.*\n- 25 ÷ 5 = 5 → *Twenty-five divided by five equals five.*\n- 8 × 3 = 24 → *Eight times three equals twenty-four.*\n- x² = *x squared*; x³ = *x cubed*.\n\n**Ingat:** ketika pembilang lebih dari satu, penyebut biasanya berbentuk plural: *two thirds*, bukan *two third*. Gunakan kata **equals** atau **is equal to** untuk tanda =."
+    }
+  ],
+  "telling-time-dates": [
+    {
+      "module_slug": "telling-time-dates",
+      "slug": "telling-time",
+      "title": "Telling the Time",
+      "summary": "Membaca jam dengan past, to, quarter, half, dan o’clock.",
+      "body_md": "# Telling the Time\nAda dua gaya populer: gaya digital (*seven ten*) dan gaya percakapan (*ten past seven*).\n\n## Pola\n- **07:00** = seven o'clock.\n- **07:10** = ten past seven.\n- **11:15** = a quarter past eleven.\n- **06:30** = half past six.\n- **10:45** = a quarter to eleven.\n- **08:55** = five to nine.\n\n**Past** digunakan untuk menit 1–30, **to** untuk menit 31–59 dan menyebut jam berikutnya. *Quarter* = 15 menit; *half* = 30 menit.\n\n**AM/PM:** 8:00 a.m. = jam delapan pagi; 8:00 p.m. = jam delapan malam. Pukul 12:00 tengah hari = **noon**, sedangkan 00:00 = **midnight**.\n\n**Pertanyaan:** *What time is it?* → *It's half past eight.*"
+    },
+    {
+      "module_slug": "telling-time-dates",
+      "slug": "days-months",
+      "title": "Days, Months & Time Expressions",
+      "summary": "Nama hari, bulan, dan pemakaian preposisi on/in/at.",
+      "body_md": "# Days & Months\n## Days of the week\n**Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday**.\n\n## Months\n**January, February, March, April, May, June, July, August, September, October, November, December**.\n\nNama hari dan bulan selalu menggunakan huruf kapital.\n\n## Prepositions\n- **on** Monday, **on** Friday morning, **on** March 20th.\n- **in** March, **in** 2026, **in** summer.\n- **at** 7 p.m., **at** noon, **at** midnight.\n\n## Contoh\n*We study English on Wednesdays.* (setiap Rabu)\n*My birthday is in March.* (bulan Maret)\n*The exam starts at nine.* (pukul sembilan)\n\n**Jangan tertukar:** *on March 20th* untuk tanggal lengkap, tetapi *in March* untuk bulan saja."
+    },
+    {
+      "module_slug": "telling-time-dates",
+      "slug": "british-american-dates",
+      "title": "British & American Dates",
+      "summary": "Perbedaan format penulisan dan pembacaan tanggal.",
+      "body_md": "# Dates: British vs American English\nUrutan informasi berbeda dan dapat menimbulkan kebingungan saat menulis angka.\n\n| Gaya | Format | Contoh |\n|---|---|---|\n| British | day–month–year | **20 March 2026** / **20/03/2026** |\n| American | month–day–year | **March 20, 2026** / **03/20/2026** |\n\n## Cara membaca\n- British: **the twentieth of March, twenty twenty-six**.\n- American: **March twentieth, twenty twenty-six**.\n\n## Menggunakan ordinal\n1 → *first*, 2 → *second*, 3 → *third*, 5 → *fifth*, 12 → *twelfth*, 20 → *twentieth*, 31 → *thirty-first*.\n\n**Contoh kalimat:** *The concert is on May nineteenth.*\n\n**Tips:** Untuk dokumen internasional, bentuk ISO **2026-03-20** dapat mengurangi salah tafsir angka tanggal."
+    },
+    {
+      "module_slug": "telling-time-dates",
+      "slug": "time-practice",
+      "title": "Telling Time in Context",
+      "summary": "Membicarakan jadwal, durasi, dan kebiasaan.",
+      "body_md": "# Time in Context\nSetelah mampu membaca jam dan tanggal, gunakan keduanya dalam kalimat yang alami.\n\n## Menanyakan jadwal\n- *What time does the class begin?* → *It begins at ten a.m.*\n- *What day is the exam?* → *It is on Friday.*\n- *When is your birthday?* → *It is on March twentieth.*\n- *How long does the class last?* → *It lasts two hours.*\n\n## Istilah penting\n- **early** = lebih awal\n- **late** = terlambat / larut\n- **on time** = tepat waktu\n- **before** = sebelum\n- **after** = setelah\n- **every day** = setiap hari\n\n## Contoh\n*I usually get up at six in the morning.*\n*The bus leaves at a quarter past seven.*\n*She arrives ten minutes before class.*\n\n**Perhatikan:** *every day* (dua kata) berarti setiap hari; *everyday* (satu kata) adalah adjective seperti *everyday activities*."
+    }
+  ],
+  "countable-uncountable": [
+    {
+      "module_slug": "countable-uncountable",
+      "slug": "countable-vs-uncountable",
+      "title": "Countable vs Uncountable",
+      "summary": "Membedakan benda yang dapat dihitung dan yang diukur.",
+      "body_md": "# Countable vs Uncountable Nouns\n**Countable nouns** memiliki satuan individual: *a book, two books, three chairs*. **Uncountable nouns** biasanya diperlakukan sebagai zat, gagasan, atau keseluruhan: *water, rice, information, furniture*.\n\n## Contoh\n| Countable | Uncountable |\n|---|---|\n| book, apple, student, chair | milk, sugar, advice, music |\n| tomato, bag, picture, egg | water, furniture, information, homework |\n\nCountable tunggal memakai **a/an** atau penentu lain. Uncountable umumnya tidak memakai **a/an** secara langsung.\n\n❌ *an information* → ✅ *some information* / *a piece of information*.\n\n**Pengecualian konteks:** *coffee* dapat berarti minuman secara umum (uncountable) atau *a coffee* = satu cangkir kopi saat memesan. **Chicken** dapat berarti ayam sebagai hewan (countable) atau daging ayam (uncountable)."
+    },
+    {
+      "module_slug": "countable-uncountable",
+      "slug": "a-an",
+      "title": "Indefinite Articles A / An",
+      "summary": "Artikel tunggal berdasarkan bunyi awal kata, bukan sekadar huruf.",
+      "body_md": "# A / An\nGunakan **a** atau **an** sebelum **kata benda dapat dihitung tunggal** dalam banyak situasi ketika pembaca belum mengetahui benda yang dimaksud.\n\n- **a** sebelum **bunyi konsonan**: *a cat, a university, a European country*.\n- **an** sebelum **bunyi vokal**: *an apple, an egg, an hour, an honest person*.\n\n## Bunyi menentukan pilihan\n**University** diawali bunyi /juː/ (seperti y) → **a university**. **Hour** memiliki h tidak terdengar → **an hour**.\n\n## Dalam kalimat\n- *She is a teacher.*\n- *He bought an umbrella.*\n- *I need a pen.*\n\n❌ *She is engineer.* → ✅ *She is an engineer.*\n\n**Ingat:** hindari menggunakan *a/an* langsung dengan *water* atau *furniture* dalam arti umum, tetapi *a bottle of water* benar karena yang dihitung adalah *bottle*."
+    },
+    {
+      "module_slug": "countable-uncountable",
+      "slug": "some-any",
+      "title": "Some / Any / Much / Many",
+      "summary": "Kuantitas dalam kalimat positif, negatif, dan pertanyaan.",
+      "body_md": "# Some, Any, Much, Many\n## Ringkasan\n- **some**: sejumlah; umum di kalimat positif, juga tawaran dan permintaan.\n- **any**: sejumlah/apa pun; sering pada kalimat negatif dan pertanyaan.\n- **many**: banyak + kata benda jamak yang dapat dihitung.\n- **much**: banyak + kata benda tidak dapat dihitung.\n\n## Contoh\n- *We bought some apples.*\n- *There isn't any milk.*\n- *Are there any chairs?*\n- *How many books do you have?*\n- *How much water do you drink?*\n\n## Nuansa penting\n*Would you like some tea?* benar sebagai tawaran. *Do you have any questions?* benar sebagai pertanyaan umum. Dalam kalimat positif sehari-hari **a lot of** sering terasa lebih alami daripada **much**: *I have a lot of homework*.\n\n**Hindari:** ❌ *many furniture* → ✅ *much furniture* / *a lot of furniture*."
+    },
+    {
+      "module_slug": "countable-uncountable",
+      "slug": "how-much-many",
+      "title": "How Much / How Many",
+      "summary": "Mengajukan pertanyaan tentang jumlah dan ukuran.",
+      "body_md": "# How Much vs How Many\n**How many** bertanya jumlah **countable plural**. **How much** bertanya jumlah atau besaran **uncountable**, dan juga bertanya **harga**.\n\n| Questions | Explanation |\n|---|---|\n| How many students are there? | *students*: countable plural |\n| How much rice do you need? | *rice*: uncountable |\n| How many bottles of water? | *bottles*: satuan dapat dihitung |\n| How much does this book cost? | *how much*: menanyakan harga |\n\n## Quantifiers tambahan\n- **a few** + plural countable: *a few friends*.\n- **a little** + uncountable: *a little milk*.\n- **several** + plural countable: *several chairs*.\n\n**Perhatikan:** *time* dapat berarti waktu secara umum (uncountable, *how much time*), sedangkan *times* bisa berarti kejadian yang dapat dihitung (*how many times?*)."
+    }
+  ],
+  "singular-plural": [
+    {
+      "module_slug": "singular-plural",
+      "slug": "regular-plurals",
+      "title": "Regular Plurals (-s/-es)",
+      "summary": "Aturan perubahan kata benda menjadi jamak.",
+      "body_md": "# Regular Plurals\nSingular berarti satu; plural berarti lebih dari satu. Sebagian besar kata benda membentuk plural dengan **-s**.\n\n- **book → books**, **pen → pens**, **flower → flowers**.\n- Kata yang berakhir dengan bunyi sibilan (sering -s, -ss, -sh, -ch, -x, -z) biasanya mendapat **-es**: *bus → buses, box → boxes, watch → watches*.\n- Beberapa kata berakhiran **-o** memakai **-es**: *tomato → tomatoes, potato → potatoes*, tetapi *photo → photos, piano → pianos, radio → radios*.\n\n## Contoh\n- *This car is expensive.* → *These cars are expensive.*\n- *There is one box.* → *There are two boxes.*\n\n**Penting:** plural memengaruhi kata kerja (misal *is → are*) serta determiner (*this → these*). Jangan menganggap semua kata berakhiran -o mendapat -es."
+    },
+    {
+      "module_slug": "singular-plural",
+      "slug": "y-f-fe-plurals",
+      "title": "Plural -y, -f, and -fe",
+      "summary": "Perubahan ejaan dengan -ies dan -ves serta pengecualiannya.",
+      "body_md": "# Plural Nouns: -y, -f, -fe\n## Akhiran -y\nJika ada **konsonan + y**, ganti y menjadi **-ies**:\n- *baby → babies*, *city → cities*, *lady → ladies*, *cherry → cherries*.\n\nJika ada **vokal + y**, umumnya tambah **-s**:\n- *boy → boys*, *key → keys*, *day → days*.\n\n## Akhiran -f/-fe\nBeberapa kata berubah menjadi **-ves**:\n- *knife → knives*, *wolf → wolves*, *leaf → leaves*, *wife → wives*, *shelf → shelves*.\n\nTetapi **tidak semua**:\n- *roof → roofs*, *chief → chiefs*, *belief → beliefs*, *proof → proofs*.\n\n**Latihan:** lihat akhir sebuah kata dahulu, kemudian cek apakah termasuk pengecualian sebelum membentuk pluralnya."
+    },
+    {
+      "module_slug": "singular-plural",
+      "slug": "irregular-plurals",
+      "title": "Irregular & Unchanged Plurals",
+      "summary": "Bentuk jamak tidak beraturan dan bentuk tanpa perubahan.",
+      "body_md": "# Irregular Plural Nouns\nTidak semua kata benda memakai akhiran -s atau -es. Sebagian mengalami perubahan vokal dan sebagian tidak berubah sama sekali.\n\n| Singular | Plural |\n|---|---|\n| man | men |\n| woman | women |\n| child | children |\n| foot | feet |\n| tooth | teeth |\n| mouse | mice |\n| goose | geese |\n| person | people |\n| ox | oxen |\n| sheep | sheep |\n| deer | deer |\n\n**Fish** sering tidak berubah pada bentuk jamak ketika membahas ikan secara umum (*three fish*). **Fishes** dapat digunakan khususnya untuk spesies ikan yang berbeda.\n\n## Contoh\n- *One child is reading.* → *Two children are reading.*\n- *This mouse is small.* → *These mice are small.*\n\nHafalkan bentuk tidak beraturan karena tidak selalu dapat diprediksi dari ejaan."
+    },
+    {
+      "module_slug": "singular-plural",
+      "slug": "plural-agreement",
+      "title": "Plural in Sentences",
+      "summary": "Menyesuaikan kata kerja, artikel, dan penunjuk untuk bentuk jamak.",
+      "body_md": "# Plural Agreement in Sentences\nSaat kata benda menjadi plural, bagian kalimat lain dapat ikut berubah.\n\n## Contoh transformasi\n- *The girl **is** reading a story.* → *The girls **are** reading stories.*\n- *This child **is** happy.* → *These children **are** happy.*\n- *There **is** a chair.* → *There **are** chairs.*\n- *She **has** a book.* → *They **have** books.*\n\n## Penunjuk\n- **this / that** + singular, contoh: *this apple is...*\n- **these / those** + plural, contoh: *these apples are...*\n\n## Kesalahan umum\n❌ *The childrens are happy.* → ✅ *The children are happy.*\n❌ *Those box is heavy.* → ✅ *Those boxes are heavy.*\n\n**Catatan:** *information* tidak menjadi *informations* dan biasanya menggunakan kata kerja tunggal: *The information is useful*."
+    }
+  ],
+  "simple-present": [
+    {
+      "module_slug": "simple-present",
+      "slug": "nominal-simple-present",
+      "title": "Nominal Simple Present (am/is/are)",
+      "summary": "Kalimat nominal menggunakan to be.",
+      "body_md": "# Nominal Simple Present\nKalimat nominal menjelaskan identitas, keadaan, atau lokasi dengan **am / is / are**, tanpa kata kerja tindakan utama.\n\n| Subject | To be | Contoh |\n|---|---|---|\n| I | am | I am a student. |\n| he/she/it | is | She is happy. |\n| you/we/they | are | They are ready. |\n\n## Bentuk\n**(+)** Subject + am/is/are + complement: *He is a teacher.*  \n**(-)** Subject + am/is/are + not + complement: *He is not a teacher.*  \n**(?)** Am/Is/Are + subject + complement?: *Is he a teacher?*\n\n## Kesalahan umum\n❌ *She are a doctor.* → ✅ *She is a doctor.*\n❌ *He does not is tired.* → ✅ *He is not tired.*\n\nUntuk membicarakan status atau sifat, **jangan** menambahkan *do/does* sebelum *am/is/are* dalam kalimat negatif biasa."
+    },
+    {
+      "module_slug": "simple-present",
+      "slug": "verbal-simple-present",
+      "title": "Verbal Simple Present",
+      "summary": "Kegiatan rutin dan perubahan kata kerja -s/-es.",
+      "body_md": "# Verbal Simple Present\nDigunakan untuk **kebiasaan**, **fakta umum**, jadwal yang tetap, dan keadaan berulang.\n\n## Rumus positif\n- **I / you / we / they + V1** → *They work every day.*\n- **he / she / it + V1-s/-es** → *She works every day.*\n\nContoh perubahan: *study → studies*, *watch → watches*, *go → goes*, *have → has*, *play → plays*.\n\n## Kesalahan umum\n❌ *He go to school.* → ✅ *He goes to school.*\n❌ *She studys English.* → ✅ *She studies English.*\n\n## Kata petunjuk\n*always, usually, often, sometimes, never, every day, on Mondays*.\n\n**Perhatikan:** kata kerja diberi -s/-es pada **he/she/it**, tetapi setelah *does/doesn't*, kata kerja kembali ke bentuk dasar: *She doesn't go*."
+    },
+    {
+      "module_slug": "simple-present",
+      "slug": "do-does",
+      "title": "Do / Does / Don't / Doesn't",
+      "summary": "Membuat kalimat tanya dan negatif verbal.",
+      "body_md": "# Do / Does\nGunakan **do/does** untuk membuat pertanyaan dan negatif **verbal** dalam Simple Present.\n\n| Subject | Auxiliary |\n|---|---|\n| I, you, we, they | do / don't |\n| he, she, it | does / doesn't |\n\n## Pola\n- **(?)** *Does she work here?* → *Yes, she does.* / *No, she doesn't.*\n- **(-)** *He does not play football.*\n- **(?)** *Do they speak English?* → *Yes, they do.*\n- **(-)** *We don't eat meat.*\n\n**Penting:** setelah *do/does/don't/doesn't*, gunakan kata kerja dasar (V1).  \n❌ *Does she works?* → ✅ *Does she work?*\n\n**Bedakan dengan to be:** *Is she happy?* (bukan *Does she happy?*) karena *happy* adalah adjective, bukan kata kerja tindakan."
+    },
+    {
+      "module_slug": "simple-present",
+      "slug": "frequency-adverbs",
+      "title": "Adverbs of Frequency",
+      "summary": "Posisi always, usually, often, sometimes, rarely, never.",
+      "body_md": "# Adverbs of Frequency\nKata keterangan frekuensi menunjukkan seberapa sering sesuatu terjadi: **always, usually, often, sometimes, rarely, never**.\n\n## Posisi dalam kalimat\n- **Sebelum kata kerja utama:** *She usually goes to school by bus.*\n- **Setelah to be:** *He is always on time.*\n- **Setelah auxiliary pertama:** *They have never visited Bali.* (contoh Perfect; prinsip posisi tetap berguna)\n\n## Contoh\n*I often study at night.*  \n*She rarely eats fast food.*  \n*We sometimes play football.*  \n*They are usually friendly.*\n\n## Keterangan yang lebih spesifik\n*every day*, *twice a week*, *on Sundays*, *once a month*.\n\n**Ingat:** *never* sudah bermakna negatif; hindari *I don't never ...* dalam English standar, gunakan *I never ...*."
+    }
+  ],
+  "prepositions": [
+    {
+      "module_slug": "prepositions",
+      "slug": "place-prepositions",
+      "title": "Prepositions of Place",
+      "summary": "Letak benda dan orang: in, on, at, between, among.",
+      "body_md": "# Prepositions of Place\nPrepositions menerangkan hubungan suatu benda atau orang dengan lokasi lain.\n\n- **in**: di dalam *The keys are in the bag.*\n- **on**: di atas/menempel permukaan *The book is on the table.*\n- **under / beneath**: di bawah *The cat is under the chair.*\n- **behind**: di belakang *The shop is behind the school.*\n- **between**: di antara dua (atau beberapa yang dipandang satu per satu) *The bank is between the café and the school.*\n- **among**: di antara sebuah kelompok *She stood among the students.*\n- **next to / beside**: di samping *Sit next to me.*\n- **opposite**: berhadapan *The hospital is opposite the post office.*\n\n**Catatan:** *above* menyatakan lebih tinggi tanpa harus bersentuhan; *over* punya banyak makna termasuk di atas dan menutupi/melintasi. Jangan selalu menerjemahkan keduanya menjadi *on*."
+    },
+    {
+      "module_slug": "prepositions",
+      "slug": "time-prepositions",
+      "title": "Prepositions of Time (in/on/at)",
+      "summary": "At untuk jam, on untuk hari/tanggal, in untuk bulan/tahun/periode.",
+      "body_md": "# Prepositions of Time\n## At\n*at 7 a.m.*, *at noon*, *at midnight*, *at night*.\n\n## On\n*on Monday*, *on March 20th*, *on Friday morning*, *on my birthday*.\n\n## In\n*in March*, *in 2026*, *in summer*, *in the morning*, *in the afternoon*, *in the evening*.\n\n## Contoh\n- *My birthday is on March 20th.*\n- *The course begins at ten o'clock.*\n- *She was born in 1997.*\n- *We usually exercise in the morning.*\n\n**Perhatikan:** *at night* berbeda dengan *in the morning*. Gunakan **on** ketika terdapat hari atau tanggal yang spesifik, walaupun disertai nama bulan."
+    },
+    {
+      "module_slug": "prepositions",
+      "slug": "movement-prepositions",
+      "title": "Prepositions of Movement",
+      "summary": "Dari, menuju, masuk, melewati, dan sepanjang.",
+      "body_md": "# Prepositions of Movement\nPrepositions dapat menjelaskan **arah/perpindahan**, bukan hanya lokasi tetap.\n\n| Preposition | Meaning | Example |\n|---|---|---|\n| to | ke | Go to school. |\n| from | dari | Come from Jakarta. |\n| into | ke dalam | Walk into the room. |\n| out of | keluar dari | Step out of the car. |\n| across | menyeberangi | Walk across the road. |\n| through | melewati bagian dalam | Drive through the tunnel. |\n| along | sepanjang | Walk along the river. |\n| toward(s) | menuju arah | Walk towards the station. |\n\n**Bandingkan:** *The child is in the room* (lokasi) dan *The child walks into the room* (perpindahan masuk).\n\n❌ *I go to home.* → ✅ *I go home.* (*home* sering berfungsi sebagai adverb arah tanpa *to*)."
+    },
+    {
+      "module_slug": "prepositions",
+      "slug": "duration-prepositions",
+      "title": "For / Since / During / Until",
+      "summary": "Kapan dimulai, berapa lama, dan sampai kapan.",
+      "body_md": "# For, Since, During, Until\n- **for + durasi**: *for two hours*, *for three weeks*.\n- **since + titik awal waktu**: *since 2020*, *since Monday* (biasanya dalam Perfect tense untuk keadaan yang masih berlangsung).\n- **during + peristiwa/periode**: *during the meeting*, *during the holiday*.\n- **until / till + akhir waktu**: *until six o'clock*, *until Friday*.\n\n## Contoh\n- *I studied for two hours yesterday.*\n- *I have lived here since 2020.*\n- *Nobody spoke during the exam.*\n- *The store is open until nine p.m.*\n\n**Jangan tertukar:** *for 2020* tidak cocok jika yang dimaksud adalah titik awal. *Since two hours* juga tidak tepat untuk durasi (*for two hours*).\n\n**Catatan:** kata **by** sering berarti paling lambat: *Please finish by Friday.* Berbeda dari *until Friday* yang menunjukkan kelanjutan sampai Jumat."
+    }
+  ],
+  "conjunctions": [
+    {
+      "module_slug": "conjunctions",
+      "slug": "addition-reason",
+      "title": "Addition, Reason & Result",
+      "summary": "And, because, so, so that dan in order to.",
+      "body_md": "# Conjunctions: Addition, Reason, Result\nKata sambung menghubungkan ide dan menunjukkan hubungan logis.\n\n- **and** = dan: *She reads and writes well.*\n- **because** + klausa = karena: *I stayed home because I was sick.*\n- **so** = sehingga/jadi: *It was raining, so we stayed home.*\n- **so that** + klausa = supaya: *Speak clearly so that everyone can hear.*\n- **in order to** + V1 = untuk: *She studies in order to pass the exam.*\n\n## Bandingkan\n*I was tired **because** I worked late.* (alasan)  \n*I worked late, **so** I was tired.* (akibat)\n\n**Perhatikan:** *because* biasanya diikuti sebuah klausa (subjek + verba); *because of* diikuti noun/frasa benda: *because of the rain*."
+    },
+    {
+      "module_slug": "conjunctions",
+      "slug": "contrast-conjunctions",
+      "title": "But / Although / Whereas / However",
+      "summary": "Menunjukkan pertentangan atau kontras.",
+      "body_md": "# Contrast Conjunctions\n- **but**: *The exam was hard, but I passed.*\n- **although / though**: *Although the exam was hard, I passed.*\n- **whereas**: *I like tea, whereas my sister likes coffee.*\n- **even though**: *Even though it was raining, we played.*\n- **however**: penghubung wacana, biasanya setelah tanda titik atau titik koma: *It was raining. However, we went out.*\n\n## Penempatan\nKlausa yang diawali *although* bisa muncul di awal atau akhir kalimat: *Although he was tired, he studied.* / *He studied although he was tired.*\n\n**Kesalahan umum:** ❌ *Although it was raining, but we went out.* → ✅ *Although it was raining, we went out.*\n\n**Tips:** pilih *whereas* untuk dua fakta yang berbeda; *although* untuk hal yang mengejutkan/kontras dengan hasilnya."
+    },
+    {
+      "module_slug": "conjunctions",
+      "slug": "condition-conjunctions",
+      "title": "If / Unless / As If",
+      "summary": "Kondisi, pengecualian, dan seolah-olah.",
+      "body_md": "# Condition Conjunctions\n## If\nMenunjukkan syarat: *If it rains, we will stay at home.* (jika hujan, kami akan di rumah).\n\n## Unless\nArtinya **if ... not** dalam banyak konteks: *You won't pass unless you study.* (= if you do not study).\n\n## As if\nBerarti **seolah-olah**: *He talks as if he knows everything.*\n\n## Conditional sederhana\n- *If you heat ice, it melts.* (fakta umum: zero conditional)\n- *If she comes tomorrow, I will call you.* (kemungkinan masa depan)\n\n**Perhatikan:** untuk kondisi masa depan yang realistis, setelah *if* biasanya gunakan Simple Present, bukan *will*:  \n❌ *If she will come, ...* → ✅ *If she comes, ...*\n\n**Jangan menggandakan negasi:** *unless* sendiri sudah memiliki unsur “jika tidak”."
+    },
+    {
+      "module_slug": "conjunctions",
+      "slug": "time-conjunctions",
+      "title": "When / While / Before / After / Until",
+      "summary": "Mengurutkan kejadian dan waktu kegiatan.",
+      "body_md": "# Time Conjunctions\n- **when**: ketika *Call me when you arrive.*\n- **while**: sementara/ketika dua peristiwa berlangsung *I listened while she spoke.*\n- **before**: sebelum *Wash your hands before you eat.*\n- **after**: setelah *We left after the show ended.*\n- **until**: sampai *Wait here until I return.*\n- **as soon as**: segera setelah *I will call as soon as I get home.*\n\n## Kata sambung vs preposition\n**After** dapat diikuti klausa (*after he arrived*) atau noun/gerund (*after lunch*, *after eating*).\n\n**Kesalahan umum:** dalam time clause yang merujuk masa depan, biasanya gunakan Simple Present:  \n❌ *I'll call you when I will arrive.*  \n✅ *I'll call you when I arrive.*\n\n**Latihan:** buat kalimat dengan kejadian utama + *before/after/when* untuk mengurutkan aktivitas harian."
+    }
+  ],
+  "adjective-adverb": [
+    {
+      "module_slug": "adjective-adverb",
+      "slug": "adjective-basics",
+      "title": "Adjectives in Sentences",
+      "summary": "Kata sifat menjelaskan benda/orang setelah to be atau sebelum noun.",
+      "body_md": "# Adjectives\n**Adjective** menjelaskan sifat/keadaan orang, benda, atau situasi. Contohnya: *gentle, strong, happy, careful, beautiful, expensive*.\n\n## Posisi utama\n- **sebelum noun**: *a beautiful room*, *a careful driver*.\n- **setelah linking verb**: *The room is beautiful*, *He feels tired*, *She looks happy*.\n\n## Contoh\n- *The test is easy.*\n- *He is a good teacher.*\n- *The students are quiet.*\n\n**Kesalahan umum:** ❌ *She is beautifully.* → ✅ *She is beautiful.* Karena setelah **is** di sini menjelaskan subject, kita memakai **adjective**.\n\n**Catatan:** adjective bahasa Inggris umumnya tidak berubah bentuk untuk plural: *one beautiful house / two beautiful houses*."
+    },
+    {
+      "module_slug": "adjective-adverb",
+      "slug": "adverbs-ly",
+      "title": "Adverbs of Manner (-ly)",
+      "summary": "Menggambarkan cara tindakan dilakukan.",
+      "body_md": "# Adverbs of Manner\n**Adverb of manner** menjawab pertanyaan **how?** (bagaimana suatu tindakan dilakukan).\n\n## Pembentukan\n- *careful → carefully*: *She drives carefully.*\n- *quick → quickly*: *He answered quickly.*\n- *beautiful → beautifully*: *She sings beautifully.*\n- *happy → happily*: ganti konsonan + y → -ily.\n- *gentle → gently*: sebagian -le → -ly.\n\n## Perbedaan dengan adjective\n*He is **careful*** (sifat orang).  \n*He drives **carefully*** (cara mengemudi).\n\n**Catatan:** adverb tidak selalu diakhiri -ly. Lihat submateri irregular adverbs. Hindari mengubah adjective yang menerangkan *be/look/feel* menjadi adverb tanpa alasan."
+    },
+    {
+      "module_slug": "adjective-adverb",
+      "slug": "irregular-adverbs",
+      "title": "Irregular Adverbs",
+      "summary": "Good/well, fast/fast, hard/hard, late/late.",
+      "body_md": "# Irregular / Flat Adverbs\nTidak semua adverb menambahkan **-ly**. Sebagian mempunyai bentuk yang sama dengan adjective.\n\n| Adjective | Adverb | Example |\n|---|---|---|\n| good | well | She sings well. |\n| fast | fast | He runs fast. |\n| hard | hard | They work hard. |\n| late | late | We arrived late. |\n| early | early | I woke up early. |\n\n## Perbedaan penting\n- **hard** = keras/giat; **hardly** = hampir tidak (*I hardly know him*).\n- **late** = terlambat; **lately** = akhir-akhir ini (*I've been busy lately*).\n- **good** menjelaskan noun; **well** sering menjelaskan verb dan juga bisa berarti sehat dalam konteks tertentu.\n\n❌ *He speaks English good.* → ✅ *He speaks English well.*\n\n**Ingat:** *bad → badly* untuk adverb cara yang biasa; **worse** umumnya bentuk komparatif dari *bad/badly*, bukan padanan adverb dasarnya."
+    },
+    {
+      "module_slug": "adjective-adverb",
+      "slug": "adjective-adverb-context",
+      "title": "Choose Adjective or Adverb",
+      "summary": "Memilih jenis kata sesuai fungsi dalam kalimat.",
+      "body_md": "# Adjective vs Adverb\nLihat **kata apa yang diterangkan**.\n\n- Menjelaskan **noun** → adjective: *a slow bus*.\n- Menjelaskan **verb** → adverb: *The bus moves slowly*.\n- Menjelaskan keadaan subject setelah **be/seem/feel/look** → sering adjective: *The food smells delicious*.\n\n## Contoh pasangan\n- *The child is quiet.* / *The child speaks quietly.*\n- *The answer is correct.* / *You answered correctly.*\n- *She is a fluent speaker.* / *She speaks fluently.*\n\n## Kesalahan umum\n❌ *The music sounds beautifully.* → ✅ *The music sounds beautiful.*\n❌ *He finished the test easy.* → ✅ *He finished the test easily.*\n\n**Latihan:** identifikasi kata yang dideskripsikan sebelum memilih *quick/quickly*, *patient/patiently*, atau *sad/sadly*."
+    }
+  ],
+  "degrees-comparison": [
+    {
+      "module_slug": "degrees-comparison",
+      "slug": "positive-comparison",
+      "title": "Positive Degree (as…as)",
+      "summary": "Menyatakan kualitas yang sama atau tidak sama.",
+      "body_md": "# Positive Degree: as ... as\nUntuk menyatakan sifat setara, gunakan **as + adjective + as**.\n\n- *This bag is as heavy as that bag.*\n- *Rina is as tall as Maya.*\n- *The blue car is not as expensive as the red car.*\n\nBisa juga menggunakan **the same + noun + as**:\n- *This watch is the same price as that watch.*\n- *We are the same age.*\n\n## Bentuk noun terkait\n**old → age**, **high → height**, **long → length**, **wide → width**, **fast → speed**.\n\n**Kesalahan umum:** ❌ *as taller as* → ✅ *as tall as*. Bentuk di tengah harus adjective dasar, bukan comparative.\n\n**Latihan:** bandingkan dua benda yang ada di meja atau dua aktivitas yang menurutmu sama sulitnya."
+    },
+    {
+      "module_slug": "degrees-comparison",
+      "slug": "comparative-forms",
+      "title": "Comparative Degree",
+      "summary": "Lebih ... daripada: -er than dan more ... than.",
+      "body_md": "# Comparative Degree\nBandingkan **dua** benda/orang/keadaan menggunakan bentuk comparative.\n\n## Pola\n- **short adjectives + -er + than**: *tall → taller than*, *small → smaller than*, *big → bigger than*.\n- **long adjectives → more + adjective + than**: *more interesting than*, *more expensive than*.\n- **konsonan + y → -ier**: *happy → happier than*, *heavy → heavier than*.\n\n## Contoh\n- *My bag is heavier than yours.*\n- *This lesson is more interesting than the previous one.*\n- *A train is usually faster than a bicycle.*\n\n**Pengecualian:** *good → better*, *bad → worse*, *little → less*, *many/much → more*.\n\n❌ *more taller* → ✅ *taller*; ❌ *expensiver* → ✅ *more expensive*."
+    },
+    {
+      "module_slug": "degrees-comparison",
+      "slug": "superlative-forms",
+      "title": "Superlative Degree",
+      "summary": "Paling ... di antara sekelompok: the -est dan the most.",
+      "body_md": "# Superlative Degree\nUntuk mengatakan **yang paling ...** dalam sebuah kelompok, gunakan superlative.\n\n## Pola\n- **the + adjective-est**: *the tallest, the biggest, the easiest*.\n- **the most + adjective**: *the most beautiful, the most expensive*.\n\n## Contoh\n- *Rina is the tallest student in the class.*\n- *This is the most comfortable room in the hotel.*\n- *That was the easiest exam this semester.*\n\n**Perhatikan:** superlative sering memakai **the**, dan frasa pembanding seperti *in the class* atau *of all*. Bentuk ejaan: *big → biggest*, *busy → busiest*.\n\n**Kesalahan umum:** ❌ *the most tallest* → ✅ *the tallest*; ❌ *the beautifulest* → ✅ *the most beautiful*."
+    },
+    {
+      "module_slug": "degrees-comparison",
+      "slug": "irregular-comparison",
+      "title": "Irregular Comparatives & Superlatives",
+      "summary": "Good/better/best, bad/worse/worst, dan perubahan tidak beraturan.",
+      "body_md": "# Irregular Degrees of Comparison\nTidak semua adjective bisa dibentuk hanya dengan menambahkan -er/-est.\n\n| Positive | Comparative | Superlative |\n|---|---|---|\n| good | better | best |\n| bad | worse | worst |\n| many/much | more | most |\n| little (jumlah) | less | least |\n| far | farther/further | farthest/furthest |\n\n## Contoh\n- *This restaurant is better than that one.*\n- *She is the best player on the team.*\n- *My score is worse than yesterday.*\n- *This is the least expensive option.*\n\n**Catatan:** *farther* sering untuk jarak fisik; *further* juga sering untuk jarak serta konsep tambahan. Keduanya bisa tumpang tindih menurut ragam bahasa.\n\n❌ *gooder* → ✅ *better*.  \n❌ *the worstest* → ✅ *the worst*."
+    }
+  ],
+  "giving-directions": [
+    {
+      "module_slug": "giving-directions",
+      "slug": "direction-vocabulary",
+      "title": "Vocabulary for Directions",
+      "summary": "Kosakata jalan, simpang, lampu lalu lintas, dan posisi.",
+      "body_md": "# Giving Directions: Vocabulary\nUntuk membantu orang menemukan lokasi, kenali istilah dasar berikut.\n\n| English | Indonesia |\n|---|---|\n| intersection / crossroads | persimpangan / perempatan |\n| T-junction | pertigaan |\n| roundabout | bundaran |\n| traffic lights | lampu lalu lintas |\n| pedestrian crossing | penyeberangan pejalan kaki |\n| straight ahead | lurus ke depan |\n| on the left / right | di sisi kiri / kanan |\n| opposite | di seberang/berhadapan |\n\n**Catatan:** *crossroads* tidak selalu sama dengan *crossroad* dalam penggunaan alami; kata yang umum untuk perempatan adalah **intersection** atau **crossroads**.\n\n**Latihan:** cari persimpangan, bundaran, dan lampu lalu lintas di peta sekitar rumahmu, lalu sebutkan istilah Inggrisnya."
+    },
+    {
+      "module_slug": "giving-directions",
+      "slug": "giving-instructions",
+      "title": "Giving Directions: Commands",
+      "summary": "Kalimat perintah untuk menjelaskan jalur.",
+      "body_md": "# Giving Directions: Commands\nGunakan kalimat perintah (**imperative**) dengan kata kerja bentuk dasar.\n\n- **Go straight ahead.** = Jalan terus/lurus.\n- **Turn left at the traffic lights.** = Belok kiri di lampu lalu lintas.\n- **Turn right at the T-junction.** = Belok kanan di pertigaan.\n- **Walk past the bank.** = Lewati bank.\n- **Cross the road carefully.** = Seberangi jalan dengan hati-hati.\n- **Take the second exit at the roundabout.** = Ambil pintu keluar kedua di bundaran.\n- **Make a U-turn where permitted.** = Putar balik di tempat yang diizinkan.\n\n**Tips:** gunakan urutan *First ... Then ... After that ... Finally ...* agar instruksi mudah diikuti. Jangan memberi instruksi berbahaya atau melanggar rambu."
+    },
+    {
+      "module_slug": "giving-directions",
+      "slug": "asking-directions",
+      "title": "Asking for Directions Politely",
+      "summary": "Ungkapan meminta petunjuk jalan dengan sopan.",
+      "body_md": "# Asking for Directions\nCara meminta arah bisa terdengar lebih sopan menggunakan **Excuse me**, **Could you**, dan **please**.\n\n## Contoh pertanyaan\n- *Excuse me, where is the nearest hospital?*\n- *Could you tell me how to get to the station, please?*\n- *Is there a bank near here?*\n- *How far is the bus stop from here?*\n- *Is it within walking distance?*\n\n## Menjawab\n*Go straight for two blocks, then turn left. The station is on your right.*\n\n## Meminta pengulangan\n- *Could you repeat that, please?*\n- *Do you mean the first or second street?*\n- *Thank you for your help.*\n\n**Ingat:** *Where is the station?* merupakan pertanyaan langsung; setelah *Could you tell me ...* gunakan urutan klausa tak langsung: *... where the station is* (bukan *where is the station*)."
+    },
+    {
+      "module_slug": "giving-directions",
+      "slug": "directions-dialogues",
+      "title": "Directions in Dialogues",
+      "summary": "Menggabungkan arah, lokasi, dan pertanyaan.",
+      "body_md": "# Giving Directions in Conversation\nGabungkan kosakata tempat dengan urutan instruksi yang singkat.\n\n## Dialog\nA: *Excuse me, could you show me the way to the library?*  \nB: *Of course. Go straight ahead until you reach the traffic lights.*  \nA: *What should I do at the lights?*  \nB: *Turn right, then walk past the bank. The library is on your left.*  \nA: *Thank you very much!*  \nB: *You're welcome.*\n\n## Menjelaskan lokasi\n- *The café is between the bank and the bookstore.*\n- *The pharmacy is opposite the hospital.*\n- *The station is next to the park.*\n\n## Cara berlatih\nBuat peta sederhana berisi 5 tempat, kemudian tulis dua rute berbeda. Gunakan **straight**, **left**, **right**, **past**, **opposite**, dan **between** secara konsisten."
+    }
+  ]
+}

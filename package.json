@@ -1,0 +1,33 @@
+{
+  "name": "english-lms",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted English LMS with 13 public learning modules and a PostgreSQL bank of 1305 MCQs.",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "db:init": "node scripts/init-db.js",
+    "db:seed": "node scripts/seed.js",
+    "check": "node --check src/server.js && node --check src/routes/site.js && node --check src/routes/admin.js && node --check src/services/assessment.js",
+    "db:seed:extra": "node scripts/seed-extra.js",
+    "db:seed:all": "npm run db:seed && npm run db:seed:extra",
+    "qa:expanded": "python3 scripts/qa_expanded.py",
+    "qa:all": "python3 scripts/qa_bank.py && python3 scripts/qa_expanded.py && python3 scripts/qa_templates.py"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-pg-simple": "^10.0.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "express-session": "^1.18.1",
+    "helmet": "^8.0.0",
+    "markdown-it": "^14.1.0",
+    "pg": "^8.13.1"
+  }
+}
