@@ -1,21 +1,69 @@
 import {Router} from 'express';
+import bcrypt from 'bcryptjs';
 import {randomBytes} from 'node:crypto';
 import {pool,query} from '../db.js';
 import {requireAdmin,asyncRoute} from '../middleware/core.js';
 const router=Router();router.use(requireAdmin);
+router.use((req,res,next)=>{res.set('Cache-Control','no-store');next();});
+const studentId=v=>typeof v==='string'&&/^[1-9]\d{0,17}$/.test(v);
+
 function errorView(res,title,message,status=400){return res.status(status).render('message',{title,message});}
 function int(v){const n=Number(v);return Number.isSafeInteger(n)&&n>0?n:null;}
 const fetchAllModules=async()=>(await query('SELECT id,slug,title,is_published FROM modules ORDER BY sort_order')).rows;
 const lessonOptions=async()=>(await query('SELECT id,module_id,title FROM lessons ORDER BY module_id,sort_order')).rows;
+const studentExamResults=async(limit,offset=0,search='')=>(await query(`SELECT a.*,u.username,u.full_name,
+ COALESCE(m.title,'Final Exam - Semua Materi') module_title
+ FROM attempts a JOIN users u ON u.id=a.user_id LEFT JOIN modules m ON m.id=a.module_id
+ WHERE u.role='student' AND a.mode='exam' AND a.status<>'in_progress'
+ AND ($3='' OR u.username ILIKE '%' || $3 || '%' OR u.full_name ILIKE '%' || $3 || '%')
+ ORDER BY a.submitted_at DESC NULLS LAST,a.id DESC LIMIT $1 OFFSET $2`,[limit,offset,search])).rows;
 router.get('/',asyncRoute(async(req,res)=>{
  const stats=(await query(`SELECT
   (SELECT COUNT(*)::int FROM users) AS users,
   (SELECT COUNT(*)::int FROM questions WHERE is_active) AS questions,
   (SELECT COUNT(*)::int FROM attempts WHERE status<>'in_progress') AS attempts,
   (SELECT COUNT(*)::int FROM modules WHERE is_published) AS published_modules`)).rows[0];
- res.render('admin/index',{title:'Admin Dashboard',stats});
+ const recentResults=await studentExamResults(10);
+ res.render('admin/index',{title:'Admin Dashboard',stats,recentResults});
 }));
 
+router.get('/accounts',asyncRoute(async(req,res)=>{
+ const search=String(req.query.search||'').trim().slice(0,80);
+ const students=(await query(`SELECT u.id,u.username,u.full_name,u.is_active,u.created_at,u.updated_at,
+ (SELECT COUNT(*)::int FROM attempts a WHERE a.user_id=u.id) attempt_count,
+ (SELECT MAX(a.submitted_at) FROM attempts a WHERE a.user_id=u.id AND a.status<>'in_progress') last_activity
+ FROM users u WHERE u.role='student' AND ($1='' OR u.username ILIKE '%' || $1 || '%' OR u.full_name ILIKE '%' || $1 || '%')
+ ORDER BY u.created_at DESC`,[search])).rows;
+ res.render('admin/accounts',{title:'Akun Siswa',students,search,resetPassword:null});
+}));
+router.post('/accounts/:id/reset-password',asyncRoute(async(req,res)=>{
+ if(!studentId(req.params.id))return errorView(res,'Akun tidak ditemukan','Siswa tidak ditemukan.',404);
+ const password=String(req.body.password||'');
+ if(password.length<10||password.length>128)return errorView(res,'Password tidak valid','Password baru harus berisi 10–128 karakter.');
+ const user=(await query("SELECT id,username FROM users WHERE id=$1 AND role='student'",[req.params.id])).rows[0];
+ if(!user)return errorView(res,'Akun tidak ditemukan','Siswa tidak ditemukan.',404);
+ await query('UPDATE users SET password_hash=$1,updated_at=NOW() WHERE id=$2',[await bcrypt.hash(password,12),user.id]);
+ const students=(await query(`SELECT u.id,u.username,u.full_name,u.is_active,u.created_at,u.updated_at,
+ (SELECT COUNT(*)::int FROM attempts a WHERE a.user_id=u.id) attempt_count,
+ (SELECT MAX(a.submitted_at) FROM attempts a WHERE a.user_id=u.id AND a.status<>'in_progress') last_activity
+ FROM users u WHERE u.role='student' ORDER BY u.created_at DESC`)).rows;
+ res.render('admin/accounts',{title:'Akun Siswa',students,search:'',resetPassword:{username:user.username,password}});
+}));
+router.get('/results',asyncRoute(async(req,res)=>{
+ const search=String(req.query.search||'').trim().slice(0,80),page=Math.min(100000,int(req.query.page)||1),limit=50;
+ const results=await studentExamResults(limit,(page-1)*limit,search);
+ res.render('admin/results',{title:'Hasil Ujian Siswa',results,search,page});
+}));
+router.get('/results/:id',asyncRoute(async(req,res)=>{
+ if(!/^\d+$/.test(req.params.id))return errorView(res,'Hasil tidak ditemukan','Hasil ujian tidak ditemukan.',404);
+ const result=(await query(`SELECT a.*,u.username,u.full_name,COALESCE(m.title,'Final Exam - Semua Materi') module_title
+ FROM attempts a JOIN users u ON u.id=a.user_id LEFT JOIN modules m ON m.id=a.module_id
+ WHERE a.id=$1 AND u.role='student' AND a.mode='exam' AND a.status<>'in_progress'`,[req.params.id])).rows[0];
+ if(!result)return errorView(res,'Hasil tidak ditemukan','Hasil ujian tidak ditemukan.',404);
+ const items=(await query(`SELECT ordinal,stem_snapshot,options_snapshot,chosen_option_id,correct_option_id,is_correct
+ FROM attempt_items WHERE attempt_id=$1 ORDER BY ordinal`,[result.id])).rows;
+ res.render('admin/result_detail',{title:'Detail Hasil Ujian',result,items});
+}));
 router.get('/modules',asyncRoute(async(req,res)=>{
  const mods=(await query(`SELECT m.*,c.title course_title,(SELECT COUNT(*)::int FROM lessons l WHERE l.module_id=m.id AND l.is_published) published_lessons
  FROM modules m JOIN courses c ON c.id=m.course_id ORDER BY m.sort_order`)).rows;
