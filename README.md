@@ -1,4 +1,4 @@
-# EnglishLab LMS — Expanded Curriculum (v1.1)
+# He3x LMS — Expanded Curriculum (v1.1)
 
 Web belajar Bahasa Inggris self-hosted: **materi publik tanpa login**, **latihan dan exam harus login**. Dibangun dengan Node.js (ESM), Express, EJS, Bootstrap 5, PostgreSQL. Bahasa UI Indonesia dan konten bilingual. Kurikulum berdasarkan 42 foto materi pengguna. Paket v1.1 berisi **13 modul, 55 submateri** (7 Pronouns + 48 tambahan), **1.305 soal pilihan ganda** (105 Pronouns + 1.200 tambahan), dan pembahasan untuk setiap soal. Konten merupakan adaptasi dan penyusunan ulang pokok bahasan, bukan salinan atau OCR persis dari seluruh halaman.
 
@@ -78,7 +78,7 @@ npm start
 
 **Hasil:** jika uji dari perangkat lain, set `BIND_HOST=0.0.0.0` hanya di jaringan tepercaya dan buka `http://IP-SERVER:3000`. Default `.env.example` adalah `127.0.0.1` sehingga hanya bisa diakses dari server; untuk menguji lokal gunakan `http://localhost:3000`. Admin login via `/login` menggunakan `ADMIN_USERNAME` dan `ADMIN_PASSWORD` yang diisi saat seed. DB seed bersifat idempotent; record soal dan materi yang telah diedit admin tidak ditimpa oleh seed berikutnya. Setiap modul baru berisi 4 materi dan 100 MCQ dengan aturan benar dan pembahasan.
 
-### Upgrade dari EnglishLab Pronouns MVP (database sudah berisi akun dan hasil exam)
+### Upgrade dari He3x Pronouns MVP (database sudah berisi akun dan hasil exam)
 **Backup dulu** (ganti nama database dan role sesuai konfigurasi):
 ```bash
 pg_dump -Fc -U english_lms -h 127.0.0.1 english_lms > english_lms_before_expansion.dump
@@ -122,7 +122,7 @@ chmod 600 /opt/english-lms/.env
 Buat `/etc/systemd/system/english-lms.service`:
 ```ini
 [Unit]
-Description=EnglishLab LMS
+Description=He3x LMS
 After=network-online.target postgresql.service
 Wants=network-online.target
 

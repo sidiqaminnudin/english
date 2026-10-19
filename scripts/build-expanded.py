@@ -1616,7 +1616,7 @@ assert len({item['code'] for item in shuffled})==len(shuffled)
 (ROOT/'db/expanded_lessons.json').write_text(json.dumps(LESSONS,ensure_ascii=False,indent=2)+'\n')
 (ROOT/'db/expanded_bank.json').write_text(json.dumps(shuffled,ensure_ascii=False,indent=2)+'\n')
 def lit(s):return "'"+str(s).replace("'","''")+"'"
-sql=['-- EnglishLab LMS extension: 12 modules, 48 lessons, 1,200 reviewed template-based MCQs.',
+sql=['-- He3x LMS extension: 12 modules, 48 lessons, 1,200 reviewed template-based MCQs.',
  '-- IMPORTANT: run AFTER db:init AND db:seed (Pronouns).',
  '-- Idempotent: existing lessons/questions are NOT overwritten; previously unpublished modules with lessons are NOT forcibly republished.',
  'BEGIN;']

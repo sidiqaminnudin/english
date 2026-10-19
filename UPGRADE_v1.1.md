@@ -1,4 +1,4 @@
-# Upgrade Pronouns MVP → EnglishLab v1.1 (All Modules)
+# Upgrade Pronouns MVP → He3x v1.1 (All Modules)
 
 **Tidak perlu menghapus database, akun siswa, atau riwayat exam.** Perluasan ini memakai skema PostgreSQL yang sama.
 

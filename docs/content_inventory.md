@@ -1,4 +1,4 @@
-# Content Inventory — EnglishLab LMS v1.1
+# Content Inventory — He3x LMS v1.1
 
 Inventaris modul yang disediakan dalam bank materi dan latihan.
 

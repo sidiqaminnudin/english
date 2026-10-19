@@ -1,4 +1,4 @@
-# SYSTEM MAP — EnglishLab Self-hosted English LMS
+# SYSTEM MAP — He3x Self-hosted English LMS
 
 **Status:** Extended curriculum MVP v1.1  |  **Focus:** All 13 modules  |  **Language:** Indonesia (UI) + English (lesson/examples)  |  **Targets:** Desktop & mobile
 

@@ -1,4 +1,4 @@
-# SYSTEM MAP — EnglishLab Self-hosted English LMS
+# SYSTEM MAP — He3x Self-hosted English LMS
 
 **Status:** Implementable MVP v1.0  |  **Focus:** Pronouns  |  **Language:** Indonesia (UI) + English (lesson/examples)  |  **Targets:** Desktop & mobile
 

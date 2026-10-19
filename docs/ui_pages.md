@@ -2,7 +2,7 @@
 
 ## Design system
 - Identitas visual terinspirasi warna hangat GEKA: orange `#EF7D24`, orange pekat `#C65E0C`, charcoal `#222329`, canvas `#FCFAF7`, mint-hijau `#14866D` untuk sukses; font sistem aman offline (system-ui).
-- Header: brand logomark EL + EnglishLab, navigasi Kurikulum, Dashboard (bila login), Login/Daftar. Container maks 1160px, card radius 16px, shadow lembut, akses kontras jelas.
+- Header: brand logomark H3 + He3x, navigasi Kurikulum, Dashboard (bila login), Login/Daftar. Container maks 1160px, card radius 16px, shadow lembut, akses kontras jelas.
 - Breakpoints: mobile <576px, tablet 576–991px, desktop >=992px. Sidebar materi menjadi panel di atas konten pada mobile; tabel admin dapat horizontal-scroll; CTA memenuhi lebar mobile.
 - Semua aksi utama memakai HTML `<form>` + keyboard focus style, label dan bantuan teks, feedback benar/salah tidak hanya dengan warna.
 

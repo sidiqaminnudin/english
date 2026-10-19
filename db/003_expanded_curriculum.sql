@@ -1,4 +1,4 @@
--- EnglishLab LMS extension: 12 modules, 48 lessons, 1,200 reviewed template-based MCQs.
+-- He3x LMS extension: 12 modules, 48 lessons, 1,200 reviewed template-based MCQs.
 -- IMPORTANT: run AFTER db:init AND db:seed (Pronouns).
 -- Idempotent: existing lessons/questions are NOT overwritten; previously unpublished modules with lessons are NOT forcibly republished.
 BEGIN;
