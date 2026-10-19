@@ -8,13 +8,13 @@ router.use((req,res,next)=>{res.set('Cache-Control','no-store');next();});
 const studentId=v=>typeof v==='string'&&/^[1-9]\d{0,17}$/.test(v);
 
 function errorView(res,title,message,status=400){return res.status(status).render('message',{title,message});}
-function int(v){const n=Number(v);return Number.isSafeInteger(n)&&n>0?n:null;}
+function int(v){const n=Number.parseInt(v,10);return Number.isSafeInteger(n)&&n>0?n:null;}
 const fetchAllModules=async()=>(await query('SELECT id,slug,title,is_published FROM modules ORDER BY sort_order')).rows;
 const lessonOptions=async()=>(await query('SELECT id,module_id,title FROM lessons ORDER BY module_id,sort_order')).rows;
 const studentExamResults=async(limit,offset=0,search='')=>(await query(`SELECT a.*,u.username,u.full_name,
  COALESCE(m.title,'Final Exam - Semua Materi') module_title
  FROM attempts a JOIN users u ON u.id=a.user_id LEFT JOIN modules m ON m.id=a.module_id
- WHERE u.role='student' AND a.mode='exam' AND a.status<>'in_progress'
+ WHERE u.role='student' AND a.status<>'in_progress'
  AND ($3='' OR u.username ILIKE '%' || $3 || '%' OR u.full_name ILIKE '%' || $3 || '%')
  ORDER BY a.submitted_at DESC NULLS LAST,a.id DESC LIMIT $1 OFFSET $2`,[limit,offset,search])).rows;
 router.get('/',asyncRoute(async(req,res)=>{
@@ -58,7 +58,7 @@ router.get('/results/:id',asyncRoute(async(req,res)=>{
  if(!/^\d+$/.test(req.params.id))return errorView(res,'Hasil tidak ditemukan','Hasil ujian tidak ditemukan.',404);
  const result=(await query(`SELECT a.*,u.username,u.full_name,COALESCE(m.title,'Final Exam - Semua Materi') module_title
  FROM attempts a JOIN users u ON u.id=a.user_id LEFT JOIN modules m ON m.id=a.module_id
- WHERE a.id=$1 AND u.role='student' AND a.mode='exam' AND a.status<>'in_progress'`,[req.params.id])).rows[0];
+ WHERE a.id=$1 AND u.role='student' AND a.status<>'in_progress'`,[req.params.id])).rows[0];
  if(!result)return errorView(res,'Hasil tidak ditemukan','Hasil ujian tidak ditemukan.',404);
  const items=(await query(`SELECT ordinal,stem_snapshot,options_snapshot,chosen_option_id,correct_option_id,is_correct
  FROM attempt_items WHERE attempt_id=$1 ORDER BY ordinal`,[result.id])).rows;
