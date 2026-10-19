@@ -60,12 +60,12 @@ router.get('/dashboard',requireAuth,asyncRoute(async(req,res)=>{
  const stats=(await query(`SELECT (SELECT COUNT(*)::int FROM lesson_progress WHERE user_id=$1) AS lessons,
   (SELECT COUNT(*)::int FROM attempts WHERE user_id=$1 AND status<>'in_progress') AS completed,
   (SELECT ROUND(COALESCE(AVG(score),0),1) FROM attempts WHERE user_id=$1 AND mode='exam' AND status<>'in_progress') AS avg_score`,[userId])).rows[0];
- const attempts=(await query(`SELECT a.*,m.title module_title,m.slug module_slug FROM attempts a JOIN modules m ON m.id=a.module_id
+ const attempts=(await query(`SELECT a.*,COALESCE(m.title,'Final Exam - Semua Materi') module_title,COALESCE(m.slug,'final') module_slug FROM attempts a LEFT JOIN modules m ON m.id=a.module_id
   WHERE a.user_id=$1 ORDER BY a.started_at DESC LIMIT 8`,[userId])).rows;
  res.render('dashboard',{title:'Dashboard saya',stats,attempts});
 }));
 router.get('/history',requireAuth,asyncRoute(async(req,res)=>{
- const attempts=(await query(`SELECT a.*,m.title module_title,m.slug module_slug FROM attempts a JOIN modules m ON m.id=a.module_id
+ const attempts=(await query(`SELECT a.*,COALESCE(m.title,'Final Exam - Semua Materi') module_title,COALESCE(m.slug,'final') module_slug FROM attempts a LEFT JOIN modules m ON m.id=a.module_id
  WHERE a.user_id=$1 ORDER BY a.started_at DESC LIMIT 100`,[req.session.user.id])).rows;
  res.render('history',{title:'Riwayat saya',attempts});
 }));
@@ -87,6 +87,14 @@ router.post('/practice/:moduleSlug',requireAuth,asyncRoute(async(req,res)=>{
  if(!id)return showMessage(res,400,'Soal belum tersedia','Belum ada soal aktif pada topik yang dipilih.');
  res.redirect('/attempts/'+id+'/take');
 }));
+router.get('/exam/final',requireAuth,asyncRoute(async(req,res)=>{
+ res.render('final_exam',{title:'Final Exam'});
+}));
+router.post('/exam/final',requireAuth,asyncRoute(async(req,res)=>{
+ const id=await startAttempt({userId:req.session.user.id,mode:'exam',requestedCount:60,durationMinutes:60,passingScore:75,finalExam:true});
+ if(!id)return showMessage(res,400,'Final exam belum tersedia','Diperlukan minimal 60 soal valid dan soal untuk setiap submateri publik. Maksimal 60 submateri dapat dicakup.');
+ res.redirect('/attempts/'+id+'/take');
+}));
 router.get('/exam/:moduleSlug',requireAuth,asyncRoute(async(req,res)=>{
  const module=await getModule(req.params.moduleSlug);if(!module)return showMessage(res,404,'Modul tidak ditemukan','Modul belum tersedia.');
  const config=(await query('SELECT * FROM exam_configs WHERE module_id=$1',[module.id])).rows[0]||{question_count:20,duration_minutes:30,passing_score:75};
@@ -100,7 +108,7 @@ router.post('/exam/:moduleSlug',requireAuth,asyncRoute(async(req,res)=>{
  if(!id)return showMessage(res,400,'Bank soal kosong','Exam belum tersedia untuk modul ini.');
  res.redirect('/attempts/'+id+'/take');
 }));
-const getOwned=async(id,userId)=>(await query(`SELECT a.*,m.title module_title,m.slug module_slug FROM attempts a JOIN modules m ON a.module_id=m.id
+const getOwned=async(id,userId)=>(await query(`SELECT a.*,COALESCE(m.title,'Final Exam - Semua Materi') module_title,COALESCE(m.slug,'final') module_slug FROM attempts a LEFT JOIN modules m ON a.module_id=m.id
  WHERE a.id=$1 AND a.user_id=$2`,[id,userId])).rows[0];
 router.get('/attempts/:id/take',requireAuth,asyncRoute(async(req,res)=>{
  const attempt=await getOwned(req.params.id,req.session.user.id);if(!attempt)return showMessage(res,404,'Sesi tidak ditemukan','Periksa kembali tautan sesi.');

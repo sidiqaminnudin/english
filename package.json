@@ -11,7 +11,9 @@
     "db:seed": "node scripts/seed.js",
     "check": "node --check src/server.js && node --check src/routes/site.js && node --check src/routes/admin.js && node --check src/services/assessment.js",
     "db:seed:extra": "node scripts/seed-extra.js",
-    "db:seed:all": "npm run db:seed && npm run db:seed:extra",
+    "db:seed:all": "npm run db:seed && npm run db:seed:extra && npm run db:seed:final",
+    "db:seed:final": "node scripts/seed-final.js",
+    "qa:final": "node scripts/qa-final.js",
     "qa:expanded": "python3 scripts/qa_expanded.py",
     "qa:all": "python3 scripts/qa_bank.py && python3 scripts/qa_expanded.py && python3 scripts/qa_templates.py"
   },

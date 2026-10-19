@@ -1,5 +1,16 @@
 # He3x LMS — Expanded Curriculum (v1.1)
 
+## Tambahan bank soal dan Final Exam
+
+- Tambahan 50 soal Pronouns + 50 soal Simple Present, lengkap dengan kunci dan pembahasan. Total setelah seluruh seed: 1.405 soal.
+- Final Exam di `/exam/final`: 60 soal, 60 menit, nilai lulus 75 (45 benar). Login wajib.
+- Setiap submateri publik mendapat minimal satu soal; lima slot tambahan pada kurikulum 55 submateri dibagi secara acak. Soal dan opsi diacak, pembahasan muncul setelah selesai.
+- Upgrade database yang sudah berisi seluruh materi: `npm run db:seed:final`. Seed tidak menimpa soal lama; migrasi mengizinkan attempt lintas modul tanpa menghapus riwayat.
+- Instalasi baru: `npm run db:init`, lalu `npm run db:seed:all`.
+- Validasi tanpa database: `npm run qa:final`.
+- Final Exam ditolak jika bank tidak memiliki 60 soal valid, ada submateri publik tanpa soal valid, atau jumlah submateri melebihi 60.
+
+
 Web belajar Bahasa Inggris self-hosted: **materi publik tanpa login**, **latihan dan exam harus login**. Dibangun dengan Node.js (ESM), Express, EJS, Bootstrap 5, PostgreSQL. Bahasa UI Indonesia dan konten bilingual. Kurikulum berdasarkan 42 foto materi pengguna. Paket v1.1 berisi **13 modul, 55 submateri** (7 Pronouns + 48 tambahan), **1.305 soal pilihan ganda** (105 Pronouns + 1.200 tambahan), dan pembahasan untuk setiap soal. Konten merupakan adaptasi dan penyusunan ulang pokok bahasan, bukan salinan atau OCR persis dari seluruh halaman.
 
 ## Isi paket

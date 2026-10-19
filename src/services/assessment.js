@@ -1,19 +1,21 @@
 import {pool} from '../db.js';
-function shuffle(values){const a=[...values];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
-export async function startAttempt({userId,moduleId,lessonId=null,mode,requestedCount,passingScore=75,durationMinutes=null}){
+import {shuffle,selectFinalQuestions} from './question-selection.js';
+export async function startAttempt({userId,moduleId=null,lessonId=null,mode,requestedCount,passingScore=75,durationMinutes=null,finalExam=false}){
  const client=await pool.connect();
  try{
   await client.query('BEGIN');
-  const poolRows=(await client.query(`SELECT q.id,q.stem,q.explanation,q.difficulty,
+  const lessonIds=finalExam?(await client.query(`SELECT l.id FROM lessons l JOIN modules m ON m.id=l.module_id JOIN courses c ON c.id=m.course_id WHERE l.is_published AND m.is_published AND c.is_published`)).rows.map(l=>l.id):[];
+  const poolRows=(await client.query(`SELECT q.id,q.lesson_id,q.stem,q.explanation,q.difficulty,
    (SELECT COUNT(*)::int FROM attempt_items ai JOIN attempts a ON a.id=ai.attempt_id WHERE ai.question_id=q.id AND a.user_id=$2 AND a.started_at>NOW()-INTERVAL '30 days') AS seen
-   FROM questions q WHERE q.module_id=$1 AND ($3::bigint IS NULL OR q.lesson_id=$3)
+   FROM questions q WHERE (($4::boolean AND q.lesson_id=ANY($5::bigint[]) AND EXISTS(SELECT 1 FROM lessons l WHERE l.id=q.lesson_id AND l.module_id=q.module_id)) OR (NOT $4::boolean AND q.module_id=$1)) AND ($3::bigint IS NULL OR q.lesson_id=$3)
    AND q.is_active=true AND (SELECT COUNT(*) FROM question_options o WHERE o.question_id=q.id)=4
    AND (SELECT COUNT(*) FROM question_options o WHERE o.question_id=q.id AND o.is_correct)=1
-   ORDER BY seen ASC, RANDOM() LIMIT 5000`,[moduleId,userId,lessonId])).rows;
+   ORDER BY seen ASC, RANDOM()`,[moduleId,userId,lessonId,finalExam,lessonIds])).rows;
   if(!poolRows.length){await client.query('ROLLBACK');return null;}
   // Round-robin by difficulty; preserves seen-count preference within each group.
   const groups={easy:[],medium:[],hard:[]};for(const q of poolRows)groups[q.difficulty].push(q);
-  const selected=[];const levels=shuffle(['easy','medium','hard']);
+  const selected=finalExam?selectFinalQuestions(poolRows,lessonIds,requestedCount):[];const levels=shuffle(['easy','medium','hard']);
+  if(finalExam&&!selected.length){await client.query('ROLLBACK');return null;}
   while(selected.length<requestedCount){let added=0;for(const level of levels){if(selected.length>=requestedCount)break;if(groups[level].length){selected.push(groups[level].shift());added++;}}if(!added)break;}
   const attempt=(await client.query(`INSERT INTO attempts(user_id,module_id,lesson_id,mode,question_count,duration_minutes,passing_score)
    VALUES($1,$2,$3,$4,$5,$6,$7) RETURNING id`,[userId,moduleId,lessonId,mode,selected.length,durationMinutes,passingScore])).rows[0];
