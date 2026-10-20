@@ -15,8 +15,8 @@
 .lesson-practice-banner{background:#fff6eb}
 
 /* Keep wide admin tables inside the viewport and allow native touch scrolling. */
-.admin-table-scroll{display:block;width:100%;max-width:100%;min-width:0;overflow-x:auto;-webkit-overflow-scrolling:touch}
-.admin-table-scroll>.table{width:100%;min-width:900px}
+.admin-table-scroll{display:block;width:100%;max-width:100%;min-width:0;overflow-x:auto!important;overflow-y:hidden;overscroll-behavior-x:contain;touch-action:pan-x;-webkit-overflow-scrolling:touch}
+.admin-table-scroll>.table{display:table;width:max-content;min-width:900px!important;max-width:none}
 .admin-table-scroll th,.admin-table-scroll td{white-space:nowrap}
 .admin-table-scroll td:nth-child(-n+2){white-space:normal;min-width:160px;max-width:280px;overflow-wrap:anywhere}
 .admin-table-scroll:focus-visible{outline:3px solid #ffb271;outline-offset:3px}
