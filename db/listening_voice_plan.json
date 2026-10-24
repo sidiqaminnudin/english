@@ -1,0 +1,17 @@
+{
+  "version": "1.3-listening-neural",
+  "locale": "en-US",
+  "voices": {
+    "at-the-library": {"Anna":"en-US-JennyNeural", "Librarian":"en-US-GuyNeural"},
+    "weekend-plans": {"Tom":"en-US-GuyNeural", "Maya":"en-US-AriaNeural"},
+    "missed-the-bus": {"narrator":"en-US-JennyNeural"},
+    "at-the-cafe": {"Server":"en-GB-RyanNeural", "Dina":"en-US-AriaNeural"},
+    "rainy-afternoon": {"narrator":"en-GB-SoniaNeural"},
+    "asking-directions": {"Visitor":"en-US-GuyNeural", "Local":"en-GB-SoniaNeural"},
+    "new-job": {"narrator":"en-US-GuyNeural"},
+    "at-the-clinic": {"Doctor":"en-GB-RyanNeural", "Patient":"en-US-JennyNeural"}
+  },
+  "pause_ms": 450,
+  "speaking_rate": "-6%",
+  "output_format": "audio-24khz-96kbitrate-mono-mp3"
+}

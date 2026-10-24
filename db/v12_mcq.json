@@ -1,0 +1,2972 @@
+[
+  {
+    "code": "N26-SIMPLEPAST-001",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "She _____ yesterday. (walk)",
+    "options": [
+      "walk",
+      "walked",
+      "walking",
+      "will walk"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-002",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"She walked yesterday\"?",
+    "options": [
+      "She did not walk yesterday.",
+      "She did not walked yesterday.",
+      "She does not walked yesterday.",
+      "She not walk yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-003",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "They _____ yesterday. (play)",
+    "options": [
+      "play",
+      "played",
+      "playing",
+      "will play"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-004",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"They played yesterday\"?",
+    "options": [
+      "They did not play yesterday.",
+      "They did not played yesterday.",
+      "They does not played yesterday.",
+      "They not play yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-005",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "He _____ yesterday. (visit)",
+    "options": [
+      "visit",
+      "visited",
+      "visiting",
+      "will visit"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-006",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"He visited yesterday\"?",
+    "options": [
+      "He did not visit yesterday.",
+      "He did not visited yesterday.",
+      "He does not visited yesterday.",
+      "He not visit yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-007",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "We _____ yesterday. (study)",
+    "options": [
+      "study",
+      "studied",
+      "studying",
+      "will study"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-008",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"We studied yesterday\"?",
+    "options": [
+      "We did not study yesterday.",
+      "We did not studied yesterday.",
+      "We does not studied yesterday.",
+      "We not study yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-009",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "My mother _____ yesterday. (cook)",
+    "options": [
+      "cook",
+      "cooked",
+      "cooking",
+      "will cook"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-010",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"My mother cooked yesterday\"?",
+    "options": [
+      "My mother did not cook yesterday.",
+      "My mother did not cooked yesterday.",
+      "My mother does not cooked yesterday.",
+      "My mother not cook yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-011",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Dina _____ yesterday. (buy)",
+    "options": [
+      "buy",
+      "bought",
+      "buying",
+      "will buy"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-012",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"Dina bought yesterday\"?",
+    "options": [
+      "Dina did not buy yesterday.",
+      "Dina did not bought yesterday.",
+      "Dina does not bought yesterday.",
+      "Dina not buy yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-013",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "I _____ yesterday. (meet)",
+    "options": [
+      "meet",
+      "met",
+      "meeting",
+      "will meet"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-014",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"I met yesterday\"?",
+    "options": [
+      "I did not meet yesterday.",
+      "I did not met yesterday.",
+      "I does not met yesterday.",
+      "I not meet yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-015",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Rudi _____ yesterday. (go)",
+    "options": [
+      "go",
+      "went",
+      "going",
+      "will go"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-016",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"Rudi went yesterday\"?",
+    "options": [
+      "Rudi did not go yesterday.",
+      "Rudi did not went yesterday.",
+      "Rudi does not went yesterday.",
+      "Rudi not go yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-017",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "The children _____ yesterday. (watch)",
+    "options": [
+      "watch",
+      "watched",
+      "watching",
+      "will watch"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-018",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"The children watched yesterday\"?",
+    "options": [
+      "The children did not watch yesterday.",
+      "The children did not watched yesterday.",
+      "The children does not watched yesterday.",
+      "The children not watch yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-019",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "The teacher _____ yesterday. (write)",
+    "options": [
+      "write",
+      "wrote",
+      "writeing",
+      "will write"
+    ],
+    "correct_index": 1,
+    "explanation": "Simple Past positif memakai V2 untuk kejadian kemarin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-020",
+    "module_slug": "simple-past",
+    "lesson_slug": "verbal",
+    "stem": "Which negative sentence is correct for \"The teacher wrote yesterday\"?",
+    "options": [
+      "The teacher did not write yesterday.",
+      "The teacher did not wrote yesterday.",
+      "The teacher does not wrote yesterday.",
+      "The teacher not write yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah did not gunakan kata kerja dasar V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEPAST-021",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "I _____ at school last Monday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-022",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "She _____ at school last Monday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-023",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "It _____ at school last Monday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-024",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "We _____ at school last Monday.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-025",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "They _____ at school last Monday.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEPAST-026",
+    "module_slug": "simple-past",
+    "lesson_slug": "nominal",
+    "stem": "You _____ at school last Monday.",
+    "options": [
+      "were",
+      "was",
+      "is",
+      "be"
+    ],
+    "correct_index": 0,
+    "explanation": "Gunakan was/were untuk nominal Simple Past, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-001",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "She _____ finished the report already.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-002",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: She has _____ it.",
+    "options": [
+      "finished",
+      "finish",
+      "is finish",
+      "finishing"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-003",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "They _____ sent the report already.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-004",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: They have _____ it.",
+    "options": [
+      "sent",
+      "send",
+      "is send",
+      "sending"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-005",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "He _____ written the report already.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-006",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: He has _____ it.",
+    "options": [
+      "written",
+      "write",
+      "is write",
+      "writeing"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-007",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "We _____ seen it before.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-008",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: We have _____ it.",
+    "options": [
+      "seen",
+      "see",
+      "is see",
+      "seeing"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-009",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "I _____ bought it before.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-010",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: I have _____ it.",
+    "options": [
+      "bought",
+      "buy",
+      "is buy",
+      "buying"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-011",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Rita _____ gone there before.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-012",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: Rita has _____ there.",
+    "options": [
+      "gone",
+      "go",
+      "is go",
+      "going"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-013",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "The children _____ eaten it before.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-014",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: The children have _____ it.",
+    "options": [
+      "eaten",
+      "eat",
+      "is eat",
+      "eating"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-015",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "My father _____ read the report already.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-016",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: My father has _____ it.",
+    "options": [
+      "read",
+      "reads",
+      "is read",
+      "reading"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-017",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "She _____ broken it before.",
+    "options": [
+      "has",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-018",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: She has _____ it.",
+    "options": [
+      "broken",
+      "break",
+      "is break",
+      "breaking"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-019",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "You _____ done the report already.",
+    "options": [
+      "have",
+      "did",
+      "was",
+      "will"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Perfect: have/has + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-020",
+    "module_slug": "present-perfect",
+    "lesson_slug": "form",
+    "stem": "Complete: You have _____ it.",
+    "options": [
+      "done",
+      "do",
+      "is do",
+      "doing"
+    ],
+    "correct_index": 0,
+    "explanation": "Setelah have/has diperlukan past participle (V3).",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-021",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "I have lived here _____ 3 years.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "For dipakai untuk durasi.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-022",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "I have lived here _____ 2 hours.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "For dipakai untuk durasi.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-023",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "I have lived here _____ 5 months.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "For dipakai untuk durasi.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-024",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "I have lived here _____ 10 minutes.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "For dipakai untuk durasi.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-025",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "I have lived here _____ 6 weeks.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "For dipakai untuk durasi.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-026",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "She has worked here _____ Monday.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "Since menunjukkan titik awal, bukan durasi.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-027",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "She has worked here _____ 2019.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "Since menunjukkan titik awal, bukan durasi.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-028",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "She has worked here _____ yesterday.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "Since menunjukkan titik awal, bukan durasi.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-029",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "She has worked here _____ June.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "Since menunjukkan titik awal, bukan durasi.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTPERFECT-030",
+    "module_slug": "present-perfect",
+    "lesson_slug": "since-for",
+    "stem": "She has worked here _____ my birthday.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "ago"
+    ],
+    "correct_index": 0,
+    "explanation": "Since menunjukkan titik awal, bukan durasi.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-001",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "She _____ reading now.",
+    "options": [
+      "is",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-002",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"read\".",
+    "options": [
+      "reading",
+      "readed",
+      "reads",
+      "to read"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-003",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "They _____ studying now.",
+    "options": [
+      "are",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-004",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"study\".",
+    "options": [
+      "studying",
+      "studyed",
+      "studys",
+      "to study"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-005",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "I _____ working now.",
+    "options": [
+      "am",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-006",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"work\".",
+    "options": [
+      "working",
+      "worked",
+      "works",
+      "to work"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-007",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "He _____ cooking now.",
+    "options": [
+      "is",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-008",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"cook\".",
+    "options": [
+      "cooking",
+      "cooked",
+      "cooks",
+      "to cook"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-009",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "We _____ playing now.",
+    "options": [
+      "are",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-010",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"play\".",
+    "options": [
+      "playing",
+      "played",
+      "plays",
+      "to play"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-011",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "The children _____ running now.",
+    "options": [
+      "are",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-012",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"run\".",
+    "options": [
+      "running",
+      "runed",
+      "runs",
+      "to run"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-013",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "My sister _____ writing now.",
+    "options": [
+      "is",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-014",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"write\".",
+    "options": [
+      "writing",
+      "writeed",
+      "writes",
+      "to write"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-015",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "You _____ listening now.",
+    "options": [
+      "are",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-016",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"listen\".",
+    "options": [
+      "listening",
+      "listened",
+      "listens",
+      "to listen"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-017",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "Rina _____ dancing now.",
+    "options": [
+      "is",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-018",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"dance\".",
+    "options": [
+      "dancing",
+      "danceed",
+      "dances",
+      "to dance"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-019",
+    "module_slug": "present-continuous",
+    "lesson_slug": "uses",
+    "stem": "The boy _____ sleeping now.",
+    "options": [
+      "is",
+      "was",
+      "did",
+      "have"
+    ],
+    "correct_index": 0,
+    "explanation": "Present Continuous memakai am/is/are + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-020",
+    "module_slug": "present-continuous",
+    "lesson_slug": "spelling-ing",
+    "stem": "Choose the -ing form of \"sleep\".",
+    "options": [
+      "sleeping",
+      "sleeped",
+      "sleeps",
+      "to sleep"
+    ],
+    "correct_index": 0,
+    "explanation": "Pola -ing memperhatikan huruf akhir dan pola suku kata.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-021",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "I _____ the answer right now. (know)",
+    "options": [
+      "know",
+      "am knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-022",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "She _____ the answer right now. (know)",
+    "options": [
+      "knows",
+      "is knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-023",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "They _____ the answer right now. (know)",
+    "options": [
+      "know",
+      "are knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-024",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "We _____ the answer right now. (know)",
+    "options": [
+      "know",
+      "are knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-025",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "The boy _____ the answer right now. (know)",
+    "options": [
+      "knows",
+      "is knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-026",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "My parents _____ the answer right now. (know)",
+    "options": [
+      "know",
+      "are knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-027",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "He _____ the answer right now. (know)",
+    "options": [
+      "knows",
+      "is knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PRESENTCONTINUOUS-028",
+    "module_slug": "present-continuous",
+    "lesson_slug": "stative",
+    "stem": "You _____ the answer right now. (know)",
+    "options": [
+      "know",
+      "are knowing",
+      "knowledges",
+      "knew"
+    ],
+    "correct_index": 0,
+    "explanation": "Know menyatakan keadaan pengetahuan; biasanya Simple Present.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-001",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "She _____ studying at 8 p.m. last night.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-002",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "She was studying _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-003",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "They _____ talking at 8 p.m. last night.",
+    "options": [
+      "were",
+      "are",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-004",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "They were talking _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-005",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "I _____ sleeping at 8 p.m. last night.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-006",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "I was sleeping _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-007",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "We _____ watching TV at 8 p.m. last night.",
+    "options": [
+      "were",
+      "are",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-008",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "We were watching TV _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-009",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "He _____ cooking at 8 p.m. last night.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-010",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "He was cooking _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-011",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "You _____ working at 8 p.m. last night.",
+    "options": [
+      "were",
+      "are",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-012",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "You were working _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-013",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "The kids _____ playing at 8 p.m. last night.",
+    "options": [
+      "were",
+      "are",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-014",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "The kids were playing _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-015",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "Rina _____ reading at 8 p.m. last night.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-016",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "Rina was reading _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-017",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "The teacher _____ writing at 8 p.m. last night.",
+    "options": [
+      "was",
+      "is",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-018",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "The teacher was writing _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-019",
+    "module_slug": "past-continuous",
+    "lesson_slug": "form",
+    "stem": "My parents _____ walking at 8 p.m. last night.",
+    "options": [
+      "were",
+      "are",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous: was/were + V-ing, berdasar subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-020",
+    "module_slug": "past-continuous",
+    "lesson_slug": "when-while",
+    "stem": "My parents were walking _____ the lights went out.",
+    "options": [
+      "when",
+      "since",
+      "for",
+      "until"
+    ],
+    "correct_index": 0,
+    "explanation": "When memperkenalkan peristiwa yang menyela aksi yang sedang berlangsung.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-021",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "I was sleeping yesterday.",
+      "I sleeps yesterday.",
+      "I had sleep yesterday.",
+      "I will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-022",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "She was sleeping yesterday.",
+      "She sleeps yesterday.",
+      "She had sleep yesterday.",
+      "She will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-023",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "We were sleeping yesterday.",
+      "We sleeps yesterday.",
+      "We had sleep yesterday.",
+      "We will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-024",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "They were sleeping yesterday.",
+      "They sleeps yesterday.",
+      "They had sleep yesterday.",
+      "They will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-025",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "He was sleeping yesterday.",
+      "He sleeps yesterday.",
+      "He had sleep yesterday.",
+      "He will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASTCONTINUOUS-026",
+    "module_slug": "past-continuous",
+    "lesson_slug": "practice",
+    "stem": "Which is a Past Continuous sentence?",
+    "options": [
+      "Rudi was sleeping yesterday.",
+      "Rudi sleeps yesterday.",
+      "Rudi had sleep yesterday.",
+      "Rudi will sleep yesterday."
+    ],
+    "correct_index": 0,
+    "explanation": "Past Continuous memakai was/were + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-001",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "I _____ call tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-002",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: I will call tomorrow.",
+    "options": [
+      "I will not call tomorrow.",
+      "I will not calls tomorrow.",
+      "I did not call tomorrow.",
+      "I not will call tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-003",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "She _____ help tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-004",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: She will help tomorrow.",
+    "options": [
+      "She will not help tomorrow.",
+      "She will not helps tomorrow.",
+      "She did not help tomorrow.",
+      "She not will help tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-005",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "They _____ arrive tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-006",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: They will arrive tomorrow.",
+    "options": [
+      "They will not arrive tomorrow.",
+      "They will not arrives tomorrow.",
+      "They did not arrive tomorrow.",
+      "They not will arrive tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-007",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "We _____ travel tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-008",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: We will travel tomorrow.",
+    "options": [
+      "We will not travel tomorrow.",
+      "We will not travels tomorrow.",
+      "We did not travel tomorrow.",
+      "We not will travel tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-009",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "He _____ join tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-010",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: He will join tomorrow.",
+    "options": [
+      "He will not join tomorrow.",
+      "He will not joins tomorrow.",
+      "He did not join tomorrow.",
+      "He not will join tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-011",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "The teacher _____ explain tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-012",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: The teacher will explain tomorrow.",
+    "options": [
+      "The teacher will not explain tomorrow.",
+      "The teacher will not explains tomorrow.",
+      "The teacher did not explain tomorrow.",
+      "The teacher not will explain tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-013",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "My friend _____ visit tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-014",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: My friend will visit tomorrow.",
+    "options": [
+      "My friend will not visit tomorrow.",
+      "My friend will not visits tomorrow.",
+      "My friend did not visit tomorrow.",
+      "My friend not will visit tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-015",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Dina _____ study tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-016",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: Dina will study tomorrow.",
+    "options": [
+      "Dina will not study tomorrow.",
+      "Dina will not studys tomorrow.",
+      "Dina did not study tomorrow.",
+      "Dina not will study tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-017",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "You _____ learn tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-018",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: You will learn tomorrow.",
+    "options": [
+      "You will not learn tomorrow.",
+      "You will not learns tomorrow.",
+      "You did not learn tomorrow.",
+      "You not will learn tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-019",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "The students _____ practice tomorrow.",
+    "options": [
+      "will",
+      "was",
+      "did",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Will + verb dasar menyatakan peristiwa atau keputusan masa depan.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-020",
+    "module_slug": "simple-future",
+    "lesson_slug": "will",
+    "stem": "Choose the correct negative sentence: The students will practice tomorrow.",
+    "options": [
+      "The students will not practice tomorrow.",
+      "The students will not practices tomorrow.",
+      "The students did not practice tomorrow.",
+      "The students not will practice tomorrow."
+    ],
+    "correct_index": 0,
+    "explanation": "Negatif: will not + V1.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-021",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "I _____ going to visit the museum next week.",
+    "options": [
+      "am",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-022",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "She _____ going to visit the museum next week.",
+    "options": [
+      "is",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-023",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "They _____ going to visit the museum next week.",
+    "options": [
+      "are",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-024",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "We _____ going to visit the museum next week.",
+    "options": [
+      "are",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-025",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "He _____ going to visit the museum next week.",
+    "options": [
+      "is",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-026",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "You _____ going to visit the museum next week.",
+    "options": [
+      "are",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-027",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "My brother _____ going to visit the museum next week.",
+    "options": [
+      "is",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-SIMPLEFUTURE-028",
+    "module_slug": "simple-future",
+    "lesson_slug": "going-to",
+    "stem": "The students _____ going to visit the museum next week.",
+    "options": [
+      "are",
+      "will",
+      "did",
+      "was"
+    ],
+    "correct_index": 0,
+    "explanation": "Be going to membutuhkan am/is/are, sesuai subject.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-001",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "I _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-002",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, i _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-003",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "She _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-004",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, she _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-005",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "We _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-006",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, we _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-007",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "They _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-008",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, they _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-009",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "He _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-010",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, he _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-011",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "My sister _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-012",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, my sister _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-013",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "You _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-014",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, you _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-015",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "The workers _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-016",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, the workers _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-017",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "Rita _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-018",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, rita _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-019",
+    "module_slug": "future-continuous",
+    "lesson_slug": "form",
+    "stem": "The children _____ studying at this time tomorrow.",
+    "options": [
+      "will be",
+      "will",
+      "is",
+      "has been"
+    ],
+    "correct_index": 0,
+    "explanation": "Future Continuous: will be + V-ing.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-FUTURECONTINUOUS-020",
+    "module_slug": "future-continuous",
+    "lesson_slug": "uses",
+    "stem": "At 8 tomorrow night, the children _____ watching TV.",
+    "options": [
+      "will be",
+      "has",
+      "was",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Peristiwa berlangsung pada waktu masa depan memakai will be + V-ing.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-001",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "obligation",
+    "stem": "You _____ drink more water.",
+    "options": [
+      "should",
+      "may not",
+      "cannot",
+      "did"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: advice; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-002",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "He _____ speak French.",
+    "options": [
+      "can",
+      "must not",
+      "are",
+      "has"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: ability; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-003",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "_____ you please open the door?",
+    "options": [
+      "Could",
+      "Was",
+      "Did",
+      "Has"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: polite; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-004",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "obligation",
+    "stem": "Visitors _____ smoke here.",
+    "options": [
+      "must not",
+      "do not have to",
+      "may",
+      "should"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: prohibition; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-005",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "_____ I use your phone?",
+    "options": [
+      "May",
+      "Must",
+      "Did",
+      "Was"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: permission; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-006",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "obligation",
+    "stem": "You _____ wear a tie today; it is optional.",
+    "options": [
+      "do not have to",
+      "must not",
+      "cannot",
+      "should not"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal grammar: absence of obligation; arti konteks menentukan pilihan.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-007",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "I can swim.",
+      "I cans swim.",
+      "I can to swim.",
+      "I can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-008",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "She can swim.",
+      "She cans swim.",
+      "She can to swim.",
+      "She can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-009",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "They can swim.",
+      "They cans swim.",
+      "They can to swim.",
+      "They can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-010",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "We can swim.",
+      "We cans swim.",
+      "We can to swim.",
+      "We can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-011",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "He can swim.",
+      "He cans swim.",
+      "He can to swim.",
+      "He can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-012",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "You can swim.",
+      "You cans swim.",
+      "You can to swim.",
+      "You can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-013",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "ability",
+    "stem": "Which form is correct?",
+    "options": [
+      "The kids can swim.",
+      "The kids cans swim.",
+      "The kids can to swim.",
+      "The kids can swimming."
+    ],
+    "correct_index": 0,
+    "explanation": "Modal can selalu diikuti V1 tanpa to.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-MODALVERBS-014",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They should _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-015",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They must _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-016",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They can _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-017",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They could _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-018",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They may _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-019",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They would _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-MODALVERBS-020",
+    "module_slug": "modal-verbs",
+    "lesson_slug": "polite",
+    "stem": "Complete: They will _____ at home.",
+    "options": [
+      "stay",
+      "stays",
+      "stayed",
+      "staying"
+    ],
+    "correct_index": 0,
+    "explanation": "Modal + bare infinitive (V1) tanpa to.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-001",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The car _____ .",
+    "options": [
+      "is washed",
+      "will washed",
+      "must washed",
+      "has washed"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-002",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The passport _____ .",
+    "options": [
+      "was found",
+      "will found",
+      "must found",
+      "has found"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-003",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The door _____ .",
+    "options": [
+      "will be opened",
+      "will opened",
+      "must opened",
+      "has opened"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-004",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The stain _____ .",
+    "options": [
+      "must be cleaned",
+      "will cleaned",
+      "must cleaned",
+      "has cleaned"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-005",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The letters _____ .",
+    "options": [
+      "are sent",
+      "will sent",
+      "must sent",
+      "has sent"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-006",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The computer _____ .",
+    "options": [
+      "has been repaired",
+      "will repaired",
+      "must repaired",
+      "has repaired"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-007",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The houses _____ .",
+    "options": [
+      "were built",
+      "will built",
+      "must built",
+      "has built"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-008",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The wall _____ .",
+    "options": [
+      "is being painted",
+      "will painted",
+      "must painted",
+      "has painted"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-009",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The parcels _____ .",
+    "options": [
+      "have been delivered",
+      "will delivered",
+      "must delivered",
+      "has delivered"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-010",
+    "module_slug": "passive-voice",
+    "lesson_slug": "tense-forms",
+    "stem": "The announcement _____ .",
+    "options": [
+      "should be posted",
+      "will posted",
+      "must posted",
+      "has posted"
+    ],
+    "correct_index": 0,
+    "explanation": "Passive Voice: bentuk be mengikuti tense/modal dan diikuti V3.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-011",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The window _____ by the boy yesterday.",
+    "options": [
+      "was broken",
+      "is break",
+      "did break",
+      "will break"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-012",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The letter _____ by Rina yesterday.",
+    "options": [
+      "was written",
+      "is write",
+      "did write",
+      "will write"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-013",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The food _____ by the chef yesterday.",
+    "options": [
+      "was cooked",
+      "is cook",
+      "did cook",
+      "will cook"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-014",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The books _____ by the teacher yesterday.",
+    "options": [
+      "were checked",
+      "is check",
+      "did check",
+      "will check"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-015",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The bike _____ by Doni yesterday.",
+    "options": [
+      "was stolen",
+      "is steal",
+      "did steal",
+      "will steal"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-016",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The room _____ by the cleaner yesterday.",
+    "options": [
+      "was cleaned",
+      "is clean",
+      "did clean",
+      "will clean"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-017",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The report _____ by the manager yesterday.",
+    "options": [
+      "was approved",
+      "is approve",
+      "did approve",
+      "will approve"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-018",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The road _____ by the workers yesterday.",
+    "options": [
+      "was repaired",
+      "is repair",
+      "did repair",
+      "will repair"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-019",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The presents _____ by the children yesterday.",
+    "options": [
+      "were wrapped",
+      "is wrap",
+      "did wrap",
+      "will wrap"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "N26-PASSIVEVOICE-020",
+    "module_slug": "passive-voice",
+    "lesson_slug": "basics",
+    "stem": "Choose the passive sentence: The phone _____ by my father yesterday.",
+    "options": [
+      "was bought",
+      "is buy",
+      "did buy",
+      "will buy"
+    ],
+    "correct_index": 0,
+    "explanation": "Simple Past Passive memakai was/were + V3.",
+    "difficulty": "easy"
+  }
+]

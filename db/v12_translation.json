@@ -1,0 +1,825 @@
+[
+  {
+    "code": "TR26-SIMPLEPRESENT-01",
+    "grammar_focus": "simple-present",
+    "indonesian": "Saya belajar bahasa Inggris setiap hari.",
+    "model_answer": "I study English every day.",
+    "accepted_answers": [
+      "I study English every day."
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-02",
+    "grammar_focus": "simple-present",
+    "indonesian": "Dia (perempuan) bekerja di rumah sakit.",
+    "model_answer": "She works at a hospital.",
+    "accepted_answers": [
+      "She works at a hospital."
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-03",
+    "grammar_focus": "simple-present",
+    "indonesian": "Apakah mereka bermain sepak bola setiap Minggu?",
+    "model_answer": "Do they play football every Sunday?",
+    "accepted_answers": [
+      "Do they play football every Sunday?"
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-04",
+    "grammar_focus": "simple-present",
+    "indonesian": "Dia (laki-laki) tidak suka kopi.",
+    "model_answer": "He does not like coffee.",
+    "accepted_answers": [
+      "He does not like coffee.",
+      "He doesn't like coffee."
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-05",
+    "grammar_focus": "simple-present",
+    "indonesian": "Matahari terbit di timur.",
+    "model_answer": "The sun rises in the east.",
+    "accepted_answers": [
+      "The sun rises in the east."
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-06",
+    "grammar_focus": "simple-present",
+    "indonesian": "Seberapa sering kamu membersihkan rumah?",
+    "model_answer": "How often do you clean the house?",
+    "accepted_answers": [
+      "How often do you clean the house?"
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-07",
+    "grammar_focus": "simple-present",
+    "indonesian": "Ibu saya selalu memasak sarapan.",
+    "model_answer": "My mother always cooks breakfast.",
+    "accepted_answers": [
+      "My mother always cooks breakfast."
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPRESENT-08",
+    "grammar_focus": "simple-present",
+    "indonesian": "Apakah kamu tinggal di Jakarta?",
+    "model_answer": "Do you live in Jakarta?",
+    "accepted_answers": [
+      "Do you live in Jakarta?"
+    ],
+    "explanation": "Perhatikan pola simple present dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-01",
+    "grammar_focus": "simple-past",
+    "indonesian": "Saya makan nasi goreng tadi pagi.",
+    "model_answer": "I ate fried rice this morning.",
+    "accepted_answers": [
+      "I ate fried rice this morning."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-02",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kemarin mereka mengunjungi nenek mereka.",
+    "model_answer": "They visited their grandmother yesterday.",
+    "accepted_answers": [
+      "They visited their grandmother yesterday."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-03",
+    "grammar_focus": "simple-past",
+    "indonesian": "Apakah kamu bertemu wanita itu semalam?",
+    "model_answer": "Did you meet that woman last night?",
+    "accepted_answers": [
+      "Did you meet that woman last night?"
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-04",
+    "grammar_focus": "simple-past",
+    "indonesian": "Dia tidak pergi ke sekolah kemarin.",
+    "model_answer": "He did not go to school yesterday.",
+    "accepted_answers": [
+      "He did not go to school yesterday.",
+      "He didn't go to school yesterday."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-05",
+    "grammar_focus": "simple-past",
+    "indonesian": "Ayah saya pulang terlambat kemarin.",
+    "model_answer": "My father came home late yesterday.",
+    "accepted_answers": [
+      "My father came home late yesterday."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-06",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kami membeli sebuah buku minggu lalu.",
+    "model_answer": "We bought a book last week.",
+    "accepted_answers": [
+      "We bought a book last week."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-07",
+    "grammar_focus": "simple-past",
+    "indonesian": "Mereka berada di pantai kemarin.",
+    "model_answer": "They were at the beach yesterday.",
+    "accepted_answers": [
+      "They were at the beach yesterday."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-08",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kapan kamu kehilangan kuncimu?",
+    "model_answer": "When did you lose your keys?",
+    "accepted_answers": [
+      "When did you lose your keys?"
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEPAST-09",
+    "grammar_focus": "simple-past",
+    "indonesian": "Pintu itu tertutup tadi malam (keadaan).",
+    "model_answer": "The door was closed last night.",
+    "accepted_answers": [
+      "The door was closed last night."
+    ],
+    "explanation": "Perhatikan pola simple past dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-01",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Dia (perempuan) sedang belajar sekarang.",
+    "model_answer": "She is studying now.",
+    "accepted_answers": [
+      "She is studying now."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-02",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Mereka sedang minum kopi bersama sekarang.",
+    "model_answer": "They are drinking coffee together now.",
+    "accepted_answers": [
+      "They are drinking coffee together now."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-03",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Apa yang sedang kamu kerjakan?",
+    "model_answer": "What are you doing?",
+    "accepted_answers": [
+      "What are you doing?"
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-04",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Saya sedang menulis surat sekarang.",
+    "model_answer": "I am writing a letter now.",
+    "accepted_answers": [
+      "I am writing a letter now."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-05",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Ayah saya sedang memasak saat ini.",
+    "model_answer": "My father is cooking at the moment.",
+    "accepted_answers": [
+      "My father is cooking at the moment."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-06",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Mereka sedang membersihkan meja-meja itu.",
+    "model_answer": "They are cleaning those tables.",
+    "accepted_answers": [
+      "They are cleaning those tables."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-07",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Kami sedang berdiskusi tentang masalah itu.",
+    "model_answer": "We are discussing the problem.",
+    "accepted_answers": [
+      "We are discussing the problem."
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTCONTINUOUS-08",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Apakah dia sedang bermain sepak bola?",
+    "model_answer": "Is he playing football?",
+    "accepted_answers": [
+      "Is he playing football?"
+    ],
+    "explanation": "Perhatikan pola present continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-01",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saya sedang belajar ketika telepon berdering.",
+    "model_answer": "I was studying when the phone rang.",
+    "accepted_answers": [
+      "I was studying when the phone rang."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-02",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Mereka sedang sibuk ketika saya datang.",
+    "model_answer": "They were busy when I arrived.",
+    "accepted_answers": [
+      "They were busy when I arrived."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-03",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Apa yang sedang kamu kerjakan jam tiga kemarin sore?",
+    "model_answer": "What were you doing at three yesterday afternoon?",
+    "accepted_answers": [
+      "What were you doing at three yesterday afternoon?"
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-04",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Dia sedang menonton TV ketika saya meneleponnya.",
+    "model_answer": "She was watching TV when I called her.",
+    "accepted_answers": [
+      "She was watching TV when I called her."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-05",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Ketika saya tiba, seseorang sedang menungguku.",
+    "model_answer": "When I arrived, someone was waiting for me.",
+    "accepted_answers": [
+      "When I arrived, someone was waiting for me."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-06",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Kami sedang makan malam ketika listrik padam.",
+    "model_answer": "We were having dinner when the power went out.",
+    "accepted_answers": [
+      "We were having dinner when the power went out."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-07",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saya sedang membaca ketika ibu masuk.",
+    "model_answer": "I was reading when my mother came in.",
+    "accepted_answers": [
+      "I was reading when my mother came in."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASTCONTINUOUS-08",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saat itu tidak hujan.",
+    "model_answer": "It was not raining at that time.",
+    "accepted_answers": [
+      "It was not raining at that time.",
+      "It wasn't raining at that time."
+    ],
+    "explanation": "Perhatikan pola past continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-01",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya sudah menyelesaikan pekerjaan rumah saya.",
+    "model_answer": "I have finished my homework.",
+    "accepted_answers": [
+      "I have finished my homework."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-02",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia (perempuan) baru saja tiba.",
+    "model_answer": "She has just arrived.",
+    "accepted_answers": [
+      "She has just arrived."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-03",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Apakah kamu pernah mengunjungi Bali?",
+    "model_answer": "Have you ever visited Bali?",
+    "accepted_answers": [
+      "Have you ever visited Bali?"
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-04",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya sudah tinggal di sini selama lima tahun.",
+    "model_answer": "I have lived here for five years.",
+    "accepted_answers": [
+      "I have lived here for five years."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-05",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia belum membaca surat itu.",
+    "model_answer": "He has not read the letter yet.",
+    "accepted_answers": [
+      "He has not read the letter yet.",
+      "He hasn't read the letter yet."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-06",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Mereka sudah mengirim email itu.",
+    "model_answer": "They have sent the email.",
+    "accepted_answers": [
+      "They have sent the email."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-07",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya belum pernah melihat film itu.",
+    "model_answer": "I have never seen that movie.",
+    "accepted_answers": [
+      "I have never seen that movie."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PRESENTPERFECT-08",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia sudah sibuk sejak hari Senin.",
+    "model_answer": "She has been busy since Monday.",
+    "accepted_answers": [
+      "She has been busy since Monday."
+    ],
+    "explanation": "Perhatikan pola present perfect dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-01",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya akan membantumu besok.",
+    "model_answer": "I will help you tomorrow.",
+    "accepted_answers": [
+      "I will help you tomorrow."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-02",
+    "grammar_focus": "simple-future",
+    "indonesian": "Apakah dia akan datang minggu depan?",
+    "model_answer": "Will he come next week?",
+    "accepted_answers": [
+      "Will he come next week?"
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-03",
+    "grammar_focus": "simple-future",
+    "indonesian": "Kami berencana mengunjungi Bali bulan depan.",
+    "model_answer": "We are going to visit Bali next month.",
+    "accepted_answers": [
+      "We are going to visit Bali next month."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-04",
+    "grammar_focus": "simple-future",
+    "indonesian": "Mereka tidak akan bekerja besok.",
+    "model_answer": "They will not work tomorrow.",
+    "accepted_answers": [
+      "They will not work tomorrow.",
+      "They won't work tomorrow."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-05",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya akan meneleponmu nanti malam.",
+    "model_answer": "I will call you tonight.",
+    "accepted_answers": [
+      "I will call you tonight."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-06",
+    "grammar_focus": "simple-future",
+    "indonesian": "Apakah kamu akan membeli sepeda baru?",
+    "model_answer": "Are you going to buy a new bicycle?",
+    "accepted_answers": [
+      "Are you going to buy a new bicycle?"
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-07",
+    "grammar_focus": "simple-future",
+    "indonesian": "Dia akan menjadi seorang guru.",
+    "model_answer": "She will be a teacher.",
+    "accepted_answers": [
+      "She will be a teacher."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-SIMPLEFUTURE-08",
+    "grammar_focus": "simple-future",
+    "indonesian": "Lihat awannya! Sebentar lagi akan hujan.",
+    "model_answer": "Look at the clouds! It is going to rain.",
+    "accepted_answers": [
+      "Look at the clouds! It is going to rain."
+    ],
+    "explanation": "Perhatikan pola simple future dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-01",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Besok pukul delapan malam saya akan sedang belajar.",
+    "model_answer": "I will be studying at eight tomorrow night.",
+    "accepted_answers": [
+      "I will be studying at eight tomorrow night."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-02",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Saat ini besok kami akan sedang terbang ke Jakarta.",
+    "model_answer": "This time tomorrow, we will be flying to Jakarta.",
+    "accepted_answers": [
+      "This time tomorrow, we will be flying to Jakarta."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-03",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Apakah kamu akan sedang bekerja pukul sembilan besok pagi?",
+    "model_answer": "Will you be working at nine tomorrow morning?",
+    "accepted_answers": [
+      "Will you be working at nine tomorrow morning?"
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-04",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Dia akan sedang tidur ketika kamu tiba.",
+    "model_answer": "He will be sleeping when you arrive.",
+    "accepted_answers": [
+      "He will be sleeping when you arrive."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-05",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Mereka akan sedang melakukan perjalanan besok siang.",
+    "model_answer": "They will be travelling tomorrow afternoon.",
+    "accepted_answers": [
+      "They will be travelling tomorrow afternoon.",
+      "They will be traveling tomorrow afternoon."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-06",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Saya tidak akan sedang memakai laptop pada jam itu.",
+    "model_answer": "I will not be using the laptop at that time.",
+    "accepted_answers": [
+      "I will not be using the laptop at that time."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-07",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Kami akan sedang menunggu di stasiun pukul enam.",
+    "model_answer": "We will be waiting at the station at six.",
+    "accepted_answers": [
+      "We will be waiting at the station at six."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-FUTURECONTINUOUS-08",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Dia akan sedang memasak saat kamu pulang.",
+    "model_answer": "She will be cooking when you get home.",
+    "accepted_answers": [
+      "She will be cooking when you get home."
+    ],
+    "explanation": "Perhatikan pola future continuous dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-MODALVERBS-01",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu harus memakai helm.",
+    "model_answer": "You must wear a helmet.",
+    "accepted_answers": [
+      "You must wear a helmet."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-MODALVERBS-02",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Dia bisa berenang dengan baik.",
+    "model_answer": "She can swim well.",
+    "accepted_answers": [
+      "She can swim well."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-MODALVERBS-03",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Bolehkah saya menggunakan komputermu?",
+    "model_answer": "May I use your computer?",
+    "accepted_answers": [
+      "May I use your computer?",
+      "Can I use your computer?"
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-MODALVERBS-04",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu sebaiknya belajar lebih rajin.",
+    "model_answer": "You should study harder.",
+    "accepted_answers": [
+      "You should study harder."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-MODALVERBS-05",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Dilarang merokok di sini.",
+    "model_answer": "You must not smoke here.",
+    "accepted_answers": [
+      "You must not smoke here.",
+      "You mustn't smoke here."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-MODALVERBS-06",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Bisakah kamu membukakan pintu, tolong?",
+    "model_answer": "Could you open the door, please?",
+    "accepted_answers": [
+      "Could you open the door, please?"
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-MODALVERBS-07",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu tidak harus datang lebih awal.",
+    "model_answer": "You do not have to come early.",
+    "accepted_answers": [
+      "You do not have to come early.",
+      "You don't have to come early."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-MODALVERBS-08",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Saya ingin bergabung dengan klub itu.",
+    "model_answer": "I would like to join the club.",
+    "accepted_answers": [
+      "I would like to join the club."
+    ],
+    "explanation": "Perhatikan pola modal verbs dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-01",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Paspor ini ditemukan di bawah meja.",
+    "model_answer": "This passport was found under the table.",
+    "accepted_answers": [
+      "This passport was found under the table."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-02",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Pintu itu akan ditutup sebentar lagi.",
+    "model_answer": "The door will be closed soon.",
+    "accepted_answers": [
+      "The door will be closed soon."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-03",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Noda ini harus dibersihkan.",
+    "model_answer": "This stain must be cleaned.",
+    "accepted_answers": [
+      "This stain must be cleaned."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-04",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Pengumuman ini harus dipasang di papan informasi.",
+    "model_answer": "This announcement must be posted on the notice board.",
+    "accepted_answers": [
+      "This announcement must be posted on the notice board."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-05",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Mobil ini telah terjual.",
+    "model_answer": "This car has been sold.",
+    "accepted_answers": [
+      "This car has been sold."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-06",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Sepeda motor itu harus dicuci setiap hari.",
+    "model_answer": "The motorcycle must be washed every day.",
+    "accepted_answers": [
+      "The motorcycle must be washed every day."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-07",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Kue ini terbuat dari tepung dan gula.",
+    "model_answer": "This cake is made from flour and sugar.",
+    "accepted_answers": [
+      "This cake is made from flour and sugar."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "easy"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-08",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Jendela itu telah diperbaiki.",
+    "model_answer": "The window has been repaired.",
+    "accepted_answers": [
+      "The window has been repaired."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "medium"
+  },
+  {
+    "code": "TR26-PASSIVEVOICE-09",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Surat-surat itu dikirim kemarin.",
+    "model_answer": "The letters were sent yesterday.",
+    "accepted_answers": [
+      "The letters were sent yesterday."
+    ],
+    "explanation": "Perhatikan pola passive voice dan padanan kata yang tepat. Kalimat lain yang juga benar dapat disetujui admin.",
+    "difficulty": "hard"
+  }
+]

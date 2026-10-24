@@ -3,3 +3,8 @@ node_modules/
 *.log
 *.sql.gz
 .DS_Store
+backups/
+backup/
+__pycache__/
+db/listening_audio_report.json
+.backups/

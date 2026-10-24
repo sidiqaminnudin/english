@@ -10,6 +10,7 @@ import {pool} from './db.js';
 import {csrfSetup} from './middleware/core.js';
 import siteRouter from './routes/site.js';
 import adminRouter from './routes/admin.js';
+import skillsRouter from './routes/skills.js';
 if(!process.env.DATABASE_URL||!process.env.SESSION_SECRET||process.env.SESSION_SECRET.length<32){throw Error('DATABASE_URL dan SESSION_SECRET (>=32 chars) wajib di .env');}
 const app=express();const dir=path.dirname(fileURLToPath(import.meta.url));
 app.set('views',path.join(dir,'views'));app.set('view engine','ejs');
@@ -25,7 +26,7 @@ app.use(csrfSetup);
 app.use('/login',rateLimit({windowMs:15*60*1000,limit:40,standardHeaders:'draft-7',legacyHeaders:false}));
 app.use('/register',rateLimit({windowMs:15*60*1000,limit:20,standardHeaders:'draft-7',legacyHeaders:false}));
 app.get('/healthz',async(req,res)=>{try{await pool.query('SELECT 1');res.json({status:'ok'});}catch{res.status(503).json({status:'degraded'});}});
-app.use(siteRouter);app.use('/admin',adminRouter);
+app.use(siteRouter);app.use('/admin',adminRouter);app.use(skillsRouter);
 app.use((req,res)=>res.status(404).render('message',{title:'Halaman tidak ditemukan',message:'Alamat yang kamu buka tidak tersedia.'}));
 app.use((err,req,res,next)=>{console.error(err);if(res.headersSent)return next(err);res.status(500).render('message',{title:'Terjadi kesalahan',message:process.env.NODE_ENV==='production'?'Silakan coba lagi beberapa saat.':err.message});});
 const port=Number(process.env.PORT||3000);app.listen(port,process.env.BIND_HOST||'127.0.0.1',()=>console.log(`English LMS at http://${process.env.BIND_HOST||'127.0.0.1'}:${port}`));

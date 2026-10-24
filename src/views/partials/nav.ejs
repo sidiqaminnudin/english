@@ -4,6 +4,8 @@
 <div class="collapse navbar-collapse" id="navbarContent"><ul class="navbar-nav mx-auto mb-2 mb-lg-0 gap-lg-2">
 <li class="nav-item"><a class="nav-link <%= path==='/courses'?'active':'' %>" href="/courses">Kurikulum</a></li>
 <li class="nav-item"><a class="nav-link <%= path==='/exam/final'?'active':'' %>" href="/exam/final">Final Exam</a></li>
+<li class="nav-item"><a class="nav-link <%= path.startsWith('/translation')?'active':'' %>" href="/translation">Terjemahan</a></li>
+<li class="nav-item"><a class="nav-link <%= path.startsWith('/listening')?'active':'' %>" href="/listening">Listening</a></li>
 <% if(user){ %><li class="nav-item"><a class="nav-link" href="/dashboard">Dashboard</a></li><li class="nav-item"><a class="nav-link" href="/history">Riwayat Ujian</a></li><% if(user.role==='admin'){ %><li class="nav-item"><a class="nav-link" href="/admin">Admin</a></li><% } %><% } %>
 </ul><div class="d-flex align-items-center gap-2 nav-actions">
 <% if(user){ %><span class="hello-user d-none d-lg-inline">Hi, <%= user.full_name.split(' ')[0] %></span><form action="/logout" method="post"><input type="hidden" name="_csrf" value="<%= csrfToken %>"><button class="btn btn-outline-dark btn-sm px-3" type="submit">Keluar <i class="bi bi-box-arrow-right"></i></button></form>

@@ -1,0 +1,178 @@
+[
+  {
+    "slug": "simple-past",
+    "title": "Simple Past Tense",
+    "description": "Peristiwa dan kebiasaan lampau, was/were, V2, did, used to",
+    "lessons": [
+      {
+        "slug": "uses",
+        "title": "Fungsi dan time markers",
+        "body": "# Simple Past Tense — Fungsi\nSimple Past digunakan untuk kejadian yang **selesai pada waktu tertentu di masa lalu**, kebiasaan masa lalu, dan rangkaian peristiwa lampau.\n\n- **I visited Bali last week.** — Saya mengunjungi Bali minggu lalu.\n- **She was a teacher in 1978.** — Dulu dia seorang guru pada 1978.\n- **We often played outside when we were children.** — Kami sering bermain di luar sewaktu kecil.\n\n## Penanda waktu\n**Yesterday, last night/week/year, ... ago, in 1998, when I was young.**\n\nKata *used to + V1* menekankan kebiasaan/keadaan masa lalu yang kini berbeda: **I used to ride a bicycle to school.**\n\nHindari memakai Present Perfect dengan penanda masa lalu selesai seperti *yesterday*: ❌ *I have visited yesterday* → ✅ *I visited yesterday*."
+      },
+      {
+        "slug": "nominal",
+        "title": "Kalimat nominal was/were",
+        "body": "# Nominal: was dan were\nGunakan **was/were + adjective, noun, atau keterangan** ketika kalimat tidak memakai kata kerja tindakan utama.\n\n| Subject | Past of be |\n|---|---|\n| I, he, she, it | was |\n| You, we, they | were |\n\n- (+) **They were at home yesterday.**\n- (−) **They were not (weren't) at home yesterday.**\n- (?) **Were they at home yesterday?**\n\n- (+) **I was tired.** (Saya lelah.)\n- (−) **I wasn't tired.**\n- (?) **Was I tired?**\n\n**Catatan:** Jangan memakai *did* bersama *was/were* dalam pertanyaan biasa: ❌ *Did she was happy?* → ✅ *Was she happy?*"
+      },
+      {
+        "slug": "verbal",
+        "title": "Verbal V2, did dan pertanyaan",
+        "body": "# Verbal: V2 untuk lampau\n- (+) **Subject + V2 + object/complement** — *Rina met her friend yesterday.*\n- (−) **Subject + did not + V1** — *Rina did not meet her friend yesterday.*\n- (?) **Did + subject + V1 ...?** — *Did Rina meet her friend yesterday?*\n\n**Did** sudah membawa penanda lampau, sehingga kata kerja berikutnya kembali ke **V1**.\n\n❌ *She didn't went.* → ✅ *She didn't go.*\n\n## Regular dan irregular\n| V1 | V2 | Arti |\n|---|---|---|\n| play | played | bermain |\n| carry | carried | membawa |\n| stop | stopped | berhenti |\n| go | went | pergi |\n| buy | bought | membeli |\n| meet | met | bertemu |\n\nPerubahan *-ed*: **study → studied**, **plan → planned**, **live → lived**. Penggandaan konsonan tidak terjadi pada semua kata yang diakhiri konsonan; perhatikan tekanan suku kata dan pola vokal-konsonan."
+      }
+    ]
+  },
+  {
+    "slug": "present-perfect",
+    "title": "Present Perfect Tense",
+    "description": "Have/has + V3; pengalaman dan hasil kini, already/just/yet, since/for",
+    "lessons": [
+      {
+        "slug": "form",
+        "title": "Rumus have/has + V3",
+        "body": "# Present Perfect Tense\nPresent Perfect menghubungkan **pengalaman/peristiwa lampau dengan keadaan saat ini**, atau periode yang belum berakhir.\n\n| Subject | Auxiliary |\n|---|---|\n| I, you, we, they | have |\n| He, she, it | has |\n\n- (+) **She has finished her homework.**\n- (−) **She hasn't finished her homework.**\n- (?) **Has she finished her homework?**\n\nGunakan **V3**: go–went–**gone**, write–wrote–**written**, buy–bought–**bought**.\n\n❌ *He has went* → ✅ *He has gone*."
+      },
+      {
+        "slug": "time-markers",
+        "title": "Already, just, yet, ever, never",
+        "body": "# Penanda waktu Present Perfect\n- **already**: *I have already eaten.* (Saya sudah makan.)\n- **just**: *She has just arrived.* (Dia baru saja tiba.)\n- **yet**: *Have you finished yet?* / *I haven't finished yet.*\n- **ever**: *Have you ever visited Japan?*\n- **never**: *I have never flown abroad.*\n\n**Present Perfect** bukan pengganti semua bentuk lampau. Jika ada waktu lampau selesai yang spesifik, gunakan Simple Past: *I saw him yesterday*, bukan *I have seen him yesterday*."
+      },
+      {
+        "slug": "since-for",
+        "title": "Since dan for; been",
+        "body": "# Since vs For\n- **since + titik awal** → *since Monday, since 2020, since I was a child*\n- **for + durasi** → *for two hours, for five years*\n\n- *I have lived here **for** three years.*\n- *I have lived here **since** 2023.*\n- *She has **been** busy for two days.*\n\n❌ *I have been sad since two days ago.* → ✅ *I have been sad for two days.* / *I have been sad since Monday.*\n\nPerhatikan konteks keadaan yang masih berlangsung: *have lived* vs *lived* berbeda fokus waktu."
+      }
+    ]
+  },
+  {
+    "slug": "present-continuous",
+    "title": "Present Continuous Tense",
+    "description": "Am/is/are + V-ing; aksi berlangsung sekarang dan rencana dekat",
+    "lessons": [
+      {
+        "slug": "uses",
+        "title": "Kegunaan dan susunan",
+        "body": "# Present Continuous Tense\nMenunjukkan aktivitas yang **sedang berlangsung saat bicara**, situasi sementara, atau rencana masa depan yang sudah diatur.\n\n- *I am reading now.*\n- *They are staying at a hotel this week.*\n- *We are leaving tomorrow.* (rencana yang sudah dibuat)\n\n**Rumus:** subject + **am/is/are** + V-ing.\n\n- (+) *He is studying English.*\n- (−) *He isn't studying English.*\n- (?) *Is he studying English?*\n\n❌ *She studying* → ✅ *She is studying*."
+      },
+      {
+        "slug": "spelling-ing",
+        "title": "Spelling rules -ing",
+        "body": "# Membentuk V-ing\n| V1 | -ing |\n|---|---|\n| write | writing |\n| make | making |\n| stop | stopping |\n| sit | sitting |\n| die | dying |\n| lie | lying |\n| carry | carrying |\n| see | seeing |\n\n**Perhatikan:** *hope → hoping*, bukan *hoping* = *hopping* (dari *hop*). Pada kata tertentu, konsonan terakhir digandakan karena pola suku kata dan tekanan, tidak otomatis untuk semua konsonan.\n\nContoh: *She is writing a letter now.*"
+      },
+      {
+        "slug": "stative",
+        "title": "Stative verbs dan pengecualian",
+        "body": "# Stative verbs\nKata kerja yang menyatakan keadaan, kepemilikan, atau pendapat **biasanya** memakai Simple Present alih-alih Continuous.\n\n- *I know the answer.* bukan biasanya *I am knowing the answer*.\n- *She owns a car.* bukan *She is owning a car*.\n- *I like coffee.* bukan biasanya *I am liking coffee*.\n\n**Pengecualian bergantung makna:**\n- *I **have** a car.* (memiliki) vs *I **am having** dinner.* (makan malam)\n- *I **think** she is right.* (berpendapat) vs *I **am thinking** about the problem.* (sedang mempertimbangkan)\n- *He **looks** tired.* vs *He **is looking** at the screen.*\n\nJadi kata-kata dalam daftar modul cetak tidak semuanya *selalu* terlarang dalam bentuk Continuous."
+      }
+    ]
+  },
+  {
+    "slug": "past-continuous",
+    "title": "Past Continuous Tense",
+    "description": "Was/were + V-ing; aksi sedang berlangsung di masa lalu, when/while",
+    "lessons": [
+      {
+        "slug": "form",
+        "title": "Rumus dan bentuk kalimat",
+        "body": "# Past Continuous Tense\nGunakan **was/were + V-ing** untuk tindakan yang sedang berlangsung pada suatu waktu di masa lalu.\n\n- (+) *She was reading at 9 p.m. last night.*\n- (−) *She wasn't reading at 9 p.m. last night.*\n- (?) *Was she reading at 9 p.m. last night?*\n\n**I/he/she/it + was**; **you/we/they + were**.\n\n*We were having dinner when he called.* — Kami sedang makan malam ketika dia menelepon."
+      },
+      {
+        "slug": "when-while",
+        "title": "When dan while",
+        "body": "# When vs While\n**While** sering memperkenalkan aktivitas yang sedang berlangsung, sedangkan **when** dapat memperkenalkan kejadian yang menyela atau titik waktu.\n\n- *I **was studying** when the phone **rang**.*\n- *While she **was cooking**, her husband **was cleaning**.*\n- *They **were talking** when the concert **began**.*\n\nKedua kata tidak otomatis menentukan tense; yang penting ialah durasi/peran kejadian.\n\n❌ *When I was study, she called.* → ✅ *When I was studying, she called.*"
+      },
+      {
+        "slug": "practice",
+        "title": "Membedakan Past dan Past Continuous",
+        "body": "# Simple Past vs Past Continuous\n- **Simple Past**: kejadian selesai → *The phone rang.*\n- **Past Continuous**: aktivitas sedang berlangsung pada saat lampau → *I was sleeping.*\n\nGabungan: *I was sleeping when the phone rang.*\n\n**Kuis latihan:**\n1. *At 8 p.m. yesterday, they ___ (watch) TV.* → **were watching**.\n2. *She ___ (cook) when I arrived.* → **was cooking**.\n3. *While I was reading, my brother ___ (play) games.* → **was playing**.\n\n**Catatan kurikulum:** sebagian dialog perjalanan dalam fotomu memakai Simple Past, bukan Past Continuous. Di LMS contoh-contoh dipisahkan menurut tense yang sebenarnya."
+      }
+    ]
+  },
+  {
+    "slug": "simple-future",
+    "title": "Simple Future Tense",
+    "description": "Will dan be going to; prediksi, janji, keputusan, rencana",
+    "lessons": [
+      {
+        "slug": "will",
+        "title": "Future with will",
+        "body": "# Future with Will\n**Will + V1** dipakai untuk prediksi, keputusan spontan, tawaran, janji dan peristiwa masa depan.\n\n- (+) *I will call you tomorrow.*\n- (−) *I won't call you tomorrow.*\n- (?) *Will you call me tomorrow?*\n\nSetelah *will* gunakan **V1**, bukan V2 atau -ing: ❌ *will goes* → ✅ *will go*.\n\nNominal: *She will be ready tomorrow.*"
+      },
+      {
+        "slug": "going-to",
+        "title": "Be going to",
+        "body": "# Future: be going to\nSering digunakan untuk **niat/rencana** yang sudah dipikirkan atau prediksi dengan bukti saat ini.\n\n- (+) *We are going to visit Bali next month.*\n- (−) *We aren't going to visit Bali next month.*\n- (?) *Are we going to visit Bali next month?*\n\nNominal: *He is going to be a doctor.*\n\n❌ *We are not going work* → ✅ *We are not going to work*.\n\n**Will** dan **going to** kadang sama-sama benar; makna dan konteks menentukan pilihan."
+      },
+      {
+        "slug": "contrast",
+        "title": "Will vs going to vs Present Continuous",
+        "body": "# Memilih bentuk masa depan\n| Fungsi | Contoh |\n|---|---|\n| Keputusan saat berbicara | *I will open the door.* |\n| Rencana yang sudah dibuat | *I am going to study tonight.* |\n| Janji | *I will help you.* |\n| Bukti kuat | *Look at those clouds! It is going to rain.* |\n| Jadwal pribadi yang sudah diatur | *I am meeting her on Friday.* |\n\nPenanda waktu: *tomorrow, next week, soon, tonight*. Penanda saja tidak menentukan satu tense mutlak; lihat konteks."
+      }
+    ]
+  },
+  {
+    "slug": "future-continuous",
+    "title": "Future Continuous Tense",
+    "description": "Will be + V-ing untuk kegiatan yang sedang berlangsung nanti",
+    "lessons": [
+      {
+        "slug": "form",
+        "title": "Will be + V-ing",
+        "body": "# Future Continuous Tense\nMenjelaskan aktivitas yang **akan sedang berlangsung pada suatu waktu di masa depan**.\n\n- (+) *At 8 p.m. tomorrow, I will be studying.*\n- (−) *I will not be studying at 8 p.m.*\n- (?) *Will you be studying at 8 p.m.?*\n\nRumus: **Subject + will + be + V-ing**.\n\nPerhatikan **be** tidak boleh hilang: ❌ *I will studying* → ✅ *I will be studying*."
+      },
+      {
+        "slug": "uses",
+        "title": "Penggunaan Future Continuous",
+        "body": "# Kapan digunakan?\n- Aktivitas yang berlangsung pada titik waktu masa depan: *This time tomorrow, we will be flying to Jakarta.*\n- Peristiwa terjadwal atau yang diharapkan berjalan: *Will you be using the computer tonight?*\n- Dua kegiatan: *When you arrive, I will be waiting for you.*\n\nTanda waktu: **this time tomorrow, at 9 tonight, when you arrive**.\n\nJangan memakai *will* dalam anak kalimat waktu biasa dengan *when*: ✅ *when you arrive*, bukan biasanya *when you will arrive*."
+      },
+      {
+        "slug": "contrast",
+        "title": "Future Continuous vs Simple Future",
+        "body": "# Future Continuous vs Simple Future\n- **I will call you at 8.** → Saya akan meneleponmu pukul 8 (kejadian).\n- **I will be calling clients at 8.** → Pada pukul 8, saya akan sedang menelepon klien (aktivitas yang berlangsung).\n\n- **They will travel tomorrow.** → Mereka akan bepergian besok.\n- **They will be travelling this time tomorrow.** → Pada waktu seperti ini besok mereka akan sedang dalam perjalanan.\n\nLatih keduanya melalui soal pilihan ganda dan terjemahan bertahap."
+      }
+    ]
+  },
+  {
+    "slug": "modal-verbs",
+    "title": "Modal Auxiliary Verbs",
+    "description": "Can, could, may, must, should, would, will, shall dan must not",
+    "lessons": [
+      {
+        "slug": "ability",
+        "title": "Can dan Could",
+        "body": "# Can dan Could\n**Can + V1** = kemampuan/izin/permintaan.\n- *She can swim.*\n- *Can I use your pen?*\n\n**Could + V1** = kemampuan lampau atau permintaan yang lebih sopan.\n- *When I was five, I could swim.*\n- *Could you help me, please?*\n\nTidak menambahkan **to** setelah modal biasa: ❌ *can to swim* → ✅ *can swim*."
+      },
+      {
+        "slug": "obligation",
+        "title": "Must, have to, must not dan should",
+        "body": "# Kewajiban, larangan, nasihat\n- **must** = kewajiban/keharusan: *You must wear a helmet.*\n- **must not / mustn't** = larangan: *You mustn't park here.*\n- **don't have to** = tidak wajib: *You don't have to come early.*\n- **should** = nasihat: *You should study more.*\n\nPenting: **mustn't** ≠ **don't have to**.\n\n*Must* juga menyatakan kesimpulan kuat: *She must be tired.*"
+      },
+      {
+        "slug": "polite",
+        "title": "May, Would, Will dan Shall",
+        "body": "# Izin dan permintaan sopan\n- *May I come in?* (izin formal)\n- *Would you open the window, please?* (permintaan sopan)\n- *Will you help me?* (permintaan)\n- *Shall we begin?* (usulan, sering dengan *we*)\n- *I would like to join the club.* (keinginan sopan)\n\n**Should** bukan sekadar bentuk lampau dari *shall*, dan **would** bukan selalu bentuk lampau dari *will*; fungsinya lebih luas.\n\nFormula umum: (+) **S + modal + V1**; (−) **S + modal + not + V1**; (?) **Modal + S + V1?**"
+      }
+    ]
+  },
+  {
+    "slug": "passive-voice",
+    "title": "Passive Voice",
+    "description": "Be + V3 pada present, past, perfect, future dan modal",
+    "lessons": [
+      {
+        "slug": "basics",
+        "title": "Active vs Passive",
+        "body": "# Passive Voice\nPada Passive Voice, yang menjadi subjek ialah pihak/benda yang **menerima** tindakan.\n\n**Pola:** subject + **be** (sesuai tense) + **V3** (+ by + agent, bila penting).\n\n- Active: *The teacher cleaned the board.*\n- Passive: *The board was cleaned by the teacher.*\n\nTidak selalu perlu *by*: *My wallet was stolen.*\n\nGunakan bentuk yang mengikuti waktu tindakan, tidak selalu *is* atau *was*."
+      },
+      {
+        "slug": "tense-forms",
+        "title": "Passive dalam berbagai tenses",
+        "body": "# Bentuk Passive menurut tense\n| Tense | Rumus | Contoh |\n|---|---|---|\n| Simple Present | am/is/are + V3 | *The room is cleaned daily.* |\n| Simple Past | was/were + V3 | *The door was closed yesterday.* |\n| Present Perfect | have/has been + V3 | *The letters have been sent.* |\n| Simple Future | will be + V3 | *The report will be published.* |\n| Modal | modal + be + V3 | *The stain must be cleaned.* |\n| Present Continuous | am/is/are being + V3 | *The road is being repaired.* |\n\n❌ *The door will closed* → ✅ *The door will be closed.*"
+      },
+      {
+        "slug": "practice",
+        "title": "Passive dalam instruksi dan terjemahan",
+        "body": "# Terjemahan dan pemilihan struktur Passive\n- *Pintu itu harus tetap tertutup.* → **The door must be kept closed.**\n- *Pengumuman ini harus ditempel.* → **This announcement must be posted.**\n- *Paspor ini ditemukan di bawah meja.* → **This passport was found under the table.**\n- *Kue itu terbuat dari tepung dan gula.* → **The cake is made from flour and sugar.**\n\n**Ingat:** *founded* berarti 'mendirikan', bukan bentuk V3 dari *find*. Bentuknya *find–found–found*.\n\nTidak semua kalimat Indonesia yang memiliki 'di-' cocok diterjemahkan secara pasif dalam konteks bahasa Inggris; pahami fokus kalimatnya."
+      }
+    ]
+  }
+]

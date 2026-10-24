@@ -1,0 +1,442 @@
+[
+  {
+    "slug": "at-the-library",
+    "title": "At the Library",
+    "level": "A1",
+    "topic": "Library and study",
+    "transcript": "Anna: Excuse me, where can I find books about English grammar?\nLibrarian: They are on the second shelf, next to the dictionaries.\nAnna: Thank you. Can I borrow two books?\nLibrarian: Yes. You can borrow them for seven days.\nAnna: Great. I will return them next Monday.",
+    "filename": "at-the-library.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "What is Anna looking for?",
+        "options": [
+          "English grammar books",
+          "Cooking magazines",
+          "History maps",
+          "A newspaper"
+        ],
+        "correct_index": 0,
+        "explanation": "Anna asks for English grammar books."
+      },
+      {
+        "stem": "Where are the books?",
+        "options": [
+          "On the second shelf",
+          "Behind the door",
+          "On the first floor",
+          "Under a desk"
+        ],
+        "correct_index": 0,
+        "explanation": "The librarian says they are on the second shelf."
+      },
+      {
+        "stem": "How many books can Anna borrow?",
+        "options": [
+          "Two",
+          "One",
+          "Three",
+          "Four"
+        ],
+        "correct_index": 0,
+        "explanation": "Anna asks to borrow two books."
+      },
+      {
+        "stem": "When will Anna return the books?",
+        "options": [
+          "Next Monday",
+          "Tomorrow morning",
+          "On Friday",
+          "In two months"
+        ],
+        "correct_index": 0,
+        "explanation": "She says next Monday."
+      }
+    ]
+  },
+  {
+    "slug": "weekend-plans",
+    "title": "Weekend Plans",
+    "level": "A1",
+    "topic": "Future plans",
+    "transcript": "Tom: What are you going to do this weekend?\nMaya: I am going to visit my grandparents on Saturday.\nTom: That sounds nice. Will you go by bus?\nMaya: No, my father will drive us there.\nTom: What about Sunday?\nMaya: I will stay at home and study English.",
+    "filename": "weekend-plans.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "Who will Maya visit?",
+        "options": [
+          "Her grandparents",
+          "Her teacher",
+          "Her cousin",
+          "Her friend"
+        ],
+        "correct_index": 0,
+        "explanation": "She will visit her grandparents."
+      },
+      {
+        "stem": "When is the visit?",
+        "options": [
+          "Saturday",
+          "Sunday",
+          "Monday",
+          "Friday"
+        ],
+        "correct_index": 0,
+        "explanation": "She says Saturday."
+      },
+      {
+        "stem": "How will they travel?",
+        "options": [
+          "By car",
+          "By train",
+          "By bus",
+          "By boat"
+        ],
+        "correct_index": 0,
+        "explanation": "Her father will drive them."
+      },
+      {
+        "stem": "What will Maya do on Sunday?",
+        "options": [
+          "Study English",
+          "Go shopping",
+          "Go swimming",
+          "Visit her teacher"
+        ],
+        "correct_index": 0,
+        "explanation": "She will study English at home."
+      }
+    ]
+  },
+  {
+    "slug": "missed-the-bus",
+    "title": "Missed the Bus",
+    "level": "A2",
+    "topic": "Simple past",
+    "transcript": "Yesterday morning, I woke up late. I looked at my watch and saw that it was eight thirty. My class started at nine. I left home quickly, but I missed the bus. I called my friend and asked for help. She picked me up on her motorcycle. We arrived at school five minutes before class.",
+    "filename": "missed-the-bus.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "Why was the speaker in a hurry?",
+        "options": [
+          "They woke up late",
+          "They lost their phone",
+          "It was raining",
+          "They forgot their books"
+        ],
+        "correct_index": 0,
+        "explanation": "The speaker woke up late."
+      },
+      {
+        "stem": "What time did the class start?",
+        "options": [
+          "Nine o’clock",
+          "Eight o’clock",
+          "Eight thirty",
+          "Ten o’clock"
+        ],
+        "correct_index": 0,
+        "explanation": "Class started at nine."
+      },
+      {
+        "stem": "What happened to the bus?",
+        "options": [
+          "The speaker missed it",
+          "It arrived early",
+          "It broke down",
+          "It was full"
+        ],
+        "correct_index": 0,
+        "explanation": "The speaker missed the bus."
+      },
+      {
+        "stem": "How did the speaker reach school?",
+        "options": [
+          "By motorcycle",
+          "By taxi",
+          "On foot",
+          "By bicycle"
+        ],
+        "correct_index": 0,
+        "explanation": "A friend picked the speaker up on a motorcycle."
+      }
+    ]
+  },
+  {
+    "slug": "at-the-cafe",
+    "title": "At the Café",
+    "level": "A1",
+    "topic": "Food ordering",
+    "transcript": "Server: Good afternoon. What would you like to order?\nDina: I would like a cup of tea and a chicken sandwich, please.\nServer: Would you like anything else?\nDina: No, thank you. How much is it?\nServer: It is forty thousand rupiah.\nDina: Here you are. Thank you.",
+    "filename": "at-the-cafe.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "What drink does Dina order?",
+        "options": [
+          "Tea",
+          "Coffee",
+          "Orange juice",
+          "Milk"
+        ],
+        "correct_index": 0,
+        "explanation": "She orders a cup of tea."
+      },
+      {
+        "stem": "What food does she choose?",
+        "options": [
+          "A chicken sandwich",
+          "A bowl of soup",
+          "Fried rice",
+          "A salad"
+        ],
+        "correct_index": 0,
+        "explanation": "She orders a chicken sandwich."
+      },
+      {
+        "stem": "How much is the order?",
+        "options": [
+          "Forty thousand rupiah",
+          "Twenty thousand rupiah",
+          "Ten thousand rupiah",
+          "Fifty thousand rupiah"
+        ],
+        "correct_index": 0,
+        "explanation": "The server says forty thousand rupiah."
+      },
+      {
+        "stem": "Does Dina order anything else?",
+        "options": [
+          "No",
+          "Yes, cake",
+          "Yes, ice cream",
+          "Yes, coffee"
+        ],
+        "correct_index": 0,
+        "explanation": "She says no thank you."
+      }
+    ]
+  },
+  {
+    "slug": "rainy-afternoon",
+    "title": "A Rainy Afternoon",
+    "level": "A2",
+    "topic": "Past continuous",
+    "transcript": "It was raining heavily yesterday afternoon. Rudi was reading a book while his sister was listening to music. Their mother was cooking dinner in the kitchen. Suddenly, the lights went out. Rudi found a flashlight, and his sister called their father. After ten minutes, the lights came back on.",
+    "filename": "rainy-afternoon.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "What was Rudi doing?",
+        "options": [
+          "Reading a book",
+          "Watching television",
+          "Playing football",
+          "Sleeping"
+        ],
+        "correct_index": 0,
+        "explanation": "Rudi was reading a book."
+      },
+      {
+        "stem": "What was his sister doing?",
+        "options": [
+          "Listening to music",
+          "Cooking dinner",
+          "Washing dishes",
+          "Studying mathematics"
+        ],
+        "correct_index": 0,
+        "explanation": "His sister was listening to music."
+      },
+      {
+        "stem": "What suddenly happened?",
+        "options": [
+          "The lights went out",
+          "The phone broke",
+          "The rain stopped",
+          "Someone arrived"
+        ],
+        "correct_index": 0,
+        "explanation": "The power went out."
+      },
+      {
+        "stem": "What did Rudi find?",
+        "options": [
+          "A flashlight",
+          "A candle",
+          "A radio",
+          "An umbrella"
+        ],
+        "correct_index": 0,
+        "explanation": "He found a flashlight."
+      }
+    ]
+  },
+  {
+    "slug": "asking-directions",
+    "title": "Asking for Directions",
+    "level": "A1",
+    "topic": "Directions",
+    "transcript": "Visitor: Excuse me, how can I get to the train station?\nLocal: Go straight along this road for about two hundred meters. Turn left at the traffic light. The station is next to the post office, on your right.\nVisitor: Is it far from here?\nLocal: No, it is only a five minute walk.\nVisitor: Thank you very much.",
+    "filename": "asking-directions.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "Where does the visitor want to go?",
+        "options": [
+          "The train station",
+          "The airport",
+          "The hospital",
+          "The museum"
+        ],
+        "correct_index": 0,
+        "explanation": "The visitor asks for the station."
+      },
+      {
+        "stem": "Where should the visitor turn left?",
+        "options": [
+          "At the traffic light",
+          "At the bridge",
+          "At the school",
+          "At the park"
+        ],
+        "correct_index": 0,
+        "explanation": "The local says at the traffic light."
+      },
+      {
+        "stem": "What is next to the station?",
+        "options": [
+          "The post office",
+          "A hotel",
+          "A restaurant",
+          "A bank"
+        ],
+        "correct_index": 0,
+        "explanation": "The station is next to the post office."
+      },
+      {
+        "stem": "How long is the walk?",
+        "options": [
+          "Five minutes",
+          "Ten minutes",
+          "Fifteen minutes",
+          "Twenty minutes"
+        ],
+        "correct_index": 0,
+        "explanation": "The walk is five minutes."
+      }
+    ]
+  },
+  {
+    "slug": "new-job",
+    "title": "A New Job",
+    "level": "A2",
+    "topic": "Present perfect",
+    "transcript": "I have worked in a small office for three years, but I have just received an offer from a larger company. My manager has already congratulated me. I have not decided whether to accept the offer yet. I will talk with my family tonight, because the new office is far from my house.",
+    "filename": "new-job.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "How long has the speaker worked in the small office?",
+        "options": [
+          "Three years",
+          "One year",
+          "Five months",
+          "Ten years"
+        ],
+        "correct_index": 0,
+        "explanation": "For three years."
+      },
+      {
+        "stem": "What has the speaker received?",
+        "options": [
+          "A job offer",
+          "A new car",
+          "A scholarship",
+          "A letter from school"
+        ],
+        "correct_index": 0,
+        "explanation": "The speaker received an offer from a larger company."
+      },
+      {
+        "stem": "Has the speaker accepted the offer?",
+        "options": [
+          "Not yet",
+          "Yes, yesterday",
+          "Yes, last week",
+          "No, never"
+        ],
+        "correct_index": 0,
+        "explanation": "They have not decided yet."
+      },
+      {
+        "stem": "Who will the speaker talk to tonight?",
+        "options": [
+          "Their family",
+          "Their teacher",
+          "Their friends",
+          "Their customer"
+        ],
+        "correct_index": 0,
+        "explanation": "They will talk with their family."
+      }
+    ]
+  },
+  {
+    "slug": "at-the-clinic",
+    "title": "At the Clinic",
+    "level": "A2",
+    "topic": "Modals and advice",
+    "transcript": "Doctor: Good morning. What seems to be the problem?\nPatient: I have a headache, and I feel very tired.\nDoctor: You should rest today and drink plenty of water. You must not drive if you feel dizzy.\nPatient: Can I go back to work tomorrow?\nDoctor: You may return if you feel better, but please call me if your symptoms get worse.",
+    "filename": "at-the-clinic.mp3",
+    "source_type": "original-tts-espeak",
+    "questions": [
+      {
+        "stem": "What problem does the patient have?",
+        "options": [
+          "A headache",
+          "A broken arm",
+          "A toothache",
+          "A cough only"
+        ],
+        "correct_index": 0,
+        "explanation": "The patient says they have a headache."
+      },
+      {
+        "stem": "What does the doctor advise?",
+        "options": [
+          "Rest and drink water",
+          "Run five miles",
+          "Avoid all food",
+          "Work overtime"
+        ],
+        "correct_index": 0,
+        "explanation": "The doctor says rest and drink water."
+      },
+      {
+        "stem": "When must the patient not drive?",
+        "options": [
+          "When feeling dizzy",
+          "When it rains",
+          "After breakfast",
+          "On Monday"
+        ],
+        "correct_index": 0,
+        "explanation": "The doctor warns against driving if dizzy."
+      },
+      {
+        "stem": "When may the patient go back to work?",
+        "options": [
+          "If they feel better",
+          "Right away",
+          "Only next year",
+          "Never"
+        ],
+        "correct_index": 0,
+        "explanation": "The doctor allows returning when feeling better."
+      }
+    ]
+  }
+]
