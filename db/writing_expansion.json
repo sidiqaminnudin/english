@@ -1,0 +1,1586 @@
+[
+  {
+    "code": "TR26X-SIMPLEPRESENT-01",
+    "grammar_focus": "simple-present",
+    "indonesian": "Ayah saya bekerja di kantor setiap hari.",
+    "model_answer": "My father works in an office every day.",
+    "accepted_answers": [
+      "My father works in an office every day."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-02",
+    "grammar_focus": "simple-present",
+    "indonesian": "Mereka biasanya sarapan pukul tujuh.",
+    "model_answer": "They usually have breakfast at seven.",
+    "accepted_answers": [
+      "They usually have breakfast at seven."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-03",
+    "grammar_focus": "simple-present",
+    "indonesian": "Apakah adikmu suka membaca buku?",
+    "model_answer": "Does your younger sibling like reading books?",
+    "accepted_answers": [
+      "Does your younger sibling like reading books?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-04",
+    "grammar_focus": "simple-present",
+    "indonesian": "Saya tidak minum kopi pada malam hari.",
+    "model_answer": "I do not drink coffee at night.",
+    "accepted_answers": [
+      "I do not drink coffee at night."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-05",
+    "grammar_focus": "simple-present",
+    "indonesian": "Matahari terbit di timur.",
+    "model_answer": "The sun rises in the east.",
+    "accepted_answers": [
+      "The sun rises in the east."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-06",
+    "grammar_focus": "simple-present",
+    "indonesian": "Dia selalu mencuci piring setelah makan malam.",
+    "model_answer": "She always washes the dishes after dinner.",
+    "accepted_answers": [
+      "She always washes the dishes after dinner."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-07",
+    "grammar_focus": "simple-present",
+    "indonesian": "Kami pergi ke sekolah dengan bus setiap Senin.",
+    "model_answer": "We go to school by bus every Monday.",
+    "accepted_answers": [
+      "We go to school by bus every Monday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-08",
+    "grammar_focus": "simple-present",
+    "indonesian": "Apakah gurumu mengajar bahasa Inggris?",
+    "model_answer": "Does your teacher teach English?",
+    "accepted_answers": [
+      "Does your teacher teach English?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-09",
+    "grammar_focus": "simple-present",
+    "indonesian": "Kucing itu tidur di sofa setiap sore.",
+    "model_answer": "The cat sleeps on the sofa every afternoon.",
+    "accepted_answers": [
+      "The cat sleeps on the sofa every afternoon."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-10",
+    "grammar_focus": "simple-present",
+    "indonesian": "Kakakku tidak menonton televisi pada hari kerja.",
+    "model_answer": "My older sibling does not watch television on weekdays.",
+    "accepted_answers": [
+      "My older sibling does not watch television on weekdays."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-11",
+    "grammar_focus": "simple-present",
+    "indonesian": "Air membeku pada suhu nol derajat Celsius.",
+    "model_answer": "Water freezes at zero degrees Celsius.",
+    "accepted_answers": [
+      "Water freezes at zero degrees Celsius."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-12",
+    "grammar_focus": "simple-present",
+    "indonesian": "Apakah mereka tinggal dekat stasiun?",
+    "model_answer": "Do they live near the station?",
+    "accepted_answers": [
+      "Do they live near the station?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-13",
+    "grammar_focus": "simple-present",
+    "indonesian": "Ibu saya memasak nasi setiap pagi.",
+    "model_answer": "My mother cooks rice every morning.",
+    "accepted_answers": [
+      "My mother cooks rice every morning."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-14",
+    "grammar_focus": "simple-present",
+    "indonesian": "Kami jarang makan makanan cepat saji.",
+    "model_answer": "We rarely eat fast food.",
+    "accepted_answers": [
+      "We rarely eat fast food."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-15",
+    "grammar_focus": "simple-present",
+    "indonesian": "Dia tidak mengerti pertanyaan ini.",
+    "model_answer": "He does not understand this question.",
+    "accepted_answers": [
+      "He does not understand this question."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPRESENT-16",
+    "grammar_focus": "simple-present",
+    "indonesian": "Kapan perpustakaan itu buka setiap hari?",
+    "model_answer": "When does the library open every day?",
+    "accepted_answers": [
+      "When does the library open every day?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple present dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-01",
+    "grammar_focus": "simple-past",
+    "indonesian": "Saya mengunjungi nenek saya kemarin.",
+    "model_answer": "I visited my grandmother yesterday.",
+    "accepted_answers": [
+      "I visited my grandmother yesterday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-02",
+    "grammar_focus": "simple-past",
+    "indonesian": "Mereka tidak datang ke pesta tadi malam.",
+    "model_answer": "They did not come to the party last night.",
+    "accepted_answers": [
+      "They did not come to the party last night."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-03",
+    "grammar_focus": "simple-past",
+    "indonesian": "Apakah kamu melihat film itu minggu lalu?",
+    "model_answer": "Did you see that movie last week?",
+    "accepted_answers": [
+      "Did you see that movie last week?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-04",
+    "grammar_focus": "simple-past",
+    "indonesian": "Dia membeli sebuah tas baru dua hari lalu.",
+    "model_answer": "She bought a new bag two days ago.",
+    "accepted_answers": [
+      "She bought a new bag two days ago."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-05",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kami belajar bersama tadi malam.",
+    "model_answer": "We studied together last night.",
+    "accepted_answers": [
+      "We studied together last night."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-06",
+    "grammar_focus": "simple-past",
+    "indonesian": "Bus itu tiba terlambat kemarin pagi.",
+    "model_answer": "The bus arrived late yesterday morning.",
+    "accepted_answers": [
+      "The bus arrived late yesterday morning."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-07",
+    "grammar_focus": "simple-past",
+    "indonesian": "Saya kehilangan kunci saya hari Minggu lalu.",
+    "model_answer": "I lost my keys last Sunday.",
+    "accepted_answers": [
+      "I lost my keys last Sunday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-08",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kapan kamu mulai belajar bahasa Inggris?",
+    "model_answer": "When did you start learning English?",
+    "accepted_answers": [
+      "When did you start learning English?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-09",
+    "grammar_focus": "simple-past",
+    "indonesian": "Mereka bermain sepak bola kemarin sore.",
+    "model_answer": "They played football yesterday afternoon.",
+    "accepted_answers": [
+      "They played football yesterday afternoon."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-10",
+    "grammar_focus": "simple-past",
+    "indonesian": "Dia tidak mengerjakan PR-nya kemarin.",
+    "model_answer": "He did not do his homework yesterday.",
+    "accepted_answers": [
+      "He did not do his homework yesterday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-11",
+    "grammar_focus": "simple-past",
+    "indonesian": "Kami makan di restoran itu minggu lalu.",
+    "model_answer": "We ate at that restaurant last week.",
+    "accepted_answers": [
+      "We ate at that restaurant last week."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-12",
+    "grammar_focus": "simple-past",
+    "indonesian": "Apakah hujan turun tadi malam?",
+    "model_answer": "Did it rain last night?",
+    "accepted_answers": [
+      "Did it rain last night?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-13",
+    "grammar_focus": "simple-past",
+    "indonesian": "Gurunya menjelaskan pelajaran tadi pagi.",
+    "model_answer": "The teacher explained the lesson this morning.",
+    "accepted_answers": [
+      "The teacher explained the lesson this morning."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-14",
+    "grammar_focus": "simple-past",
+    "indonesian": "Saya menulis surat kepada teman saya kemarin.",
+    "model_answer": "I wrote a letter to my friend yesterday.",
+    "accepted_answers": [
+      "I wrote a letter to my friend yesterday."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-15",
+    "grammar_focus": "simple-past",
+    "indonesian": "Mereka pindah ke rumah baru tahun lalu.",
+    "model_answer": "They moved to a new house last year.",
+    "accepted_answers": [
+      "They moved to a new house last year."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEPAST-16",
+    "grammar_focus": "simple-past",
+    "indonesian": "Siapa yang meneleponmu tadi malam?",
+    "model_answer": "Who called you last night?",
+    "accepted_answers": [
+      "Who called you last night?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple past dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-01",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Saya sedang membaca buku sekarang.",
+    "model_answer": "I am reading a book now.",
+    "accepted_answers": [
+      "I am reading a book now."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-02",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Mereka sedang menunggu bus saat ini.",
+    "model_answer": "They are waiting for the bus right now.",
+    "accepted_answers": [
+      "They are waiting for the bus right now."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-03",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Apakah dia sedang memasak di dapur?",
+    "model_answer": "Is she cooking in the kitchen?",
+    "accepted_answers": [
+      "Is she cooking in the kitchen?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-04",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Kami tidak sedang menonton televisi sekarang.",
+    "model_answer": "We are not watching television now.",
+    "accepted_answers": [
+      "We are not watching television now."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-05",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Bayi itu sedang tidur sekarang.",
+    "model_answer": "The baby is sleeping now.",
+    "accepted_answers": [
+      "The baby is sleeping now."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-06",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Mengapa kamu sedang tertawa?",
+    "model_answer": "Why are you laughing?",
+    "accepted_answers": [
+      "Why are you laughing?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-07",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Anak-anak sedang bermain di taman saat ini.",
+    "model_answer": "The children are playing in the park right now.",
+    "accepted_answers": [
+      "The children are playing in the park right now."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-08",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Saya sedang belajar untuk ujian minggu ini.",
+    "model_answer": "I am studying for the exam this week.",
+    "accepted_answers": [
+      "I am studying for the exam this week."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-09",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Dia sedang berbicara dengan gurunya sekarang.",
+    "model_answer": "He is talking to his teacher now.",
+    "accepted_answers": [
+      "He is talking to his teacher now."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-10",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Mereka tidak sedang bekerja hari ini.",
+    "model_answer": "They are not working today.",
+    "accepted_answers": [
+      "They are not working today."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-11",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Kami sedang membangun situs web baru bulan ini.",
+    "model_answer": "We are building a new website this month.",
+    "accepted_answers": [
+      "We are building a new website this month."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-12",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Apakah kamu sedang mendengarkan musik?",
+    "model_answer": "Are you listening to music?",
+    "accepted_answers": [
+      "Are you listening to music?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-13",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Hujan sedang turun dengan deras sekarang.",
+    "model_answer": "It is raining heavily now.",
+    "accepted_answers": [
+      "It is raining heavily now."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-14",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Dia sedang memakai jaket biru hari ini.",
+    "model_answer": "She is wearing a blue jacket today.",
+    "accepted_answers": [
+      "She is wearing a blue jacket today."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-15",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Saya sedang menulis email saat ini.",
+    "model_answer": "I am writing an email at the moment.",
+    "accepted_answers": [
+      "I am writing an email at the moment."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTCONTINUOUS-16",
+    "grammar_focus": "present-continuous",
+    "indonesian": "Apa yang sedang mereka bicarakan sekarang?",
+    "model_answer": "What are they talking about now?",
+    "accepted_answers": [
+      "What are they talking about now?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-01",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saya sedang tidur ketika kamu menelepon tadi malam.",
+    "model_answer": "I was sleeping when you called last night.",
+    "accepted_answers": [
+      "I was sleeping when you called last night."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-02",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Mereka sedang belajar pada pukul delapan tadi malam.",
+    "model_answer": "They were studying at eight last night.",
+    "accepted_answers": [
+      "They were studying at eight last night."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-03",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Apakah dia sedang memasak ketika kamu tiba?",
+    "model_answer": "Was she cooking when you arrived?",
+    "accepted_answers": [
+      "Was she cooking when you arrived?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-04",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Kami tidak sedang bermain ketika hujan mulai turun.",
+    "model_answer": "We were not playing when it started to rain.",
+    "accepted_answers": [
+      "We were not playing when it started to rain."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-05",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Dia sedang membaca saat listrik padam.",
+    "model_answer": "He was reading when the power went out.",
+    "accepted_answers": [
+      "He was reading when the power went out."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-06",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Apa yang sedang kamu lakukan pada pukul sembilan tadi malam?",
+    "model_answer": "What were you doing at nine last night?",
+    "accepted_answers": [
+      "What were you doing at nine last night?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-07",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Anak-anak sedang tidur ketika ayah pulang.",
+    "model_answer": "The children were sleeping when their father came home.",
+    "accepted_answers": [
+      "The children were sleeping when their father came home."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-08",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saya sedang mengemudi saat telepon saya berdering.",
+    "model_answer": "I was driving when my phone rang.",
+    "accepted_answers": [
+      "I was driving when my phone rang."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-09",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Mereka sedang makan malam ketika tamu datang.",
+    "model_answer": "They were having dinner when the guests arrived.",
+    "accepted_answers": [
+      "They were having dinner when the guests arrived."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-10",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Saya tidak sedang menggunakan komputer itu ketika rusak.",
+    "model_answer": "I was not using that computer when it broke.",
+    "accepted_answers": [
+      "I was not using that computer when it broke."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-11",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Kami sedang berjalan ke sekolah ketika hujan turun.",
+    "model_answer": "We were walking to school when it started raining.",
+    "accepted_answers": [
+      "We were walking to school when it started raining."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-12",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Apakah kamu sedang mendengarkan guru saat itu?",
+    "model_answer": "Were you listening to the teacher at that time?",
+    "accepted_answers": [
+      "Were you listening to the teacher at that time?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-13",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Ibu sedang mencuci pakaian ketika saya pulang.",
+    "model_answer": "My mother was doing the laundry when I got home.",
+    "accepted_answers": [
+      "My mother was doing the laundry when I got home."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-14",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Dia sedang berbicara di telepon sepanjang perjalanan.",
+    "model_answer": "She was talking on the phone throughout the journey.",
+    "accepted_answers": [
+      "She was talking on the phone throughout the journey."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-15",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Pada pukul enam kemarin sore, mereka sedang menyiapkan makan malam.",
+    "model_answer": "At six yesterday evening, they were preparing dinner.",
+    "accepted_answers": [
+      "At six yesterday evening, they were preparing dinner."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASTCONTINUOUS-16",
+    "grammar_focus": "past-continuous",
+    "indonesian": "Siapa yang sedang mengetuk pintu ketika kamu belajar?",
+    "model_answer": "Who was knocking on the door while you were studying?",
+    "accepted_answers": [
+      "Who was knocking on the door while you were studying?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur past continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-01",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya sudah menyelesaikan PR saya.",
+    "model_answer": "I have finished my homework.",
+    "accepted_answers": [
+      "I have finished my homework."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-02",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia belum pernah mengunjungi Bali.",
+    "model_answer": "She has never visited Bali.",
+    "accepted_answers": [
+      "She has never visited Bali."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-03",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Apakah kamu sudah makan siang?",
+    "model_answer": "Have you had lunch yet?",
+    "accepted_answers": [
+      "Have you had lunch yet?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-04",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Mereka telah tinggal di sini sejak tahun 2020.",
+    "model_answer": "They have lived here since 2020.",
+    "accepted_answers": [
+      "They have lived here since 2020."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-05",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Kami sudah mengenal satu sama lain selama lima tahun.",
+    "model_answer": "We have known each other for five years.",
+    "accepted_answers": [
+      "We have known each other for five years."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-06",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya baru saja kehilangan dompet saya.",
+    "model_answer": "I have just lost my wallet.",
+    "accepted_answers": [
+      "I have just lost my wallet."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-07",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia belum membalas pesan saya.",
+    "model_answer": "He has not replied to my message yet.",
+    "accepted_answers": [
+      "He has not replied to my message yet."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-08",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Berapa lama kamu sudah bekerja di sini?",
+    "model_answer": "How long have you worked here?",
+    "accepted_answers": [
+      "How long have you worked here?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-09",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Kami sudah menonton film itu dua kali.",
+    "model_answer": "We have watched that movie twice.",
+    "accepted_answers": [
+      "We have watched that movie twice."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-10",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Apakah kamu pernah mencoba makanan Jepang?",
+    "model_answer": "Have you ever tried Japanese food?",
+    "accepted_answers": [
+      "Have you ever tried Japanese food?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-11",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Guru itu sudah menjelaskan aturan tersebut.",
+    "model_answer": "The teacher has explained the rule.",
+    "accepted_answers": [
+      "The teacher has explained the rule."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-12",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Saya belum menyelesaikan buku itu.",
+    "model_answer": "I have not finished that book yet.",
+    "accepted_answers": [
+      "I have not finished that book yet."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-13",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Mereka sudah tiba di bandara.",
+    "model_answer": "They have arrived at the airport.",
+    "accepted_answers": [
+      "They have arrived at the airport."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-14",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Dia telah bekerja di perusahaan itu selama tiga tahun.",
+    "model_answer": "She has worked at that company for three years.",
+    "accepted_answers": [
+      "She has worked at that company for three years."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-15",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Kami baru saja menerima kabar baik.",
+    "model_answer": "We have just received good news.",
+    "accepted_answers": [
+      "We have just received good news."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PRESENTPERFECT-16",
+    "grammar_focus": "present-perfect",
+    "indonesian": "Apakah dia sudah mengirimkan laporannya?",
+    "model_answer": "Has he sent his report yet?",
+    "accepted_answers": [
+      "Has he sent his report yet?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur present perfect dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-01",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya akan meneleponmu besok.",
+    "model_answer": "I will call you tomorrow.",
+    "accepted_answers": [
+      "I will call you tomorrow."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-02",
+    "grammar_focus": "simple-future",
+    "indonesian": "Mereka akan mengunjungi museum minggu depan.",
+    "model_answer": "They will visit the museum next week.",
+    "accepted_answers": [
+      "They will visit the museum next week."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-03",
+    "grammar_focus": "simple-future",
+    "indonesian": "Apakah kamu akan datang ke rapat besok?",
+    "model_answer": "Will you come to the meeting tomorrow?",
+    "accepted_answers": [
+      "Will you come to the meeting tomorrow?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-04",
+    "grammar_focus": "simple-future",
+    "indonesian": "Dia tidak akan terlambat lagi.",
+    "model_answer": "She will not be late again.",
+    "accepted_answers": [
+      "She will not be late again."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-05",
+    "grammar_focus": "simple-future",
+    "indonesian": "Kami akan membantu kamu setelah kelas.",
+    "model_answer": "We will help you after class.",
+    "accepted_answers": [
+      "We will help you after class."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-06",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya akan belajar lebih giat tahun depan.",
+    "model_answer": "I will study harder next year.",
+    "accepted_answers": [
+      "I will study harder next year."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-07",
+    "grammar_focus": "simple-future",
+    "indonesian": "Apakah mereka akan tiba sebelum makan malam?",
+    "model_answer": "Will they arrive before dinner?",
+    "accepted_answers": [
+      "Will they arrive before dinner?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-08",
+    "grammar_focus": "simple-future",
+    "indonesian": "Mereka tidak akan bekerja pada hari Minggu depan.",
+    "model_answer": "They will not work next Sunday.",
+    "accepted_answers": [
+      "They will not work next Sunday."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-09",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya pikir besok akan hujan.",
+    "model_answer": "I think it will rain tomorrow.",
+    "accepted_answers": [
+      "I think it will rain tomorrow."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-10",
+    "grammar_focus": "simple-future",
+    "indonesian": "Dia akan mengirim email malam ini.",
+    "model_answer": "He will send an email tonight.",
+    "accepted_answers": [
+      "He will send an email tonight."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-11",
+    "grammar_focus": "simple-future",
+    "indonesian": "Kapan kamu akan pulang?",
+    "model_answer": "When will you go home?",
+    "accepted_answers": [
+      "When will you go home?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-12",
+    "grammar_focus": "simple-future",
+    "indonesian": "Kami akan menyiapkan ruang kelas sebelum pukul delapan.",
+    "model_answer": "We will prepare the classroom before eight.",
+    "accepted_answers": [
+      "We will prepare the classroom before eight."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-13",
+    "grammar_focus": "simple-future",
+    "indonesian": "Saya tidak akan melupakan bantuanmu.",
+    "model_answer": "I will not forget your help.",
+    "accepted_answers": [
+      "I will not forget your help."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-14",
+    "grammar_focus": "simple-future",
+    "indonesian": "Apakah kamu akan menunggu di sini?",
+    "model_answer": "Will you wait here?",
+    "accepted_answers": [
+      "Will you wait here?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-15",
+    "grammar_focus": "simple-future",
+    "indonesian": "Mereka akan membuka toko baru tahun depan.",
+    "model_answer": "They will open a new store next year.",
+    "accepted_answers": [
+      "They will open a new store next year."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-SIMPLEFUTURE-16",
+    "grammar_focus": "simple-future",
+    "indonesian": "Siapa yang akan menjawab pertanyaan itu?",
+    "model_answer": "Who will answer that question?",
+    "accepted_answers": [
+      "Who will answer that question?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur simple future dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-01",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Pada pukul delapan besok malam, saya sedang belajar.",
+    "model_answer": "At eight tomorrow night, I will be studying.",
+    "accepted_answers": [
+      "At eight tomorrow night, I will be studying."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-02",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Mereka sedang bekerja pada waktu ini besok.",
+    "model_answer": "They will be working at this time tomorrow.",
+    "accepted_answers": [
+      "They will be working at this time tomorrow."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-03",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Apakah kamu sedang tidur pada pukul sebelas malam nanti?",
+    "model_answer": "Will you be sleeping at eleven tonight?",
+    "accepted_answers": [
+      "Will you be sleeping at eleven tonight?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-04",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Kami sedang melakukan perjalanan sepanjang pagi besok.",
+    "model_answer": "We will be traveling throughout tomorrow morning.",
+    "accepted_answers": [
+      "We will be traveling throughout tomorrow morning."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-05",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Dia tidak sedang menggunakan mobil pada siang hari besok.",
+    "model_answer": "She will not be using the car tomorrow afternoon.",
+    "accepted_answers": [
+      "She will not be using the car tomorrow afternoon."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-06",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Pada waktu ini minggu depan, saya sedang berlibur.",
+    "model_answer": "At this time next week, I will be enjoying my vacation.",
+    "accepted_answers": [
+      "At this time next week, I will be enjoying my vacation."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-07",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Apa yang sedang kamu kerjakan pukul sembilan besok?",
+    "model_answer": "What will you be working on at nine tomorrow?",
+    "accepted_answers": [
+      "What will you be working on at nine tomorrow?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-08",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Mereka sedang menonton pertandingan pada pukul tujuh besok malam.",
+    "model_answer": "They will be watching the match at seven tomorrow night.",
+    "accepted_answers": [
+      "They will be watching the match at seven tomorrow night."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-09",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Saya sedang mengikuti kelas saat kamu tiba besok.",
+    "model_answer": "I will be attending class when you arrive tomorrow.",
+    "accepted_answers": [
+      "I will be attending class when you arrive tomorrow."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-10",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Kami tidak sedang menunggu di luar pada waktu itu besok.",
+    "model_answer": "We will not be waiting outside at that time tomorrow.",
+    "accepted_answers": [
+      "We will not be waiting outside at that time tomorrow."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-11",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Apakah dia sedang bekerja ketika kamu menelepon besok?",
+    "model_answer": "Will he be working when you call tomorrow?",
+    "accepted_answers": [
+      "Will he be working when you call tomorrow?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-12",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Pada pukul enam besok pagi, ayah sedang berlari.",
+    "model_answer": "At six tomorrow morning, my father will be running.",
+    "accepted_answers": [
+      "At six tomorrow morning, my father will be running."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-13",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Saya sedang membaca di perpustakaan besok sore.",
+    "model_answer": "I will be reading in the library tomorrow afternoon.",
+    "accepted_answers": [
+      "I will be reading in the library tomorrow afternoon."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-14",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Mereka sedang mempersiapkan acara pada waktu ini besok.",
+    "model_answer": "They will be preparing the event at this time tomorrow.",
+    "accepted_answers": [
+      "They will be preparing the event at this time tomorrow."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-15",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Apakah kamu sedang menggunakan laptop pada pukul dua besok?",
+    "model_answer": "Will you be using the laptop at two tomorrow?",
+    "accepted_answers": [
+      "Will you be using the laptop at two tomorrow?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-FUTURECONTINUOUS-16",
+    "grammar_focus": "future-continuous",
+    "indonesian": "Pada pukul sepuluh besok, kami sedang mengikuti ujian.",
+    "model_answer": "At ten tomorrow, we will be taking an exam.",
+    "accepted_answers": [
+      "At ten tomorrow, we will be taking an exam."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur future continuous dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-01",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu harus memakai helm saat mengendarai sepeda motor.",
+    "model_answer": "You must wear a helmet when riding a motorcycle.",
+    "accepted_answers": [
+      "You must wear a helmet when riding a motorcycle."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-02",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Dia bisa berenang dengan sangat baik.",
+    "model_answer": "She can swim very well.",
+    "accepted_answers": [
+      "She can swim very well."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-03",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Bolehkah saya membuka jendela?",
+    "model_answer": "May I open the window?",
+    "accepted_answers": [
+      "May I open the window?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-04",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu sebaiknya tidur lebih awal malam ini.",
+    "model_answer": "You should go to bed earlier tonight.",
+    "accepted_answers": [
+      "You should go to bed earlier tonight."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-05",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kita tidak boleh merokok di ruangan ini.",
+    "model_answer": "We must not smoke in this room.",
+    "accepted_answers": [
+      "We must not smoke in this room."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-06",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Bisakah kamu membantu saya membawa tas ini?",
+    "model_answer": "Could you help me carry this bag?",
+    "accepted_answers": [
+      "Could you help me carry this bag?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-07",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Mereka mungkin datang terlambat.",
+    "model_answer": "They might arrive late.",
+    "accepted_answers": [
+      "They might arrive late."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-08",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Apakah saya harus mengumpulkan tugas hari ini?",
+    "model_answer": "Must I submit the assignment today?",
+    "accepted_answers": [
+      "Must I submit the assignment today?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-09",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu tidak harus datang besok.",
+    "model_answer": "You do not have to come tomorrow.",
+    "accepted_answers": [
+      "You do not have to come tomorrow."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-10",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Saya ingin memesan secangkir teh.",
+    "model_answer": "I would like to order a cup of tea.",
+    "accepted_answers": [
+      "I would like to order a cup of tea."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-11",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Dia seharusnya meminta maaf kepada temannya.",
+    "model_answer": "He should apologize to his friend.",
+    "accepted_answers": [
+      "He should apologize to his friend."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-12",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Mungkin akan hujan sore ini.",
+    "model_answer": "It may rain this afternoon.",
+    "accepted_answers": [
+      "It may rain this afternoon."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-13",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kita harus menghormati guru kita.",
+    "model_answer": "We must respect our teachers.",
+    "accepted_answers": [
+      "We must respect our teachers."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-14",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Apakah kamu bisa berbicara bahasa Jepang?",
+    "model_answer": "Can you speak Japanese?",
+    "accepted_answers": [
+      "Can you speak Japanese?"
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-15",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Kamu tidak boleh menyentuh kabel listrik itu.",
+    "model_answer": "You must not touch that electrical wire.",
+    "accepted_answers": [
+      "You must not touch that electrical wire."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-MODALVERBS-16",
+    "grammar_focus": "modal-verbs",
+    "indonesian": "Bolehkah saya duduk di sini?",
+    "model_answer": "May I sit here?",
+    "accepted_answers": [
+      "May I sit here?"
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur modal verbs dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-01",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Surat itu dikirim kemarin.",
+    "model_answer": "The letter was sent yesterday.",
+    "accepted_answers": [
+      "The letter was sent yesterday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-02",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Jendela ini dibersihkan setiap minggu.",
+    "model_answer": "This window is cleaned every week.",
+    "accepted_answers": [
+      "This window is cleaned every week."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-03",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Mobil itu sedang diperbaiki sekarang.",
+    "model_answer": "The car is being repaired now.",
+    "accepted_answers": [
+      "The car is being repaired now."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-04",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Laporan itu sudah diselesaikan.",
+    "model_answer": "The report has been completed.",
+    "accepted_answers": [
+      "The report has been completed."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-05",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Pekerjaan ini harus diselesaikan hari ini.",
+    "model_answer": "This work must be finished today.",
+    "accepted_answers": [
+      "This work must be finished today."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-06",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Apakah buku itu ditulis oleh guru tersebut?",
+    "model_answer": "Was the book written by that teacher?",
+    "accepted_answers": [
+      "Was the book written by that teacher?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-07",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Makan malam sedang disiapkan ketika saya tiba.",
+    "model_answer": "Dinner was being prepared when I arrived.",
+    "accepted_answers": [
+      "Dinner was being prepared when I arrived."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-08",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Pintu harus tetap tertutup.",
+    "model_answer": "The door must be kept closed.",
+    "accepted_answers": [
+      "The door must be kept closed."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-09",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Paket itu akan dikirim besok.",
+    "model_answer": "The package will be delivered tomorrow.",
+    "accepted_answers": [
+      "The package will be delivered tomorrow."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-10",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Bahasa Inggris digunakan di banyak negara.",
+    "model_answer": "English is spoken in many countries.",
+    "accepted_answers": [
+      "English is spoken in many countries."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-11",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Sepeda ini tidak dibuat di Jepang.",
+    "model_answer": "This bicycle was not made in Japan.",
+    "accepted_answers": [
+      "This bicycle was not made in Japan."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-12",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Apakah pengumuman sudah dipasang?",
+    "model_answer": "Has the announcement been posted?",
+    "accepted_answers": [
+      "Has the announcement been posted?"
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-13",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Semua formulir harus ditandatangani.",
+    "model_answer": "All forms must be signed.",
+    "accepted_answers": [
+      "All forms must be signed."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-14",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Jalan baru itu sedang dibangun.",
+    "model_answer": "The new road is being built.",
+    "accepted_answers": [
+      "The new road is being built."
+    ],
+    "difficulty": "medium",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-15",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Pertandingan itu ditunda karena hujan.",
+    "model_answer": "The match was postponed because of the rain.",
+    "accepted_answers": [
+      "The match was postponed because of the rain."
+    ],
+    "difficulty": "hard",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  },
+  {
+    "code": "TR26X-PASSIVEVOICE-16",
+    "grammar_focus": "passive-voice",
+    "indonesian": "Komputer itu diperiksa oleh teknisi kemarin.",
+    "model_answer": "The computer was checked by a technician yesterday.",
+    "accepted_answers": [
+      "The computer was checked by a technician yesterday."
+    ],
+    "difficulty": "easy",
+    "explanation": "Gunakan struktur passive voice dengan memperhatikan keterangan waktu, subjek, dan makna kalimat. Penilai AI dapat mempertimbangkan alternatif yang setara."
+  }
+]

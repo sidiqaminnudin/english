@@ -1,0 +1,4 @@
+<%- include('partials/head') %><%- include('partials/nav') %>
+<main class="container page-pad"><h1>Dua Ujian</h1><p>Ujian lintas modul terpisah dari latihan. Listening boleh menggunakan TTS. Nilai Writing memerlukan review admin.</p>
+<% series.forEach(s=>{ %><section class="article-card mb-3"><h2><%= s.title %></h2><p><%= s.question_count %> soal · <%= s.duration_minutes %> menit · KKM <%= s.passing_score %></p><form method="post" action="/exams/<%= s.slug %>/start"><input type="hidden" name="_csrf" value="<%= csrfToken %>"><button class="btn btn-brand">Mulai ujian</button></form></section><% }) %>
+<% if(!series.length){ %><p>Ujian belum diterbitkan oleh admin.</p><% } %></main><%- include('partials/footer') %>

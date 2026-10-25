@@ -1,0 +1,834 @@
+[
+  {
+    "code": "LS26X-ATTHELIBRARY-05",
+    "slug": "at-the-library",
+    "stem": "What is Anna doing in her neighborhood?",
+    "options": [
+      "Running daily errands",
+      "Looking for a new job",
+      "Visiting a museum",
+      "Buying a car"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna walks around the neighborhood to complete errands."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-06",
+    "slug": "at-the-library",
+    "stem": "How many letters does Anna need to send?",
+    "options": [
+      "One",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "correct_index": 2,
+    "explanation": "Anna has four letters for people back home."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-07",
+    "slug": "at-the-library",
+    "stem": "Why does Anna want to find a bank?",
+    "options": [
+      "To open an account",
+      "To get cash",
+      "To apply for a loan",
+      "To meet her boss"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna needs cash to buy stamps."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-08",
+    "slug": "at-the-library",
+    "stem": "Where is the bank in relation to Anna?",
+    "options": [
+      "Far away",
+      "Across the river",
+      "Behind her",
+      "Inside the library"
+    ],
+    "correct_index": 2,
+    "explanation": "Marsha tells Anna that the bank is behind her."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-09",
+    "slug": "at-the-library",
+    "stem": "What does Anna buy at a store?",
+    "options": [
+      "Stamps",
+      "Shoes",
+      "A phone",
+      "Bookshelves"
+    ],
+    "correct_index": 0,
+    "explanation": "She buys stamps for her letters."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-10",
+    "slug": "at-the-library",
+    "stem": "Who helps Anna find places nearby?",
+    "options": [
+      "Jonathan",
+      "Marsha",
+      "Ashley",
+      "Pete"
+    ],
+    "correct_index": 1,
+    "explanation": "Marsha gives Anna directions in the neighborhood."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-11",
+    "slug": "at-the-library",
+    "stem": "Why does Anna visit a library?",
+    "options": [
+      "To attend a meeting",
+      "To return books",
+      "To rent a bicycle",
+      "To buy groceries"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna needs to return borrowed books."
+  },
+  {
+    "code": "LS26X-ATTHELIBRARY-12",
+    "slug": "at-the-library",
+    "stem": "How does Anna feel about her neighborhood?",
+    "options": [
+      "She hates it",
+      "She is afraid",
+      "She likes it",
+      "She plans to leave"
+    ],
+    "correct_index": 2,
+    "explanation": "Anna says she loves the neighborhood and its nearby services."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-05",
+    "slug": "weekend-plans",
+    "stem": "What type of test will Anna take first?",
+    "options": [
+      "A driving test on the road",
+      "A test on a computer",
+      "A swimming test",
+      "A language test"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna first takes a computer-based test."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-06",
+    "slug": "weekend-plans",
+    "stem": "What kind of test will Anna take after the computer test?",
+    "options": [
+      "A test in a car",
+      "A cooking exam",
+      "A bicycle race",
+      "A singing contest"
+    ],
+    "correct_index": 0,
+    "explanation": "The second test takes place in a car."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-07",
+    "slug": "weekend-plans",
+    "stem": "What does Marsha ask Anna to do for the party?",
+    "options": [
+      "Help prepare it",
+      "Repair a car",
+      "Teach a class",
+      "Work at a theater"
+    ],
+    "correct_index": 0,
+    "explanation": "Marsha asks Anna to help with party preparations."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-08",
+    "slug": "weekend-plans",
+    "stem": "What two contribution options does Marsha mention?",
+    "options": [
+      "Bring food or perform",
+      "Bring tickets or drive",
+      "Paint or clean",
+      "Sing or study"
+    ],
+    "correct_index": 0,
+    "explanation": "Guests can bring food or perform at the party."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-09",
+    "slug": "weekend-plans",
+    "stem": "What does Anna try to recite?",
+    "options": [
+      "A poem",
+      "A recipe",
+      "A weather report",
+      "A news bulletin"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna suggests reciting poetry."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-10",
+    "slug": "weekend-plans",
+    "stem": "What kind of trick does Anna attempt?",
+    "options": [
+      "A magic coin trick",
+      "A card trick",
+      "A dance step",
+      "A juggling trick"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna tries to show a card trick."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-11",
+    "slug": "weekend-plans",
+    "stem": "What instrument does Anna play?",
+    "options": [
+      "Piano",
+      "Drums",
+      "Ukulele",
+      "Violin"
+    ],
+    "correct_index": 2,
+    "explanation": "Anna plays a song on a ukulele."
+  },
+  {
+    "code": "LS26X-WEEKENDPLANS-12",
+    "slug": "weekend-plans",
+    "stem": "What does Marsha finally suggest Anna should do at the party?",
+    "options": [
+      "Sing",
+      "Drive everyone",
+      "Cook soup",
+      "Read the news"
+    ],
+    "correct_index": 0,
+    "explanation": "Marsha agrees Anna can sing at the party."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-05",
+    "slug": "missed-the-bus",
+    "stem": "Which sport does Anna want to watch?",
+    "options": [
+      "Football",
+      "Basketball",
+      "Baseball",
+      "Tennis"
+    ],
+    "correct_index": 2,
+    "explanation": "She is going to a Nationals baseball game."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-06",
+    "slug": "missed-the-bus",
+    "stem": "What stadium is the destination?",
+    "options": [
+      "Nationals Park",
+      "Madison Square Garden",
+      "Wembley",
+      "Fenway Park"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna plans to visit Nationals Park."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-07",
+    "slug": "missed-the-bus",
+    "stem": "What vehicle does Jonathan say is faster than a bus?",
+    "options": [
+      "A train",
+      "A taxi",
+      "A scooter",
+      "A boat"
+    ],
+    "correct_index": 1,
+    "explanation": "Jonathan suggests taking a taxi."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-08",
+    "slug": "missed-the-bus",
+    "stem": "When does the game start?",
+    "options": [
+      "5 o’clock",
+      "6 o’clock",
+      "7 o’clock",
+      "9 o’clock"
+    ],
+    "correct_index": 2,
+    "explanation": "Ashley asks the time, and Anna says seven."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-09",
+    "slug": "missed-the-bus",
+    "stem": "What does Anna not have before going to the game?",
+    "options": [
+      "A phone",
+      "A ticket",
+      "A jacket",
+      "A bag"
+    ],
+    "correct_index": 1,
+    "explanation": "She does not have a ticket yet."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-10",
+    "slug": "missed-the-bus",
+    "stem": "Why might a bicycle be faster than a car?",
+    "options": [
+      "There is heavy traffic",
+      "The roads are closed",
+      "The cars are broken",
+      "Bicycles can fly"
+    ],
+    "correct_index": 0,
+    "explanation": "Ashley points out that there is a lot of traffic."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-11",
+    "slug": "missed-the-bus",
+    "stem": "What transport ultimately takes Anna to the stadium fastest?",
+    "options": [
+      "The Metro",
+      "A bicycle",
+      "A bus",
+      "A taxi"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna reaches the stadium by Metro."
+  },
+  {
+    "code": "LS26X-MISSEDTHEBUS-12",
+    "slug": "missed-the-bus",
+    "stem": "What problem does Anna discover at the ticket window?",
+    "options": [
+      "The game moved cities",
+      "The tickets are sold out",
+      "Her phone is missing",
+      "The stadium is closed"
+    ],
+    "correct_index": 1,
+    "explanation": "No tickets remain when Anna arrives."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-05",
+    "slug": "at-the-cafe",
+    "stem": "Why does Pete look sad?",
+    "options": [
+      "He lost a game",
+      "He does not have a job",
+      "He missed the bus",
+      "He broke a window"
+    ],
+    "correct_index": 1,
+    "explanation": "Pete tells Anna he is unemployed."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-06",
+    "slug": "at-the-cafe",
+    "stem": "What job-related skill does Anna first ask about?",
+    "options": [
+      "Writing code",
+      "Drawing maps",
+      "Cooking rice",
+      "Playing guitar"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna asks whether Pete can write code."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-07",
+    "slug": "at-the-cafe",
+    "stem": "What does Pete misunderstand the word “code” as?",
+    "options": [
+      "Coat",
+      "Cold",
+      "Road",
+      "Gold"
+    ],
+    "correct_index": 1,
+    "explanation": "He spells “cold” instead of responding about coding."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-08",
+    "slug": "at-the-cafe",
+    "stem": "Why is Pete not a good candidate for a driving job?",
+    "options": [
+      "He falls asleep while driving",
+      "He dislikes cars",
+      "He has no shoes",
+      "He works at night"
+    ],
+    "correct_index": 0,
+    "explanation": "Pete says he falls asleep when he drives."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-09",
+    "slug": "at-the-cafe",
+    "stem": "Which job does Anna suggest that requires cooking?",
+    "options": [
+      "Chef",
+      "Doctor",
+      "Pilot",
+      "Accountant"
+    ],
+    "correct_index": 0,
+    "explanation": "She suggests becoming a chef."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-10",
+    "slug": "at-the-cafe",
+    "stem": "What does Pete already write online?",
+    "options": [
+      "A blog",
+      "Sports scores",
+      "Medical reports",
+      "Shopping lists"
+    ],
+    "correct_index": 0,
+    "explanation": "Pete says he writes about his feelings in a blog."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-11",
+    "slug": "at-the-cafe",
+    "stem": "About how many followers does Pete have?",
+    "options": [
+      "Fifty-nine",
+      "Five hundred",
+      "Nearly sixty thousand",
+      "One million"
+    ],
+    "correct_index": 2,
+    "explanation": "He has 59,538 followers, nearly sixty thousand."
+  },
+  {
+    "code": "LS26X-ATTHECAFE-12",
+    "slug": "at-the-cafe",
+    "stem": "What career does Pete decide to pursue?",
+    "options": [
+      "Driver",
+      "Writer",
+      "Chef",
+      "Programmer"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna encourages Pete to become a writer."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-05",
+    "slug": "rainy-afternoon",
+    "stem": "What does Anna ask her phone to check?",
+    "options": [
+      "The train fare",
+      "The weather forecast",
+      "Her email",
+      "Sports scores"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna checks the daily weather forecast."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-06",
+    "slug": "rainy-afternoon",
+    "stem": "What temperature does the phone initially report?",
+    "options": [
+      "8 degrees",
+      "18 degrees",
+      "30 degrees",
+      "38 degrees"
+    ],
+    "correct_index": 1,
+    "explanation": "The phone reports 18 degrees Celsius."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-07",
+    "slug": "rainy-afternoon",
+    "stem": "Which unit surprises Anna at first?",
+    "options": [
+      "Celsius",
+      "Meters",
+      "Miles",
+      "Liters"
+    ],
+    "correct_index": 0,
+    "explanation": "She first assumes the temperature is in Fahrenheit, then hears Celsius."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-08",
+    "slug": "rainy-afternoon",
+    "stem": "What weather does the phone predict?",
+    "options": [
+      "Wind and snow",
+      "Rain and fog",
+      "Warm and sunny",
+      "Cold and rainy"
+    ],
+    "correct_index": 2,
+    "explanation": "The phone forecasts warm sunny weather."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-09",
+    "slug": "rainy-afternoon",
+    "stem": "Does the phone say it is windy?",
+    "options": [
+      "Yes",
+      "No",
+      "Only at night",
+      "It does not know"
+    ],
+    "correct_index": 1,
+    "explanation": "The phone says it is not windy."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-10",
+    "slug": "rainy-afternoon",
+    "stem": "Does the phone predict snow?",
+    "options": [
+      "Yes, all day",
+      "Only in the mountains",
+      "No",
+      "At midnight"
+    ],
+    "correct_index": 2,
+    "explanation": "The phone says it is not snowy."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-11",
+    "slug": "rainy-afternoon",
+    "stem": "What is actually happening in Washington when Anna goes outside?",
+    "options": [
+      "It is cold, windy, and snowy",
+      "It is hot and sunny",
+      "There is a heatwave",
+      "There is thick fog"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna discovers very different weather outside."
+  },
+  {
+    "code": "LS26X-RAINYAFTERNOON-12",
+    "slug": "rainy-afternoon",
+    "stem": "For which city was the phone giving the warm forecast?",
+    "options": [
+      "London",
+      "Washington",
+      "Mexico City",
+      "Toronto"
+    ],
+    "correct_index": 2,
+    "explanation": "The forecast was for Mexico City rather than Washington."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-05",
+    "slug": "asking-directions",
+    "stem": "Who is going to visit Anna’s apartment?",
+    "options": [
+      "Marsha",
+      "Ashley",
+      "Pete",
+      "Jonathan"
+    ],
+    "correct_index": 1,
+    "explanation": "Ashley calls Anna to ask for directions."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-06",
+    "slug": "asking-directions",
+    "stem": "What transport station is near Anna’s apartment?",
+    "options": [
+      "Columbia Heights Metro",
+      "Union Station",
+      "Central Bus Terminal",
+      "Airport station"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna lives near the Columbia Heights Metro."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-07",
+    "slug": "asking-directions",
+    "stem": "Which way should Ashley turn after exiting the Metro?",
+    "options": [
+      "Left",
+      "Right",
+      "Back",
+      "North"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna first tells Ashley to turn right."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-08",
+    "slug": "asking-directions",
+    "stem": "Where should Ashley turn left?",
+    "options": [
+      "At the bus station",
+      "At a hospital",
+      "At a bridge",
+      "At the bank"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna says to turn left at the bus station."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-09",
+    "slug": "asking-directions",
+    "stem": "What should Ashley do after the second turn?",
+    "options": [
+      "Stop immediately",
+      "Walk straight ahead",
+      "Cross a river",
+      "Take a taxi"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna tells Ashley to walk straight ahead."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-10",
+    "slug": "asking-directions",
+    "stem": "How many coffee shops does Ashley see?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_index": 2,
+    "explanation": "Ashley is confused because there are three coffee shops."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-11",
+    "slug": "asking-directions",
+    "stem": "What large building is opposite Anna’s apartment?",
+    "options": [
+      "A department store",
+      "A stadium",
+      "A hospital",
+      "A museum"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna says the apartment is across from a big department store."
+  },
+  {
+    "code": "LS26X-ASKINGDIRECTIONS-12",
+    "slug": "asking-directions",
+    "stem": "Why does Ashley call Anna again?",
+    "options": [
+      "She forgot her phone",
+      "She needs clarification about the coffee shop",
+      "She lost her wallet",
+      "She missed her flight"
+    ],
+    "correct_index": 1,
+    "explanation": "Ashley cannot identify the correct coffee shop."
+  },
+  {
+    "code": "LS26X-NEWJOB-05",
+    "slug": "new-job",
+    "stem": "Why does Anna want to talk to her co-workers?",
+    "options": [
+      "To apologize",
+      "To borrow money",
+      "To announce a trip",
+      "To resign"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna wants to apologize for what happened on her first day."
+  },
+  {
+    "code": "LS26X-NEWJOB-06",
+    "slug": "new-job",
+    "stem": "What is Anne doing at 10 a.m.?",
+    "options": [
+      "Writing",
+      "Cooking",
+      "Driving",
+      "Painting"
+    ],
+    "correct_index": 0,
+    "explanation": "Anne says she is writing and has a morning show."
+  },
+  {
+    "code": "LS26X-NEWJOB-07",
+    "slug": "new-job",
+    "stem": "What does Jonathan record?",
+    "options": [
+      "An evening show",
+      "A cooking class",
+      "A sports race",
+      "An audiobook"
+    ],
+    "correct_index": 0,
+    "explanation": "Jonathan is busy recording his evening show."
+  },
+  {
+    "code": "LS26X-NEWJOB-08",
+    "slug": "new-job",
+    "stem": "When does Amelia suggest Anna visit again?",
+    "options": [
+      "This afternoon",
+      "Next month",
+      "At midnight",
+      "On Sunday"
+    ],
+    "correct_index": 0,
+    "explanation": "Amelia asks Anna to come by in the afternoon."
+  },
+  {
+    "code": "LS26X-NEWJOB-09",
+    "slug": "new-job",
+    "stem": "Who calls Anna into an office?",
+    "options": [
+      "Ashley",
+      "Marsha",
+      "Ms. Weaver",
+      "Pete"
+    ],
+    "correct_index": 2,
+    "explanation": "Ms. Weaver calls Anna to her office."
+  },
+  {
+    "code": "LS26X-NEWJOB-10",
+    "slug": "new-job",
+    "stem": "At what time must Anna go to the office?",
+    "options": [
+      "3 p.m.",
+      "4 p.m.",
+      "5 p.m.",
+      "6 p.m."
+    ],
+    "correct_index": 2,
+    "explanation": "Ms. Weaver tells Anna to arrive at five."
+  },
+  {
+    "code": "LS26X-NEWJOB-11",
+    "slug": "new-job",
+    "stem": "What do the colleagues prepare for Anna?",
+    "options": [
+      "A surprise party",
+      "A test",
+      "A car",
+      "A map"
+    ],
+    "correct_index": 0,
+    "explanation": "Her co-workers surprise her with a party."
+  },
+  {
+    "code": "LS26X-NEWJOB-12",
+    "slug": "new-job",
+    "stem": "What is Anna relieved about at the end?",
+    "options": [
+      "She has a new phone",
+      "She still has her job",
+      "The weather is sunny",
+      "She passed a driving test"
+    ],
+    "correct_index": 1,
+    "explanation": "She is happy to learn that she still has her job."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-05",
+    "slug": "at-the-clinic",
+    "stem": "Why does Anna call her boss?",
+    "options": [
+      "She cannot come to work because she is sick",
+      "She wants a raise",
+      "She needs a taxi",
+      "She is buying books"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna calls in sick."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-06",
+    "slug": "at-the-clinic",
+    "stem": "What did Anna do in the morning on the previous day?",
+    "options": [
+      "Painted",
+      "Went swimming",
+      "Drove a taxi",
+      "Visited a doctor"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna spent hours painting."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-07",
+    "slug": "at-the-clinic",
+    "stem": "What illness did Ms. Weaver have the previous week?",
+    "options": [
+      "The flu",
+      "A broken arm",
+      "A toothache",
+      "A stomach injury"
+    ],
+    "correct_index": 0,
+    "explanation": "The boss says she had the flu."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-08",
+    "slug": "at-the-clinic",
+    "stem": "What does Ms. Weaver advise Anna to do?",
+    "options": [
+      "Visit her doctor and rest",
+      "Go to a party",
+      "Exercise outside",
+      "Go shopping"
+    ],
+    "correct_index": 0,
+    "explanation": "She recommends calling a doctor and resting."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-09",
+    "slug": "at-the-clinic",
+    "stem": "Which two symptoms does Anna confirm to her doctor?",
+    "options": [
+      "Sore throat and cough",
+      "Broken leg and headache",
+      "Earache and back pain",
+      "Rash and toothache"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna confirms that she has a sore throat and cough."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-10",
+    "slug": "at-the-clinic",
+    "stem": "Why was the thermometer reading 125 degrees?",
+    "options": [
+      "It was in hot coffee",
+      "It was broken by rain",
+      "Anna ran a marathon",
+      "It was in the freezer"
+    ],
+    "correct_index": 0,
+    "explanation": "Anna accidentally measured her coffee."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-11",
+    "slug": "at-the-clinic",
+    "stem": "What temperature does Anna measure the second time?",
+    "options": [
+      "95.0 degrees",
+      "98.0 degrees",
+      "100.5 degrees",
+      "125.0 degrees"
+    ],
+    "correct_index": 2,
+    "explanation": "Anna reports 100.5 degrees on the second attempt."
+  },
+  {
+    "code": "LS26X-ATTHECLINIC-12",
+    "slug": "at-the-clinic",
+    "stem": "For how long does the doctor advise Anna not to work?",
+    "options": [
+      "A couple of days",
+      "Two weeks",
+      "A month",
+      "One hour"
+    ],
+    "correct_index": 0,
+    "explanation": "Dr. Bennett tells her to stay away from work for a couple of days."
+  }
+]

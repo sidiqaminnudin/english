@@ -1,0 +1,14 @@
+<% if(item.ai_grade_status==='ready' && item.ai_grade_json){const f=item.ai_grade_json; %>
+<section class="mt-3 border-top pt-3" aria-label="Koreksi AI">
+<h2 class="h6 fw-bold">Koreksi AI — <%= f.overall_score %>/100</h2>
+<p class="small muted">Grammar: <%= f.grammar_score %> · Makna: <%= f.meaning_score %> · Naturalness: <%= f.naturalness_score %> · Tense: <%= f.tense_assessment %></p>
+<p><%= f.feedback_id %></p>
+<p><strong>Perbaikan:</strong> <%= f.corrected_english %></p>
+<% if(f.issues.length){ %><ul><% f.issues.forEach(x=>{ %><li><%= x %></li><% }) %></ul><% } %>
+<% if(f.alternatives.length){ %><p class="mb-1"><strong>Alternatif yang valid:</strong></p><ul><% f.alternatives.forEach(x=>{ %><li><%= x %></li><% }) %></ul><% } %>
+<p class="small muted">Saran AI: <%= f.suggested_acceptance?'Dapat diterima':'Perlu diperbaiki' %>. Feedback latihan, bukan nilai final; review admin tetap tersedia.</p>
+</section>
+<% }else if(!aiEnabled){ %><p class="muted mt-3">Koreksi AI belum aktif. Jawaban tetap tersimpan.</p>
+<% }else if(item.ai_grade_status==='processing'||item.ai_grade_status==='none'){ %><p class="mt-3 text-info">Koreksi AI belum tersedia atau sedang dalam antrean. Muat ulang hasil untuk melihat perkembangan.</p>
+<% }else{ %><p class="mt-3 text-warning">Koreksi AI gagal; jawaban tetap tersimpan.</p><% } %>
+<% if(aiEnabled && item.ai_grade_status!=='ready' && item.ai_grade_status!=='processing'){ %><a class="btn btn-sm btn-outline-primary" href="/translation/ai/item/<%= item.id %>">Lihat status / coba ulang AI</a><% } %>

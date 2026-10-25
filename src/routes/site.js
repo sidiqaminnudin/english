@@ -4,6 +4,8 @@ import {query} from '../db.js';
 import {asyncRoute,requireAuth,safeNext} from '../middleware/core.js';
 import {startAttempt,finalizeAttempt,saveAnswer,isExpired} from '../services/assessment.js';
 import MarkdownIt from 'markdown-it';
+import {readFileSync} from 'node:fs';
+const tensesMarkdown=readFileSync(new URL('../content/tenses_quick_reference.md',import.meta.url),'utf8');
 const router=Router();
 const md=new MarkdownIt({html:false,linkify:true,typographer:true});
 const fetchModules=()=>query(`SELECT m.*,COUNT(DISTINCT l.id) FILTER(WHERE l.is_published)::int AS lesson_count,
@@ -14,6 +16,7 @@ const getModule=async slug=>(await query(`SELECT m.* FROM modules m JOIN courses
 function showMessage(res,code,title,message){return res.status(code).render('message',{title,message});}
 router.get('/',asyncRoute(async(req,res)=>{const modules=(await fetchModules()).rows;res.render('home',{title:'Belajar Bahasa Inggris',modules});}));
 router.get('/courses',asyncRoute(async(req,res)=>{const modules=(await fetchModules()).rows;res.render('catalog',{title:'Kurikulum',modules});}));
+router.get('/tenses-summary',(req,res)=>res.render('tenses-summary',{title:'Ringkasan Tenses',html:md.render(tensesMarkdown)}));
 router.get('/courses/:slug',asyncRoute(async(req,res)=>{
  const course=(await query('SELECT * FROM courses WHERE slug=$1 AND is_published=true',[req.params.slug])).rows[0];
  if(!course)return showMessage(res,404,'Course tidak ditemukan','Course belum tersedia.');

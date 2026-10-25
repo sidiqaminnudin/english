@@ -1,0 +1,21 @@
+<%- include('../partials/head') %><%- include('../partials/nav') %>
+<main class="container page-pad"><div class="row justify-content-center"><div class="col-lg-9">
+<a href="/translation/run/<%= item.run_id %>/feedback/<%= item.ordinal %>" class="back-link">← Kembali ke pembahasan</a>
+<h1 class="h2 fw-bold mt-3">Koreksi Writing dengan AI</h1>
+<p class="muted">Penilaian AI adalah masukan belajar, bukan nilai ujian final. Jawaban alternatif bisa benar meskipun berbeda dari contoh.</p>
+<div class="review-card"><p class="mini-label">SOAL</p><p class="fw-bold"><%= item.prompt_snapshot %></p><p class="mini-label">JAWABAN KAMU</p><p><%= item.answer_text %></p><p class="mini-label">CONTOH JAWABAN</p><p><%= item.model_snapshot %></p></div>
+<% if(item.ai_grade_status==='ready' && item.ai_grade_json){const f=item.ai_grade_json; %>
+<div class="review-card"><h2 class="h5 fw-bold">Hasil Koreksi AI</h2>
+<div class="row g-2 mb-3"><div class="col-6 col-md-3"><div class="stat-card"><strong><%= f.overall_score %></strong><span>Skor keseluruhan</span></div></div><div class="col-6 col-md-3"><div class="stat-card"><strong><%= f.grammar_score %></strong><span>Grammar</span></div></div><div class="col-6 col-md-3"><div class="stat-card"><strong><%= f.meaning_score %></strong><span>Makna</span></div></div><div class="col-6 col-md-3"><div class="stat-card"><strong><%= f.naturalness_score %></strong><span>Naturalness</span></div></div></div>
+<p><strong>Kecocokan tense:</strong> <%= f.tense_assessment %></p>
+<p><strong>Penjelasan:</strong> <%= f.feedback_id %></p>
+<p><strong>Perbaikan yang disarankan:</strong> <%= f.corrected_english %></p>
+<% if(f.issues && f.issues.length){ %><strong>Hal yang perlu diperhatikan</strong><ul><% f.issues.forEach(x=>{ %><li><%= x %></li><% }) %></ul><% } %>
+<% if(f.alternatives && f.alternatives.length){ %><strong>Alternatif yang valid</strong><ul><% f.alternatives.forEach(x=>{ %><li><%= x %></li><% }) %></ul><% } %>
+<p class="muted small mb-0">Saran diterima AI: <%= f.suggested_acceptance?'Ya':'Perlu diperbaiki' %> — admin tetap dapat meninjau ulang jawaban.</p></div>
+<% }else if(!enabled){ %><div class="alert alert-warning">Admin belum mengatur API key. Koreksi manual tetap tersedia.</div>
+<% }else if(item.ai_grade_status==='processing'){ %><div class="alert alert-info">Koreksi sedang diproses. Muat ulang halaman untuk melihat hasil.</div>
+<% }else{ %><div class="alert alert-info">Klik tombol di bawah untuk mengirim soal dan jawaban ini ke layanan AI untuk dikoreksi. Jangan masukkan informasi pribadi dalam jawaban.</div>
+<% if(item.ai_grade_status==='failed'){ %><div class="alert alert-warning">Layanan AI gagal memberikan hasil. Kamu bisa coba lagi jika masih memiliki kesempatan.</div><% } %>
+<% if(item.ai_grade_attempts<2){ %><form method="post" action="/translation/ai/item/<%= item.id %>"><input type="hidden" name="_csrf" value="<%= csrfToken %>"><button type="submit" class="btn btn-brand">Koreksi dengan AI</button></form><% }else{ %><p class="muted">Batas dua permintaan AI untuk jawaban ini telah tercapai. Minta admin meninjau jika diperlukan.</p><% } %><% } %>
+</div></div></main><%- include('../partials/footer') %>

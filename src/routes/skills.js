@@ -1,6 +1,8 @@
 import {Router} from 'express';
 import {pool,query} from '../db.js';
 import {asyncRoute,requireAuth,requireAdmin} from '../middleware/core.js';
+import {gradeWritingRun} from '../services/ai-writing-run.js';
+import {isWritingAIConfigured} from '../services/ai-writing.js';
 const router=Router();
 const focusLabels={
  'simple-present':'Simple Present','simple-past':'Simple Past','present-perfect':'Present Perfect',
@@ -48,7 +50,7 @@ router.get('/translation/run/:id',requireAuth,asyncRoute(async(req,res)=>{
 router.post('/translation/run/:id/answer',requireAuth,asyncRoute(async(req,res)=>{
  const itemId=int(req.body.item_id),chosen=String(req.body.chosen_focus||''),answer=String(req.body.english_answer||'').trim();
  if(!itemId||!focusNames.includes(chosen)||answer.length<3||answer.length>600)return message(res,400,'Jawaban tidak valid','Pilih tense/struktur dan ketik kalimat 3–600 karakter.');
- const client=await pool.connect();let ordinal;
+ const client=await pool.connect();let ordinal,complete=false;
  try{await client.query('BEGIN');
   const run=(await client.query('SELECT * FROM translation_runs WHERE id=$1 AND user_id=$2 FOR UPDATE',[req.params.id,req.session.user.id])).rows[0];
   if(!run||run.status!=='in_progress'){await client.query('ROLLBACK');return message(res,409,'Sesi telah selesai','Buka hasil atau mulai latihan baru.');}
@@ -60,14 +62,19 @@ router.post('/translation/run/:id/answer',requireAuth,asyncRoute(async(req,res)=
   await client.query(`UPDATE translation_run_items SET chosen_focus=$1,answer_text=$2,
    tense_correct=$3,sentence_verdict=$4,answered_at=NOW() WHERE id=$5`,[chosen,answer,chosen===next.focus_snapshot,exact?'accepted':'pending',next.id]);
   const remaining=(await client.query('SELECT COUNT(*)::int n FROM translation_run_items WHERE run_id=$1 AND answer_text IS NULL',[run.id])).rows[0].n;
-  if(remaining===0)await client.query("UPDATE translation_runs SET status='submitted',submitted_at=NOW() WHERE id=$1",[run.id]);
+  complete=remaining===0;
+   if(complete)await client.query("UPDATE translation_runs SET status='submitted',submitted_at=NOW() WHERE id=$1",[run.id]);
   await client.query('COMMIT');
  }catch(e){await client.query('ROLLBACK').catch(()=>{});throw e;}finally{client.release();}
- res.redirect(`/translation/run/${req.params.id}/feedback/${ordinal}`);
+ if(complete){
+  const userId=req.session.user.id,runId=req.params.id;
+  setImmediate(()=>gradeWritingRun(runId,userId).catch(()=>console.error('Writing AI run failed')));
+ }
+ res.redirect(`/translation/run/${req.params.id}${complete?'/result':''}`);
 }));
 router.get('/translation/run/:id/feedback/:ordinal',requireAuth,asyncRoute(async(req,res)=>{
  const run=await ownedTranslation(req.params.id,req.session.user.id);if(!run)return message(res,404,'Tidak ditemukan','Sesi bukan milik Anda.');
- const item=(await query(`SELECT ordinal,prompt_snapshot,focus_snapshot,model_snapshot,explanation_snapshot,chosen_focus,answer_text,tense_correct,sentence_verdict
+ const item=(await query(`SELECT id,ordinal,prompt_snapshot,focus_snapshot,model_snapshot,explanation_snapshot,chosen_focus,answer_text,tense_correct,sentence_verdict
   FROM translation_run_items WHERE run_id=$1 AND ordinal=$2 AND answer_text IS NOT NULL`,[run.id,req.params.ordinal])).rows[0];
  if(!item)return message(res,404,'Belum dijawab','Selesaikan pertanyaan dahulu.');
  res.render('translation/feedback',{title:'Pembahasan Terjemahan',run,item,focusLabels});
@@ -75,9 +82,8 @@ router.get('/translation/run/:id/feedback/:ordinal',requireAuth,asyncRoute(async
 router.get('/translation/run/:id/result',requireAuth,asyncRoute(async(req,res)=>{
  const run=await ownedTranslation(req.params.id,req.session.user.id);if(!run)return message(res,404,'Tidak ditemukan','Sesi bukan milik akun Anda.');
  if(run.status!=='submitted')return res.redirect('/translation/run/'+run.id);
- const items=(await query(`SELECT ordinal,prompt_snapshot,focus_snapshot,model_snapshot,explanation_snapshot,chosen_focus,answer_text,tense_correct,sentence_verdict
-  FROM translation_run_items WHERE run_id=$1 ORDER BY ordinal`,[run.id])).rows;
- res.render('translation/result',{title:'Hasil Terjemahan',run,items,focusLabels});
+ const items=(await query(`SELECT * FROM translation_run_items WHERE run_id=$1 ORDER BY ordinal`,[run.id])).rows;
+ res.render('translation/result',{title:'Hasil Terjemahan',run,items,focusLabels,aiEnabled:isWritingAIConfigured()});
 }));
 router.get('/translation/history',requireAuth,asyncRoute(async(req,res)=>{
  const runs=(await query(`SELECT r.id,r.started_at,r.submitted_at,r.status,r.focus_filter,COUNT(i.id)::int total,
@@ -92,11 +98,13 @@ router.get('/listening',asyncRoute(async(req,res)=>{
  res.render('listening/index',{title:'Listening Sessions',tracks});
 }));
 router.post('/listening/:slug/start',requireAuth,asyncRoute(async(req,res)=>{
+ const requestedListening=Number(req.body.question_count||4);
+ if(![4,8,12].includes(requestedListening))return message(res,400,'Jumlah soal tidak valid','Pilih 4, 8, atau 12 pertanyaan.');
  const client=await pool.connect();let id;
  try{await client.query('BEGIN');
   const track=(await client.query('SELECT id FROM listening_tracks WHERE slug=$1 AND is_active',[req.params.slug])).rows[0];
   if(!track){await client.query('ROLLBACK');return message(res,404,'Audio tidak ditemukan','Pilih audio yang tersedia.');}
-  const questions=(await client.query('SELECT * FROM listening_questions WHERE track_id=$1 AND is_active ORDER BY random() LIMIT 10',[track.id])).rows;
+  const questions=(await client.query('SELECT * FROM listening_questions WHERE track_id=$1 AND is_active ORDER BY random() LIMIT $2',[track.id,requestedListening])).rows;
   if(!questions.length){await client.query('ROLLBACK');return message(res,400,'Soal belum ada','Audio ini belum memiliki soal aktif.');}
   id=(await client.query('INSERT INTO listening_runs(user_id,track_id) VALUES($1,$2) RETURNING id',[req.session.user.id,track.id])).rows[0].id;
   for(const [i,q] of questions.entries()){

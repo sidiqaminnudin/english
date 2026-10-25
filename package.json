@@ -9,7 +9,7 @@
     "dev": "node --watch src/server.js",
     "db:init": "node scripts/init-db.js",
     "db:seed": "node scripts/seed.js",
-    "check": "node --check src/server.js && node --check src/routes/site.js && node --check src/routes/admin.js && node --check src/services/assessment.js && node --check src/routes/skills.js && node --check scripts/migrate-v12.js && node --check scripts/seed-v12.js",
+    "check": "node --check src/server.js && node --check src/routes/site.js && node --check src/routes/admin.js && node --check src/services/assessment.js && node --check src/routes/skills.js && node --check scripts/migrate-v12.js && node --check scripts/seed-v12.js && node --check src/routes/ai-writing.js && node --check src/services/ai-writing.js && node --check scripts/seed-writing-listening.js",
     "db:migrate:v12": "node scripts/migrate-v12.js",
     "db:seed:v12": "node scripts/seed-v12.js",
     "qa:v12": "node scripts/run-python.js scripts/qa_v12.py",
@@ -18,7 +18,11 @@
     "db:seed:final": "node scripts/seed-final.js",
     "qa:final": "node scripts/qa-final.js",
     "qa:expanded": "python3 scripts/qa_expanded.py",
-    "qa:all": "node scripts/run-python.js scripts/qa_bank.py scripts/qa_expanded.py scripts/qa_templates.py"
+    "qa:all": "node scripts/run-python.js scripts/qa_bank.py scripts/qa_expanded.py scripts/qa_templates.py",
+    "db:migrate:writing-ai": "node scripts/migrate-writing-ai.js",
+    "db:seed:writing-listening": "node scripts/seed-writing-listening.js",
+    "patch:writing-ai": "node scripts/apply-writing-ai-integration.js",
+    "qa:writing-listening": "node scripts/run-python.js scripts/qa-writing-listening.py"
   },
   "engines": {
     "node": ">=20"

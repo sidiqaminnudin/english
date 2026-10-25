@@ -1,1 +1,14 @@
-<%- include('../partials/head') %><%- include('../partials/nav') %><main class="container page-pad"><span class="eyebrow">MY PROGRESS</span><h1 class="h2 fw-bold mb-4">Riwayat Terjemahan</h1><div class="panel table-responsive"><table class="table align-middle"><thead><tr><th>Sesi</th><th>Tanggal</th><th>Fokus</th><th>Tense tepat</th><th>Review pending</th></tr></thead><tbody><% runs.forEach(r=>{ %><tr><td><a class="text-link" href="/translation/run/<%= r.id %>/<%= r.status==='submitted'?'result':'' %>">#<%= r.id %></a></td><td><%= new Date(r.started_at).toLocaleString('id-ID') %></td><td><%= focusLabels[r.focus_filter]||'Campuran' %></td><td><%= r.focus_correct %>/<%= r.total %></td><td><%= r.pending %></td></tr><% }) %></tbody></table><% if(!runs.length){ %><p class="p-4 muted">Belum ada sesi latihan.</p><% } %></div></main><%- include('../partials/footer') %>
+<%- include('../partials/head') %><%- include('../partials/nav') %>
+<main class="container page-pad">
+ <span class="eyebrow">MY PROGRESS</span><h1 class="h2 fw-bold mb-3">Riwayat Writing / Terjemahan</h1>
+ <p class="muted">Buka hasil untuk melihat jawaban dan koreksi AI yang tersimpan. Sesi yang belum selesai dapat dilanjutkan.</p>
+ <a class="btn btn-brand mb-3" href="/translation">Latihan baru</a>
+ <p class="muted small d-md-none">Geser tabel ke samping untuk melihat tombol detail.</p>
+ <div class="panel admin-table-scroll" role="region" aria-label="Riwayat Writing" tabindex="0"><table class="table align-middle mb-0">
+  <thead><tr><th>Sesi</th><th>Tanggal</th><th>Fokus</th><th>Status</th><th>Tense tepat</th><th>Menunggu koreksi AI</th><th>Detail</th></tr></thead>
+  <tbody><% if(!runs.length){ %><tr><td colspan="7" class="p-4 muted">Belum ada sesi latihan.</td></tr><% } %>
+  <% runs.forEach(r=>{ const url='/translation/run/'+r.id+(r.status==='submitted'?'/result':''); %>
+   <tr><td><a class="text-link" href="<%= url %>">#<%= r.id %></a></td><td><%= new Date(r.started_at).toLocaleString('id-ID') %></td><td><%= focusLabels[r.focus_filter]||'Campuran' %></td><td><%= r.status==='submitted'?'Selesai':'Berlangsung' %></td><td><%= r.focus_correct %>/<%= r.total %></td><td><%= r.pending %></td><td><a class="btn btn-sm btn-outline-dark" href="<%= url %>"><%= r.status==='submitted'?'Lihat hasil':'Lanjutkan' %></a></td></tr>
+  <% }) %></tbody>
+ </table></div>
+</main><%- include('../partials/footer') %>
